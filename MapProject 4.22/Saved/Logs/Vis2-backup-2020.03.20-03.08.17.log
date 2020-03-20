@@ -1,0 +1,1170 @@
+﻿Log file open, 03/19/20 15:28:48
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Vis2
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 6.982534
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.19-21.28.56:884][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.19-21.28.56:884][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.19-21.28.56:884][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Config/Windows/Engine.ini]
+[2020.03.19-21.28.56:884][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.19-21.28.56:884][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Config/Windows/Engine.ini]
+[2020.03.19-21.28.56:884][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Config/Windows/Engine.ini]
+[2020.03.19-21.28.56:884][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.19-21.28.56:884][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.19-21.28.56:884][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.19-21.28.56:884][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.19-21.28.56:884][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.19-21.28.56:884][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.19-21.28.56:884][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.19-21.28.56:884][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.19-21.28.56:884][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.19-21.28.56:884][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.19-21.28.56:884][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.19-21.28.56:884][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.19-21.28.56:884][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.19-21.28.56:884][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Config/Windows/Engine.ini]
+[2020.03.19-21.28.56:884][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.19-21.28.56:884][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.19-21.28.56:884][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.19-21.28.56:885][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.19-21.28.56:885][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.19-21.28.56:885][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.19-21.28.56:885][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.03.19-21.28.56:885][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.19-21.28.56:885][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.19-21.28.56:885][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.19-21.28.56:885][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.19-21.28.56:885][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.19-21.28.56:885][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.19-21.28.56:885][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Config/Windows/Engine.ini]
+[2020.03.19-21.28.56:885][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Config/Windows/Engine.ini]
+[2020.03.19-21.28.57:047][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.03.19-21.28.57:047][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.19-21.28.57:047][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.19-21.28.57:047][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.03.19-21.28.57:047][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.19-21.28.57:047][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.03.19-21.28.57:047][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.19-21.28.57:047][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.19-21.28.57:048][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.19-21.28.57:048][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.19-21.28.57:048][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.19-21.28.57:048][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.19-21.28.57:048][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.19-21.28.57:048][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.19-21.28.57:048][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.19-21.28.57:048][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.19-21.28.57:048][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.19-21.28.57:048][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.19-21.28.57:048][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.19-21.28.57:048][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.19-21.28.57:048][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.19-21.28.57:048][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.19-21.28.57:048][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.19-21.28.57:048][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.19-21.28.57:048][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.03.19-21.28.57:049][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.19-21.28.57:049][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.19-21.28.57:049][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.19-21.28.57:049][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.19-21.28.57:049][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.19-21.28.57:049][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.19-21.28.57:049][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.19-21.28.57:049][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.19-21.28.57:049][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.19-21.28.57:049][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.19-21.28.57:049][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.19-21.28.57:049][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.19-21.28.57:049][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.19-21.28.57:049][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.19-21.28.57:049][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.19-21.28.57:049][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.19-21.28.57:049][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.19-21.28.57:049][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.19-21.28.57:049][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.19-21.28.57:050][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.19-21.28.57:050][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.19-21.28.57:050][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.19-21.28.57:050][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.19-21.28.57:050][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.19-21.28.57:050][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.19-21.28.57:050][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.19-21.28.57:050][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.19-21.28.57:050][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.19-21.28.57:050][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.19-21.28.57:050][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.19-21.28.57:050][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.03.19-21.28.57:050][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.19-21.28.57:050][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.19-21.28.57:050][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.19-21.28.57:050][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.19-21.28.57:050][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.19-21.28.57:050][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.19-21.28.57:051][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.19-21.28.57:051][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.19-21.28.57:051][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.03.19-21.28.57:051][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.19-21.28.57:051][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.19-21.28.57:051][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.19-21.28.57:051][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.19-21.28.57:051][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.19-21.28.57:051][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.19-21.28.57:051][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.19-21.28.57:051][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.19-21.28.57:051][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.19-21.28.57:051][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.19-21.28.57:051][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.19-21.28.57:051][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.19-21.28.57:051][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.19-21.28.57:051][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.03.19-21.28.57:051][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.19-21.28.57:052][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.19-21.28.57:125][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.19-21.28.57:125][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.19-21.28.57:239][  0]LogHAL: Display: Platform has ~ 8 GB [8443301888 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.19-21.28.57:255][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.03.19-21.28.57:255][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.19-21.28.57:271][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.03.19-21.28.57:271][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.19-21.28.57:271][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.19-21.28.57:271][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.03.19-21.28.57:271][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.19-21.28.57:271][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.03.19-21.28.57:271][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.19-21.28.57:271][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.19-21.28.57:271][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.19-21.28.57:271][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.19-21.28.57:271][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.19-21.28.57:271][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.19-21.28.57:271][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.19-21.28.57:271][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.19-21.28.57:271][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.19-21.28.57:271][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.19-21.28.57:271][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.19-21.28.57:271][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.19-21.28.57:271][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.19-21.28.57:271][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.19-21.28.57:271][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.19-21.28.57:271][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.19-21.28.57:271][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.19-21.28.57:271][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.19-21.28.57:271][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.03.19-21.28.57:271][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.19-21.28.57:271][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.19-21.28.57:271][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.19-21.28.57:271][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.19-21.28.57:271][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.19-21.28.57:271][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.19-21.28.57:271][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.19-21.28.57:271][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.19-21.28.57:271][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.19-21.28.57:271][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.19-21.28.57:271][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.19-21.28.57:271][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.19-21.28.57:272][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.19-21.28.57:272][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.19-21.28.57:272][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.19-21.28.57:272][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.19-21.28.57:272][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.19-21.28.57:272][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.19-21.28.57:272][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.19-21.28.57:272][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.19-21.28.57:272][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.19-21.28.57:272][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.19-21.28.57:272][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.19-21.28.57:272][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.19-21.28.57:272][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.19-21.28.57:272][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.19-21.28.57:272][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.19-21.28.57:272][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.19-21.28.57:272][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.19-21.28.57:272][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.19-21.28.57:272][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.03.19-21.28.57:272][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.19-21.28.57:272][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.19-21.28.57:272][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.19-21.28.57:272][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.19-21.28.57:272][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.19-21.28.57:272][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.19-21.28.57:272][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.19-21.28.57:272][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.19-21.28.57:272][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.03.19-21.28.57:272][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.19-21.28.57:272][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.19-21.28.57:272][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.19-21.28.57:272][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.19-21.28.57:272][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.19-21.28.57:272][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.19-21.28.57:272][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.19-21.28.57:272][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.19-21.28.57:272][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.19-21.28.57:272][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.19-21.28.57:272][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.19-21.28.57:272][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.19-21.28.57:272][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.19-21.28.57:272][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.03.19-21.28.57:272][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.19-21.28.57:272][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.19-21.28.57:272][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.19-21.28.57:328][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.19-21.28.57:328][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.03.19-21.28.57:328][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Config/Windows/Engine.ini]
+[2020.03.19-21.28.57:424][  0]LogInit: Computer: DESKTOP-8J0KLND
+[2020.03.19-21.28.57:424][  0]LogInit: User: ayala
+[2020.03.19-21.28.57:424][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.03.19-21.28.57:424][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.19-21.28.57:426][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.03.19-21.28.57:426][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.19-21.28.57:426][  0]LogMemory: Process Physical Memory: 96.14 MB used, 96.14 MB peak
+[2020.03.19-21.28.57:426][  0]LogMemory: Process Virtual Memory: 90.30 MB used, 90.30 MB peak
+[2020.03.19-21.28.57:426][  0]LogMemory: Physical Memory: 4302.47 MB used,  3749.69 MB free, 8052.16 MB total
+[2020.03.19-21.28.57:426][  0]LogMemory: Virtual Memory: 4643.80 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2020.03.19-21.29.00:735][  0]LogInit: Using OS detected language (es-MX).
+[2020.03.19-21.29.00:735][  0]LogInit: Using OS detected locale (es-MX).
+[2020.03.19-21.29.00:942][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/es-MX/Editor.locres' could not be opened for reading!
+[2020.03.19-21.29.00:942][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/es-MX/EditorTutorials.locres' could not be opened for reading!
+[2020.03.19-21.29.00:943][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/es-MX/Keywords.locres' could not be opened for reading!
+[2020.03.19-21.29.00:943][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/es-MX/Category.locres' could not be opened for reading!
+[2020.03.19-21.29.00:959][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/es-MX/ToolTips.locres' could not be opened for reading!
+[2020.03.19-21.29.00:960][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/es-MX/PropertyNames.locres' could not be opened for reading!
+[2020.03.19-21.29.00:960][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/es-MX/Engine.locres' could not be opened for reading!
+[2020.03.19-21.29.00:961][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/es-MX/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2020.03.19-21.29.00:961][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/es-MX/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2020.03.19-21.29.00:980][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/es-MX/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2020.03.19-21.29.01:997][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.19-21.29.04:986][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.19-21.29.04:986][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.19-21.29.08:981][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.19-21.29.08:981][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.19-21.29.09:208][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2020.03.19-21.29.09:208][  0]LogD3D11RHI:       6052/0/4026 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.03.19-21.29.09:229][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.03.19-21.29.09:229][  0]LogD3D11RHI:       128/0/4026 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.03.19-21.29.09:232][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.19-21.29.09:232][  0]LogD3D11RHI:       0/0/4026 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.19-21.29.09:232][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.19-21.29.09:262][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.19-21.29.09:262][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2020.03.19-21.29.09:262][  0]LogWindows: EnumDisplayDevices:
+[2020.03.19-21.29.09:262][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.03.19-21.29.09:263][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.03.19-21.29.09:263][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.03.19-21.29.09:263][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.03.19-21.29.09:263][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.03.19-21.29.09:264][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.03.19-21.29.09:264][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.03.19-21.29.09:264][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.03.19-21.29.09:264][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2020.03.19-21.29.09:264][  0]LogD3D11RHI:   Driver Version: 441.66 (internal:26.21.14.4166, unified:441.66)
+[2020.03.19-21.29.09:264][  0]LogD3D11RHI:      Driver Date: 12-6-2019
+[2020.03.19-21.29.09:264][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.03.19-21.29.09:434][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.19-21.29.09:888][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.19-21.29.09:906][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.19-21.29.09:906][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.19-21.29.10:100][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 5)
+[2020.03.19-21.29.13:597][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.03.19-21.29.13:672][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.03.19-21.29.13:748][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.03.19-21.29.13:782][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.03.19-21.29.13:982][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.03.19-21.29.14:119][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.03.19-21.29.14:215][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.19-21.29.14:336][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.03.19-21.29.14:352][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.03.19-21.29.14:615][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.03.19-21.29.14:615][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.03.19-21.29.14:615][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.03.19-21.29.14:615][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.03.19-21.29.14:615][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.03.19-21.29.14:615][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.03.19-21.29.14:615][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.03.19-21.29.14:615][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.03.19-21.29.14:615][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.03.19-21.29.14:616][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.19-21.29.14:616][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.03.19-21.29.14:616][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.03.19-21.29.14:616][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.19-21.29.14:616][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.19-21.29.14:616][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.19-21.29.14:616][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.19-21.29.14:616][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.03.19-21.29.14:616][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.03.19-21.29.14:659][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.03.19-21.29.15:099][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.03.19-21.29.15:099][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.03.19-21.29.15:250][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.03.19-21.29.15:250][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.03.19-21.29.15:281][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.03.19-21.29.15:303][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.19-21.29.15:378][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.03.19-21.29.15:524][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.03.19-21.29.15:622][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.03.19-21.29.15:622][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.03.19-21.29.15:622][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.19-21.29.16:544][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.19-21.29.18:753][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Intermediate/Shaders/WorkingDirectory/6856/).
+[2020.03.19-21.29.18:753][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ayala/AppData/Local/Temp/UnrealShaderWorkingDir/CF93338342CD12C4A0C16CAD604DC979/'.
+[2020.03.19-21.29.18:854][  0]LogXGEController: Cleaning working directory: C:/Users/ayala/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.03.19-21.29.18:855][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.19-21.29.18:856][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.19-21.29.18:856][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.19-21.29.25:912][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.19-21.29.27:689][  0]LogDerivedDataCache: Loaded boot cache 1.70s 73MB C:/Users/ayala/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.03.19-21.29.27:690][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ayala/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.03.19-21.29.27:690][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.19-21.29.27:690][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.19-21.29.27:690][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.19-21.29.27:690][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.19-21.29.27:985][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.19-21.29.27:985][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.19-21.29.27:985][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.19-21.29.28:102][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ayala/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.19-21.29.28:102][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.19-21.29.28:102][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.19-21.29.28:355][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.19-21.29.28:609][  0]LogSlate: Using FreeType 2.6.0
+[2020.03.19-21.29.29:047][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.19-21.29.34:422][  0]LogAssetRegistry: FAssetRegistry took 0.0521 seconds to start up
+[2020.03.19-21.29.41:999][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.19-21.29.47:779][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.19-21.29.47:779][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.03.19-21.29.47:779][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.19-21.29.47:779][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.03.19-21.29.47:780][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.03.19-21.29.48:756][  0]LogNetVersion: Vis2 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1012566908)
+[2020.03.19-21.30.01:491][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 2 prioritized culture(s) in 0.159740 seconds
+[2020.03.19-21.30.01:518][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.03.19-21.30.01:518][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.03.19-21.30.01:518][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.19-21.30.39:008][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.19-21.30.39:205][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.19-21.30.41:562][  0]SourceControl: El control de código fuente está desactivado
+[2020.03.19-21.30.41:599][  0]SourceControl: El control de código fuente está desactivado
+[2020.03.19-21.30.42:100][  0]SourceControl: El control de código fuente está desactivado
+[2020.03.19-21.30.42:279][  0]SourceControl: El control de código fuente está desactivado
+[2020.03.19-21.30.42:373][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.03.19-21.30.42:373][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.03.19-21.30.45:847][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.19-21.30.47:377][  0]LogOcInput: OculusInput pre-init called
+[2020.03.19-21.30.51:149][  0]LogEngine: Initializing Engine...
+[2020.03.19-21.30.51:194][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.19-21.30.51:196][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2020.03.19-21.30.53:229][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.19-21.30.54:311][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.19-21.30.54:835][  0]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.19-21.30.55:067][  0]LogInit: FAudioDevice initialized.
+[2020.03.19-21.30.55:067][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.19-21.30.55:590][  0]LogDerivedDataCache: Saved boot cache 0.52s 73MB C:/Users/ayala/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.03.19-21.30.55:608][  0]LogInit: Texture streaming: Enabled
+[2020.03.19-21.30.56:539][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.19-21.30.56:539][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={7D10B291-44BC-2E31-BC41-99838652341E}
+[2020.03.19-21.30.57:255][  0]LogInit: Transaction tracking system initialized
+[2020.03.19-21.30.58:885][  0]BlueprintLog: New page: Cargar el editor
+[2020.03.19-21.31.02:158][  0]LocalizationService: Localization service is disabled
+[2020.03.19-21.31.04:282][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.03.19-21.31.04:283][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.03.19-21.31.08:859][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/' took 0.02s
+[2020.03.19-21.31.08:859][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.19-21.31.08:859][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.19-21.31.16:454][  0]SourceControl: El control de código fuente está desactivado
+[2020.03.19-21.31.16:519][  0]Cmd: MAP LOAD FILE="../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.19-21.31.16:597][  0]LightingResults: New page: Diseñar la iluminación
+[2020.03.19-21.31.16:892][  0]MapCheck: New page: Revisión del mapa
+[2020.03.19-21.31.16:892][  0]LightingResults: New page: Diseñar la iluminación
+[2020.03.19-21.31.17:592][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.03.19-21.31.21:121][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2020.03.19-21.31.21:121][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' mientras carga NULL.
+[2020.03.19-21.31.30:096][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2020.03.19-21.31.30:096][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' mientras carga NULL.
+[2020.03.19-21.31.32:241][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2020.03.19-21.31.32:242][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' mientras carga NULL.
+[2020.03.19-21.31.32:242][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2020.03.19-21.31.32:242][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' mientras carga NULL.
+[2020.03.19-21.31.32:464][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2020.03.19-21.31.32:464][  0]LoadErrors: Error al cargar /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData Referenciado por PersistentLevel
+[2020.03.19-21.31.32:464][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' mientras carga NULL.
+[2020.03.19-21.31.54:370][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.03.19-21.31.56:719][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.19-21.31.57:045][  0]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2020.03.19-21.31.57:046][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.19-21.31.57:046][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.572ms to complete.
+[2020.03.19-21.31.57:046][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 40.573
+[2020.03.19-21.32.00:495][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.19-21.32.00:538][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.19-21.32.00:551][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.19-21.32.00:564][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.19-21.32.00:961][  0]LogCollectionManager: Loaded 0 collections in 0.002738 seconds
+[2020.03.19-21.32.01:317][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Collections/' took 0.01s
+[2020.03.19-21.32.01:317][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/Developers/ayala/Collections/' took 0.01s
+[2020.03.19-21.32.01:317][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/Collections/' took 0.00s
+[2020.03.19-21.32.01:317][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.03.19-21.32.01:381][  0]LogContentBrowser: Native class hierarchy populated in 0.0201 seconds. Added 2732 classes and 659 folders.
+[2020.03.19-21.32.01:666][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.19-21.32.01:971][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.19-21.32.02:251][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.19-21.32.02:427][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.19-21.32.02:443][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.19-21.32.02:459][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.19-21.32.02:472][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.19-21.32.02:481][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.19-21.32.02:492][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.19-21.32.02:505][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.19-21.32.02:518][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.19-21.32.02:548][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.19-21.32.02:556][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.19-21.32.02:567][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.19-21.32.02:577][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.19-21.32.02:584][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.19-21.32.02:592][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.19-21.32.02:769][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.19-21.32.02:777][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.19-21.32.02:785][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.19-21.32.02:793][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.19-21.32.02:847][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.19-21.32.02:883][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.19-21.32.02:904][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.19-21.32.02:924][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.19-21.32.02:949][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.19-21.32.02:964][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.19-21.32.06:252][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.19-21.32.06:565][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2020.03.19-21.32.07:806][  0]LogSlate: Took 0.098293 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.19-21.32.08:172][  0]LogSlate: Took 0.364042 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.19-21.32.08:231][  0]LogSlate: Took 0.046538 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.19-21.32.09:392][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:1).
+[2020.03.19-21.32.10:728][  0]LogSlate: Took 0.025503 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.19-21.32.11:444][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.19-21.32.11:444][  0]LogLoad: (Engine Initialization) Total time: 232.43 seconds
+[2020.03.19-21.32.11:444][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.19-21.32.12:227][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.03.19-21.32.12:248][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.19-21.32.12:848][  1]LogAssetRegistry: Asset discovery search completed in 158.4499 seconds
+[2020.03.19-21.32.12:925][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.03.19-21.32.12:925][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000059 seconds (updated 0 objects)
+[2020.03.19-21.32.13:232][  2]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.19-21.35.06:203][602]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.20-00.54.56:763][347]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.03.20-00.54.57:418][347]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.03.20-00.55.01:655][347]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.20-01.58.11:800][388]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (19.055 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.03.20-02.44.05:001][592]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.20-02.44.10:247][594]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.20-02.45.11:482][712]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (32.691 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.03.20-02.51.29:341][908]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.20-02.51.48:238][525]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2020.03.20-02.51.59:193][677]Cmd: DELETE
+[2020.03.20-02.51.59:204][677]Cmd: ACTOR DELETE
+[2020.03.20-02.52.01:033][677]LogEditorActor: Deleted Actor: FirstPersonCharacter_C
+[2020.03.20-02.52.03:229][677]LogUObjectHash: Compacting FUObjectHashTables data took 265.99ms
+[2020.03.20-02.52.03:454][677]LogEditorActor: Deleted 1 Actors (2.782 secs)
+[2020.03.20-02.52.05:712][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.20-02.52.07:047][747]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.20-02.52.07:632][747]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.20-02.52.07:724][747]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.20-02.52.08:066][747]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (19/03/2020 14:52:07)
+[2020.03.20-02.52.09:232][747]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.20-02.52.11:878][747]LogPlayLevel: PIE: StaticDuplicateObject took: (2.643830s)
+[2020.03.20-02.52.12:665][747]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.03.20-02.52.13:020][747]LogPlayLevel: PIE: World Init took: (1.142751s)
+[2020.03.20-02.52.13:020][747]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (3.788568s)
+[2020.03.20-02.52.13:540][747]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.03.20-02.52.14:245][747]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.20-02.52.14:673][747]LogInit: FAudioDevice initialized.
+[2020.03.20-02.52.15:503][747]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.20-02.52.16:387][747]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.03.19-20.52.16
+[2020.03.20-02.52.16:563][747]LogWorld: Bringing up level for play took: 0.970801
+[2020.03.20-02.52.16:905][747]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.03.20-02.52.18:037][747]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0942 seconds. Added 20 classes and 0 folders.
+[2020.03.20-02.52.18:240][747]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [FirstPersonCharacter_C]
+[2020.03.20-02.52.18:241][747]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type FirstPersonCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 0.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2020.03.20-02.52.18:295][747]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 11.242
+[2020.03.20-02.52.18:297][747]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.20-02.52.19:208][748]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (53.185 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.03.20-02.52.25:280][957]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.20-02.52.25:280][957]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.20-02.52.28:137][957]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.20-02.52.28:137][957]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.20-02.52.28:509][957]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.20-02.52.28:723][957]LogUObjectHash: Compacting FUObjectHashTables data took   5.57ms
+[2020.03.20-02.52.29:048][958]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.03.20-02.52.48:192][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.20-02.53.02:866][609]LogSlate: Took 0.434717 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.20-02.55.01:463][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.03.20-02.55.21:062][301]LogSavePackage: Moving '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/FirstPersonExampleMap_Auto1F4921638478B6096383A92A0D28CF7A3.tmp' to '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2020.03.20-02.55.21:683][301]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 20.375
+[2020.03.20-02.55.21:683][301]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 20.375
+[2020.03.20-02.56.11:479][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (49.569 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.03.20-02.57.47:759][ 88]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.03.20-02.57.49:688][147]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.20-02.57.49:704][147]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.20-02.57.49:704][147]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.20-02.57.49:704][147]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (19/03/2020 14:57:49)
+[2020.03.20-02.57.49:704][147]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.20-02.57.49:768][147]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063412s)
+[2020.03.20-02.57.49:768][147]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.03.20-02.57.49:769][147]LogPlayLevel: PIE: World Init took: (0.000838s)
+[2020.03.20-02.57.49:769][147]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.064587s)
+[2020.03.20-02.57.51:549][147]LogUObjectHash: Compacting FUObjectHashTables data took 104.52ms
+[2020.03.20-02.57.51:564][147]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.20-02.57.51:677][147]LogInit: FAudioDevice initialized.
+[2020.03.20-02.57.51:744][147]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.20-02.57.51:777][147]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.03.19-20.57.51
+[2020.03.20-02.57.51:779][147]LogWorld: Bringing up level for play took: 0.032561
+[2020.03.20-02.57.51:993][147]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 2.949
+[2020.03.20-02.57.51:994][147]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.20-02.58.35:518][253]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.20-02.58.35:519][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.20-02.58.36:371][253]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.20-02.58.36:372][253]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.20-02.58.36:438][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.20-02.58.36:522][253]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.03.20-02.58.36:546][254]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.03.20-02.58.39:321][378]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.20-02.58.40:765][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.03.20-02.58.42:321][384]LogSavePackage: Moving '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/FirstPersonExampleMapA3080BB6441CD0AB05D2CD9F8B5077FB.tmp' to '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.03.20-02.59.44:867][498]LogLinker: Warning: Asset '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/Platform.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.20-02.59.44:867][498]LogLinker: Warning: Unable to load package (../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/Platform.uasset) PackageVersion 518, MaxExpected 517 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.03.20-02.59.44:868][498]LogLinker: Warning: Asset '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/Platform.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.20-02.59.44:868][498]LogLinker: Warning: Unable to load package (../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/Platform.uasset) PackageVersion 518, MaxExpected 517 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.03.20-02.59.44:868][498]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Object /Game/ThirdPersonBP/Platform.Platform'
+[2020.03.20-02.59.44:984][498]LogLinker: Warning: Asset '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/Canister_Emissions.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.20-02.59.44:984][498]LogLinker: Warning: Unable to load package (../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/Canister_Emissions.uasset) PackageVersion 518, MaxExpected 517 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.03.20-02.59.44:985][498]LogLinker: Warning: Asset '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/Canister_Emissions.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.20-02.59.44:986][498]LogLinker: Warning: Unable to load package (../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/Canister_Emissions.uasset) PackageVersion 518, MaxExpected 517 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.03.20-02.59.44:986][498]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Object /Game/ThirdPersonBP/Canister_Emissions.Canister_Emissions'
+[2020.03.20-02.59.44:987][498]LogLinker: Warning: Asset '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/Canister_UV.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.20-02.59.44:987][498]LogLinker: Warning: Unable to load package (../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/Canister_UV.uasset) PackageVersion 518, MaxExpected 517 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.03.20-02.59.44:988][498]LogLinker: Warning: Asset '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/Canister_UV.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.20-02.59.44:988][498]LogLinker: Warning: Unable to load package (../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/Canister_UV.uasset) PackageVersion 518, MaxExpected 517 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.03.20-02.59.44:988][498]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Object /Game/ThirdPersonBP/Canister_UV.Canister_UV'
+[2020.03.20-02.59.44:989][498]LogLinker: Warning: Asset '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/Energy_cell.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.20-02.59.44:990][498]LogLinker: Warning: Unable to load package (../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/Energy_cell.uasset) PackageVersion 518, MaxExpected 517 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.03.20-02.59.44:990][498]LogLinker: Warning: Asset '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/Energy_cell.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.20-02.59.44:990][498]LogLinker: Warning: Unable to load package (../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/Energy_cell.uasset) PackageVersion 518, MaxExpected 517 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.03.20-02.59.44:990][498]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Object /Game/ThirdPersonBP/Energy_cell.Energy_cell'
+[2020.03.20-02.59.44:992][498]LogLinker: Warning: Asset '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/lambert1.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.20-02.59.44:992][498]LogLinker: Warning: Unable to load package (../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/lambert1.uasset) PackageVersion 518, MaxExpected 517 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.03.20-02.59.44:993][498]LogLinker: Warning: Asset '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/lambert1.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.20-02.59.44:993][498]LogLinker: Warning: Unable to load package (../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/lambert1.uasset) PackageVersion 518, MaxExpected 517 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.03.20-02.59.44:993][498]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Object /Game/ThirdPersonBP/lambert1.lambert1'
+[2020.03.20-02.59.44:994][498]LogLinker: Warning: Asset '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/M_Energy_Cell.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.20-02.59.44:994][498]LogLinker: Warning: Unable to load package (../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/M_Energy_Cell.uasset) PackageVersion 518, MaxExpected 517 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.03.20-02.59.44:995][498]LogLinker: Warning: Asset '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/M_Energy_Cell.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.20-02.59.44:995][498]LogLinker: Warning: Unable to load package (../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/M_Energy_Cell.uasset) PackageVersion 518, MaxExpected 517 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.03.20-02.59.44:996][498]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Object /Game/ThirdPersonBP/M_Energy_Cell.M_Energy_Cell'
+[2020.03.20-02.59.44:997][498]LogLinker: Warning: Asset '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/pasted__blinn2.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.20-02.59.44:997][498]LogLinker: Warning: Unable to load package (../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/pasted__blinn2.uasset) PackageVersion 518, MaxExpected 517 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.03.20-02.59.44:998][498]LogLinker: Warning: Asset '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/pasted__blinn2.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.20-02.59.44:998][498]LogLinker: Warning: Unable to load package (../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/pasted__blinn2.uasset) PackageVersion 518, MaxExpected 517 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.03.20-02.59.44:998][498]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Object /Game/ThirdPersonBP/pasted__blinn2.pasted__blinn2'
+[2020.03.20-02.59.44:999][498]LogLinker: Warning: Asset '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/pasted__blinn3.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.20-02.59.44:999][498]LogLinker: Warning: Unable to load package (../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/pasted__blinn3.uasset) PackageVersion 518, MaxExpected 517 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.03.20-02.59.45:000][498]LogLinker: Warning: Asset '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/pasted__blinn3.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.20-02.59.45:000][498]LogLinker: Warning: Unable to load package (../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/pasted__blinn3.uasset) PackageVersion 518, MaxExpected 517 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.03.20-02.59.45:000][498]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Object /Game/ThirdPersonBP/pasted__blinn3.pasted__blinn3'
+[2020.03.20-02.59.45:001][498]LogLinker: Warning: Asset '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/pasted__blinn4.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.20-02.59.45:001][498]LogLinker: Warning: Unable to load package (../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/pasted__blinn4.uasset) PackageVersion 518, MaxExpected 517 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.03.20-02.59.45:002][498]LogLinker: Warning: Asset '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/pasted__blinn4.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.20-02.59.45:002][498]LogLinker: Warning: Unable to load package (../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/pasted__blinn4.uasset) PackageVersion 518, MaxExpected 517 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.03.20-02.59.45:002][498]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Object /Game/ThirdPersonBP/pasted__blinn4.pasted__blinn4'
+[2020.03.20-02.59.45:003][498]LogLinker: Warning: Asset '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/pasted__blinn5.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.20-02.59.45:003][498]LogLinker: Warning: Unable to load package (../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/pasted__blinn5.uasset) PackageVersion 518, MaxExpected 517 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.03.20-02.59.45:004][498]LogLinker: Warning: Asset '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/pasted__blinn5.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.20-02.59.45:004][498]LogLinker: Warning: Unable to load package (../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/pasted__blinn5.uasset) PackageVersion 518, MaxExpected 517 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.03.20-02.59.45:004][498]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Object /Game/ThirdPersonBP/pasted__blinn5.pasted__blinn5'
+[2020.03.20-02.59.45:006][498]LogLinker: Warning: Asset '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/pasted__pasted__blinn4.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.20-02.59.45:006][498]LogLinker: Warning: Unable to load package (../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/pasted__pasted__blinn4.uasset) PackageVersion 518, MaxExpected 517 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.03.20-02.59.45:346][498]LogLinker: Warning: Asset '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/pasted__pasted__blinn4.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.20-02.59.45:346][498]LogLinker: Warning: Unable to load package (../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/pasted__pasted__blinn4.uasset) PackageVersion 518, MaxExpected 517 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.03.20-02.59.45:346][498]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Object /Game/ThirdPersonBP/pasted__pasted__blinn4.pasted__pasted__blinn4'
+[2020.03.20-02.59.45:347][498]LogLinker: Warning: Asset '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/pasted__phong1.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.20-02.59.45:347][498]LogLinker: Warning: Unable to load package (../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/pasted__phong1.uasset) PackageVersion 518, MaxExpected 517 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.03.20-02.59.45:348][498]LogLinker: Warning: Asset '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/pasted__phong1.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.20-02.59.45:348][498]LogLinker: Warning: Unable to load package (../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/pasted__phong1.uasset) PackageVersion 518, MaxExpected 517 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.03.20-02.59.45:348][498]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Object /Game/ThirdPersonBP/pasted__phong1.pasted__phong1'
+[2020.03.20-02.59.45:349][498]LogLinker: Warning: Asset '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/pasted__phong2.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.20-02.59.45:349][498]LogLinker: Warning: Unable to load package (../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/pasted__phong2.uasset) PackageVersion 518, MaxExpected 517 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.03.20-02.59.45:350][498]LogLinker: Warning: Asset '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/pasted__phong2.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.20-02.59.45:350][498]LogLinker: Warning: Unable to load package (../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/pasted__phong2.uasset) PackageVersion 518, MaxExpected 517 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.03.20-02.59.45:350][498]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Object /Game/ThirdPersonBP/pasted__phong2.pasted__phong2'
+[2020.03.20-03.00.03:598][522]LogLinker: Warning: Asset '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/Platform.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.20-03.00.03:598][522]LogLinker: Warning: Unable to load package (../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/Platform.uasset) PackageVersion 518, MaxExpected 517 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.03.20-03.00.03:598][522]LogLinker: Warning: Asset '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/Canister_Emissions.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.20-03.00.03:598][522]LogLinker: Warning: Unable to load package (../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/Canister_Emissions.uasset) PackageVersion 518, MaxExpected 517 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.03.20-03.00.03:599][522]LogLinker: Warning: Asset '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/Canister_UV.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.20-03.00.03:599][522]LogLinker: Warning: Unable to load package (../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/Canister_UV.uasset) PackageVersion 518, MaxExpected 517 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.03.20-03.00.03:599][522]LogLinker: Warning: Asset '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/Energy_cell.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.20-03.00.03:599][522]LogLinker: Warning: Unable to load package (../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/Energy_cell.uasset) PackageVersion 518, MaxExpected 517 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.03.20-03.00.03:600][522]LogLinker: Warning: Asset '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/lambert1.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.20-03.00.03:600][522]LogLinker: Warning: Unable to load package (../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/lambert1.uasset) PackageVersion 518, MaxExpected 517 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.03.20-03.00.03:600][522]LogLinker: Warning: Asset '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/M_Energy_Cell.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.20-03.00.03:600][522]LogLinker: Warning: Unable to load package (../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/M_Energy_Cell.uasset) PackageVersion 518, MaxExpected 517 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.03.20-03.00.03:600][522]LogLinker: Warning: Asset '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/pasted__blinn2.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.20-03.00.03:601][522]LogLinker: Warning: Unable to load package (../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/pasted__blinn2.uasset) PackageVersion 518, MaxExpected 517 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.03.20-03.00.03:601][522]LogLinker: Warning: Asset '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/pasted__blinn3.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.20-03.00.03:601][522]LogLinker: Warning: Unable to load package (../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/pasted__blinn3.uasset) PackageVersion 518, MaxExpected 517 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.03.20-03.00.03:602][522]LogLinker: Warning: Asset '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/pasted__blinn4.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.20-03.00.03:602][522]LogLinker: Warning: Unable to load package (../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/pasted__blinn4.uasset) PackageVersion 518, MaxExpected 517 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.03.20-03.00.03:602][522]LogLinker: Warning: Asset '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/pasted__blinn5.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.20-03.00.03:602][522]LogLinker: Warning: Unable to load package (../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/pasted__blinn5.uasset) PackageVersion 518, MaxExpected 517 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.03.20-03.00.03:603][522]LogLinker: Warning: Asset '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/pasted__pasted__blinn4.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.20-03.00.03:603][522]LogLinker: Warning: Unable to load package (../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/pasted__pasted__blinn4.uasset) PackageVersion 518, MaxExpected 517 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.03.20-03.00.03:603][522]LogLinker: Warning: Asset '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/pasted__phong1.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.20-03.00.03:603][522]LogLinker: Warning: Unable to load package (../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/pasted__phong1.uasset) PackageVersion 518, MaxExpected 517 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.03.20-03.00.03:604][522]LogLinker: Warning: Asset '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/pasted__phong2.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.20-03.00.03:604][522]LogLinker: Warning: Unable to load package (../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/ThirdPersonBP/pasted__phong2.uasset) PackageVersion 518, MaxExpected 517 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.03.20-03.02.20:539][824]LogSlate: Window 'Registro del mensaje' being destroyed
+[2020.03.20-03.02.20:696][824]LogSlate: Window 'Registro del mensaje' being destroyed
+[2020.03.20-03.04.49:051][433]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.20-03.04.49:069][433]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.20-03.04.49:069][433]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.20-03.04.49:070][433]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (19/03/2020 15:04:49)
+[2020.03.20-03.04.49:070][433]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.20-03.04.49:139][433]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070069s)
+[2020.03.20-03.04.49:140][433]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.03.20-03.04.49:140][433]LogPlayLevel: PIE: World Init took: (0.000844s)
+[2020.03.20-03.04.49:140][433]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.071269s)
+[2020.03.20-03.04.50:122][433]LogUObjectHash: Compacting FUObjectHashTables data took   6.52ms
+[2020.03.20-03.04.50:136][433]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.20-03.04.50:210][433]LogInit: FAudioDevice initialized.
+[2020.03.20-03.04.50:242][433]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.20-03.04.50:423][433]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.03.19-21.04.50
+[2020.03.20-03.04.50:425][433]LogWorld: Bringing up level for play took: 0.181975
+[2020.03.20-03.04.50:458][433]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.415
+[2020.03.20-03.04.50:459][433]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.20-03.04.57:325][768]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.20-03.04.57:326][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.20-03.04.57:474][768]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.20-03.04.57:474][768]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.20-03.04.58:422][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.20-03.04.58:437][768]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2020.03.20-03.04.58:542][769]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.03.20-03.05.04:735][969]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.20-03.05.22:038][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.03.20-03.05.23:249][686]LogSavePackage: Moving '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/FirstPersonExampleMap51D6E4D94E48063F0D3FDB89DF7F8ACC.tmp' to '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.03.20-03.05.24:395][734]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.20-03.05.24:601][734]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.20-03.05.24:601][734]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.20-03.05.24:601][734]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (19/03/2020 15:05:24)
+[2020.03.20-03.05.24:601][734]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.20-03.05.24:663][734]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061443s)
+[2020.03.20-03.05.24:663][734]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.03.20-03.05.24:663][734]LogPlayLevel: PIE: World Init took: (0.000653s)
+[2020.03.20-03.05.24:664][734]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.062421s)
+[2020.03.20-03.05.24:697][734]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.03.20-03.05.24:702][734]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.20-03.05.25:730][734]LogInit: FAudioDevice initialized.
+[2020.03.20-03.05.25:770][734]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.20-03.05.25:904][734]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.03.19-21.05.25
+[2020.03.20-03.05.25:906][734]LogWorld: Bringing up level for play took: 0.120822
+[2020.03.20-03.05.25:923][734]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.88
+[2020.03.20-03.05.25:924][734]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.20-03.05.47:466][894]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.20-03.05.47:466][894]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.20-03.05.47:642][894]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.20-03.05.47:642][894]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.20-03.05.47:693][894]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.20-03.05.47:699][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.03.20-03.05.47:765][895]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.03.20-03.05.55:511][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.20-03.05.59:063][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.03.20-03.05.59:843][363]LogSlate: Window 'Vis2 - Unreal Editor' being destroyed
+[2020.03.20-03.05.59:955][363]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.03.20-03.06.02:096][364]Cmd: QUIT_EDITOR
+[2020.03.20-03.06.05:953][364]LogExit: Preparing to exit.
+[2020.03.20-03.06.42:153][364]LogExit: Editor shut down
+[2020.03.20-03.06.42:296][364]LogExit: Transaction tracking system shut down
+[2020.03.20-03.07.25:069][364]LogExit: Object subsystem successfully closed.
+[2020.03.20-03.07.26:807][364]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.03.20-03.07.27:681][364]LogD3D11RHI: Shutdown
+[2020.03.20-03.07.27:681][364]LogD3D11RHI: CleanupD3DDevice
+[2020.03.20-03.07.28:833][364]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.03.20-03.07.28:833][364]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.03.20-03.07.28:897][364]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.03.20-03.07.28:897][364]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.03.20-03.07.28:897][364]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.03.20-03.07.28:897][364]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.03.20-03.07.36:593][364]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.03.20-03.07.53:791][364]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (646)
+[2020.03.20-03.07.53:791][364]LogModuleManager: Shutting down and abandoning module Voice (644)
+[2020.03.20-03.07.53:836][364]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (642)
+[2020.03.20-03.07.53:886][364]LogModuleManager: Shutting down and abandoning module SceneOutliner (640)
+[2020.03.20-03.07.53:886][364]LogModuleManager: Shutting down and abandoning module AddContentDialog (638)
+[2020.03.20-03.07.54:762][364]LogModuleManager: Shutting down and abandoning module WidgetCarousel (637)
+[2020.03.20-03.07.54:762][364]LogModuleManager: Shutting down and abandoning module EditorWidgets (634)
+[2020.03.20-03.07.54:762][364]LogModuleManager: Shutting down and abandoning module CollectionManager (632)
+[2020.03.20-03.07.54:797][364]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2020.03.20-03.07.54:821][364]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2020.03.20-03.07.54:821][364]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2020.03.20-03.07.55:861][364]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2020.03.20-03.07.55:902][364]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2020.03.20-03.07.55:902][364]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2020.03.20-03.07.55:902][364]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2020.03.20-03.07.55:931][364]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2020.03.20-03.07.55:931][364]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2020.03.20-03.07.55:998][364]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2020.03.20-03.07.56:396][364]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2020.03.20-03.07.56:396][364]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2020.03.20-03.07.56:596][364]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2020.03.20-03.07.56:596][364]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2020.03.20-03.07.56:596][364]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2020.03.20-03.07.56:757][364]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2020.03.20-03.07.57:673][364]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2020.03.20-03.07.57:673][364]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2020.03.20-03.07.57:871][364]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2020.03.20-03.07.57:943][364]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2020.03.20-03.07.57:943][364]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2020.03.20-03.07.57:943][364]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2020.03.20-03.07.57:943][364]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2020.03.20-03.07.57:944][364]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2020.03.20-03.07.57:944][364]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2020.03.20-03.07.58:019][364]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2020.03.20-03.07.58:356][364]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2020.03.20-03.07.58:366][364]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2020.03.20-03.07.58:366][364]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2020.03.20-03.07.58:366][364]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2020.03.20-03.07.58:404][364]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2020.03.20-03.07.58:404][364]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2020.03.20-03.07.58:404][364]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2020.03.20-03.07.58:404][364]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2020.03.20-03.07.58:404][364]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2020.03.20-03.07.58:404][364]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2020.03.20-03.07.58:404][364]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2020.03.20-03.07.58:404][364]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2020.03.20-03.07.58:404][364]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2020.03.20-03.07.58:404][364]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2020.03.20-03.07.58:404][364]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2020.03.20-03.07.58:404][364]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2020.03.20-03.07.58:404][364]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2020.03.20-03.07.58:404][364]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2020.03.20-03.07.58:466][364]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2020.03.20-03.07.58:561][364]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2020.03.20-03.07.58:823][364]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2020.03.20-03.07.58:909][364]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2020.03.20-03.07.59:356][364]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2020.03.20-03.07.59:391][364]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2020.03.20-03.07.59:391][364]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2020.03.20-03.07.59:471][364]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2020.03.20-03.07.59:471][364]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2020.03.20-03.07.59:485][364]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2020.03.20-03.07.59:821][364]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2020.03.20-03.07.59:919][364]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2020.03.20-03.07.59:919][364]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2020.03.20-03.07.59:919][364]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2020.03.20-03.07.59:920][364]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2020.03.20-03.08.00:013][364]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2020.03.20-03.08.00:061][364]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2020.03.20-03.08.00:110][364]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2020.03.20-03.08.00:143][364]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2020.03.20-03.08.00:156][364]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2020.03.20-03.08.00:156][364]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2020.03.20-03.08.00:158][364]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2020.03.20-03.08.00:304][364]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2020.03.20-03.08.00:340][364]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2020.03.20-03.08.00:364][364]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2020.03.20-03.08.00:364][364]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2020.03.20-03.08.00:446][364]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2020.03.20-03.08.00:483][364]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2020.03.20-03.08.00:680][364]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2020.03.20-03.08.00:765][364]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2020.03.20-03.08.00:788][364]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2020.03.20-03.08.00:858][364]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2020.03.20-03.08.01:045][364]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2020.03.20-03.08.01:166][364]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2020.03.20-03.08.01:246][364]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2020.03.20-03.08.01:286][364]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2020.03.20-03.08.01:409][364]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2020.03.20-03.08.01:409][364]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2020.03.20-03.08.01:470][364]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2020.03.20-03.08.01:470][364]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2020.03.20-03.08.01:692][364]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2020.03.20-03.08.02:081][364]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2020.03.20-03.08.02:081][364]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2020.03.20-03.08.02:081][364]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2020.03.20-03.08.02:445][364]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2020.03.20-03.08.02:780][364]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2020.03.20-03.08.02:782][364]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2020.03.20-03.08.02:851][364]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2020.03.20-03.08.02:929][364]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2020.03.20-03.08.02:989][364]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2020.03.20-03.08.03:003][364]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2020.03.20-03.08.03:062][364]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2020.03.20-03.08.03:062][364]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2020.03.20-03.08.03:196][364]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2020.03.20-03.08.03:196][364]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2020.03.20-03.08.03:247][364]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2020.03.20-03.08.03:271][364]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2020.03.20-03.08.03:299][364]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2020.03.20-03.08.03:299][364]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2020.03.20-03.08.03:299][364]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2020.03.20-03.08.03:299][364]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2020.03.20-03.08.03:299][364]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2020.03.20-03.08.03:299][364]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2020.03.20-03.08.03:314][364]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2020.03.20-03.08.03:314][364]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2020.03.20-03.08.03:341][364]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2020.03.20-03.08.03:356][364]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2020.03.20-03.08.03:436][364]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2020.03.20-03.08.03:566][364]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2020.03.20-03.08.04:040][364]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2020.03.20-03.08.04:105][364]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2020.03.20-03.08.04:105][364]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2020.03.20-03.08.04:185][364]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2020.03.20-03.08.04:185][364]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2020.03.20-03.08.04:342][364]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2020.03.20-03.08.04:367][364]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2020.03.20-03.08.04:367][364]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2020.03.20-03.08.04:384][364]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2020.03.20-03.08.04:384][364]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2020.03.20-03.08.04:384][364]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2020.03.20-03.08.04:384][364]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2020.03.20-03.08.04:385][364]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2020.03.20-03.08.04:385][364]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2020.03.20-03.08.04:385][364]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2020.03.20-03.08.04:469][364]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2020.03.20-03.08.04:469][364]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2020.03.20-03.08.04:469][364]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2020.03.20-03.08.04:469][364]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2020.03.20-03.08.04:469][364]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2020.03.20-03.08.04:469][364]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2020.03.20-03.08.04:469][364]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2020.03.20-03.08.04:470][364]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2020.03.20-03.08.04:470][364]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2020.03.20-03.08.04:470][364]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2020.03.20-03.08.04:503][364]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2020.03.20-03.08.04:503][364]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2020.03.20-03.08.04:503][364]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2020.03.20-03.08.04:503][364]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2020.03.20-03.08.04:503][364]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2020.03.20-03.08.04:503][364]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2020.03.20-03.08.04:503][364]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2020.03.20-03.08.04:503][364]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2020.03.20-03.08.04:503][364]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2020.03.20-03.08.04:605][364]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2020.03.20-03.08.04:605][364]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2020.03.20-03.08.04:656][364]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2020.03.20-03.08.04:688][364]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2020.03.20-03.08.04:722][364]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2020.03.20-03.08.04:722][364]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2020.03.20-03.08.04:722][364]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2020.03.20-03.08.04:762][364]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2020.03.20-03.08.04:762][364]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2020.03.20-03.08.04:762][364]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2020.03.20-03.08.04:938][364]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2020.03.20-03.08.05:209][364]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2020.03.20-03.08.05:237][364]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2020.03.20-03.08.05:281][364]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2020.03.20-03.08.05:281][364]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2020.03.20-03.08.05:281][364]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2020.03.20-03.08.05:292][364]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2020.03.20-03.08.05:292][364]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2020.03.20-03.08.05:329][364]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2020.03.20-03.08.05:329][364]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2020.03.20-03.08.05:329][364]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2020.03.20-03.08.05:516][364]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2020.03.20-03.08.05:516][364]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2020.03.20-03.08.05:574][364]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2020.03.20-03.08.05:587][364]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2020.03.20-03.08.05:587][364]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2020.03.20-03.08.05:587][364]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.03.20-03.08.05:587][364]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.03.20-03.08.05:688][364]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.03.20-03.08.05:897][364]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2020.03.20-03.08.05:897][364]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2020.03.20-03.08.05:897][364]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2020.03.20-03.08.05:995][364]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2020.03.20-03.08.06:078][364]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2020.03.20-03.08.06:176][364]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.03.20-03.08.06:176][364]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2020.03.20-03.08.06:218][364]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2020.03.20-03.08.06:218][364]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2020.03.20-03.08.06:244][364]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2020.03.20-03.08.06:264][364]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2020.03.20-03.08.06:264][364]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2020.03.20-03.08.06:264][364]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2020.03.20-03.08.06:332][364]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2020.03.20-03.08.06:573][364]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2020.03.20-03.08.06:610][364]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2020.03.20-03.08.06:654][364]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2020.03.20-03.08.06:693][364]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2020.03.20-03.08.06:820][364]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2020.03.20-03.08.06:953][364]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2020.03.20-03.08.06:983][364]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2020.03.20-03.08.06:983][364]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2020.03.20-03.08.06:983][364]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2020.03.20-03.08.06:983][364]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2020.03.20-03.08.07:042][364]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2020.03.20-03.08.07:176][364]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2020.03.20-03.08.07:176][364]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2020.03.20-03.08.07:177][364]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2020.03.20-03.08.07:190][364]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2020.03.20-03.08.07:337][364]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2020.03.20-03.08.07:337][364]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2020.03.20-03.08.07:337][364]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2020.03.20-03.08.07:337][364]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2020.03.20-03.08.07:420][364]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2020.03.20-03.08.07:458][364]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2020.03.20-03.08.07:458][364]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2020.03.20-03.08.07:570][364]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2020.03.20-03.08.07:582][364]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2020.03.20-03.08.07:682][364]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2020.03.20-03.08.08:125][364]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2020.03.20-03.08.08:177][364]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2020.03.20-03.08.08:313][364]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2020.03.20-03.08.08:677][364]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2020.03.20-03.08.08:677][364]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2020.03.20-03.08.08:952][364]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2020.03.20-03.08.08:952][364]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2020.03.20-03.08.09:445][364]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2020.03.20-03.08.09:483][364]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2020.03.20-03.08.09:483][364]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2020.03.20-03.08.09:493][364]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2020.03.20-03.08.09:507][364]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2020.03.20-03.08.09:508][364]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2020.03.20-03.08.09:508][364]LogModuleManager: Shutting down and abandoning module Core (174)
+[2020.03.20-03.08.09:508][364]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2020.03.20-03.08.09:508][364]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2020.03.20-03.08.09:553][364]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2020.03.20-03.08.09:645][364]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2020.03.20-03.08.09:645][364]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2020.03.20-03.08.09:701][364]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2020.03.20-03.08.10:124][364]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2020.03.20-03.08.10:147][364]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2020.03.20-03.08.10:170][364]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2020.03.20-03.08.10:264][364]LogDerivedDataCache: Shutdown
+[2020.03.20-03.08.10:264][364]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2020.03.20-03.08.10:333][364]LogXGEController: Cleaning working directory: C:/Users/ayala/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.03.20-03.08.10:384][364]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2020.03.20-03.08.10:447][364]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2020.03.20-03.08.10:466][364]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2020.03.20-03.08.10:491][364]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2020.03.20-03.08.10:524][364]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2020.03.20-03.08.10:526][364]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2020.03.20-03.08.10:551][364]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2020.03.20-03.08.10:551][364]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2020.03.20-03.08.10:551][364]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2020.03.20-03.08.10:551][364]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2020.03.20-03.08.10:801][364]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2020.03.20-03.08.10:801][364]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2020.03.20-03.08.10:801][364]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2020.03.20-03.08.10:801][364]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2020.03.20-03.08.10:817][364]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2020.03.20-03.08.10:817][364]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2020.03.20-03.08.10:817][364]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2020.03.20-03.08.12:416][364]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2020.03.20-03.08.12:416][364]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2020.03.20-03.08.12:416][364]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2020.03.20-03.08.12:416][364]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2020.03.20-03.08.12:416][364]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2020.03.20-03.08.12:713][364]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2020.03.20-03.08.12:713][364]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2020.03.20-03.08.13:029][364]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2020.03.20-03.08.13:042][364]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2020.03.20-03.08.14:629][364]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2020.03.20-03.08.14:629][364]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2020.03.20-03.08.14:660][364]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2020.03.20-03.08.14:689][364]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2020.03.20-03.08.14:762][364]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2020.03.20-03.08.14:762][364]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2020.03.20-03.08.14:786][364]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2020.03.20-03.08.14:786][364]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2020.03.20-03.08.14:786][364]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2020.03.20-03.08.14:804][364]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2020.03.20-03.08.14:804][364]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2020.03.20-03.08.14:822][364]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2020.03.20-03.08.14:899][364]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2020.03.20-03.08.14:899][364]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2020.03.20-03.08.14:899][364]LogHMD: Freeing OpenVRDLLHandle.
+[2020.03.20-03.08.14:899][364]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2020.03.20-03.08.14:920][364]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2020.03.20-03.08.14:920][364]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2020.03.20-03.08.14:920][364]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2020.03.20-03.08.14:920][364]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2020.03.20-03.08.14:933][364]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2020.03.20-03.08.14:969][364]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2020.03.20-03.08.15:340][364]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2020.03.20-03.08.15:340][364]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.03.20-03.08.15:340][364]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAAFC6D34-4865-834C-E916-6F8A37EA7A2A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=01a1870346a0e69ac30d549301f90743%7C81b2ef2965c74056bd0cb6b18a956837%7C9c65638a-66ff-4c4f-a5b0-d4c78f8989ac&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.03.20-03.08.15:404][364]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2020.03.20-03.08.15:836][364]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2020.03.20-03.08.15:875][364]LogModuleManager: Shutting down and abandoning module Media (45)
+[2020.03.20-03.08.15:922][364]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2020.03.20-03.08.16:016][364]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2020.03.20-03.08.16:050][364]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.03.20-03.08.16:164][364]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.03.20-03.08.16:418][364]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.03.20-03.08.16:718][364]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.03.20-03.08.16:816][364]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.03.20-03.08.16:816][364]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.03.20-03.08.16:816][364]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.03.20-03.08.16:880][364]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.03.20-03.08.16:928][364]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.03.20-03.08.16:928][364]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.03.20-03.08.16:928][364]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.03.20-03.08.16:943][364]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.03.20-03.08.16:943][364]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.03.20-03.08.16:943][364]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.03.20-03.08.16:961][364]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.03.20-03.08.16:961][364]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.03.20-03.08.16:976][364]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.03.20-03.08.16:986][364]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.03.20-03.08.17:011][364]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.03.20-03.08.17:273][364]LogExit: Exiting.
+[2020.03.20-03.08.17:951][364]Log file closed, 03/19/20 21:08:17
