@@ -1,0 +1,880 @@
+﻿Log file open, 03/24/20 10:55:36
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Vis2
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.282737
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.32.0
+LogInit: Build: ++UE4+Release-4.22-CL-6574378
+LogInit: Engine Version: 4.22.2-6574378+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): May 20 2019 09:54:56
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Games/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.24-16.55.37:216][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.24-16.55.37:216][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.24-16.55.37:216][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Config/Windows/Engine.ini]
+[2020.03.24-16.55.37:216][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.24-16.55.37:216][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Config/Windows/Engine.ini]
+[2020.03.24-16.55.37:216][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Config/Windows/Engine.ini]
+[2020.03.24-16.55.37:216][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.24-16.55.37:216][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.24-16.55.37:216][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.24-16.55.37:216][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.24-16.55.37:216][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.24-16.55.37:216][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.24-16.55.37:216][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.24-16.55.37:216][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.24-16.55.37:216][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.24-16.55.37:216][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.24-16.55.37:216][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.24-16.55.37:216][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.24-16.55.37:216][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.24-16.55.37:216][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Config/Windows/Engine.ini]
+[2020.03.24-16.55.37:216][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.24-16.55.37:216][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.24-16.55.37:216][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.24-16.55.37:216][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.24-16.55.37:216][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.24-16.55.37:216][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.24-16.55.37:216][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.03.24-16.55.37:216][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.24-16.55.37:216][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.24-16.55.37:216][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.24-16.55.37:216][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.24-16.55.37:216][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.24-16.55.37:216][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.24-16.55.37:216][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Config/Windows/Engine.ini]
+[2020.03.24-16.55.37:216][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Config/Windows/Engine.ini]
+[2020.03.24-16.55.37:219][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.03.24-16.55.37:219][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.24-16.55.37:219][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.24-16.55.37:219][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.03.24-16.55.37:219][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.24-16.55.37:219][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.03.24-16.55.37:219][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.24-16.55.37:219][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.24-16.55.37:219][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.24-16.55.37:219][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.24-16.55.37:219][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.24-16.55.37:219][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.24-16.55.37:219][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.24-16.55.37:219][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.24-16.55.37:219][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.24-16.55.37:219][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.24-16.55.37:219][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.24-16.55.37:219][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.24-16.55.37:219][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.24-16.55.37:219][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.24-16.55.37:219][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.24-16.55.37:219][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.24-16.55.37:219][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.24-16.55.37:219][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.24-16.55.37:219][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.03.24-16.55.37:219][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.24-16.55.37:219][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.24-16.55.37:220][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.24-16.55.37:221][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.24-16.55.37:221][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.24-16.55.37:258][  0]LogHAL: Display: Platform has ~ 16 GB [17057812480 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.24-16.55.37:258][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.03.24-16.55.37:258][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.24-16.55.37:258][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.03.24-16.55.37:258][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.24-16.55.37:258][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2020.03.24-16.55.37:258][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.03.24-16.55.37:258][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:6]]
+[2020.03.24-16.55.37:258][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:4096]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:4]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:1000]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.LensFlareQuality:3]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; no bokeh simulation when scattering]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.24-16.55.37:259][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:3000]]
+[2020.03.24-16.55.37:260][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.24-16.55.37:260][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.03.24-16.55.37:260][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.24-16.55.37:260][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.24-16.55.37:260][  0]LogConfig: Setting CVar [[r.SSR.Quality:4]]
+[2020.03.24-16.55.37:260][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.24-16.55.37:260][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.24-16.55.37:260][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.24-16.55.37:260][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.24-16.55.37:260][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.24-16.55.37:260][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.24-16.55.37:260][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.24-16.55.37:260][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.03.24-16.55.37:260][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.24-16.55.37:260][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.24-16.55.37:260][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.03.24-16.55.37:260][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.24-16.55.37:260][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.24-16.55.37:260][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.24-16.55.37:260][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.24-16.55.37:260][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.03.24-16.55.37:260][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Config/Windows/Engine.ini]
+[2020.03.24-16.55.37:260][  0]LogInit: Computer: LAPTOPPREDATORF
+[2020.03.24-16.55.37:260][  0]LogInit: User: FabrizioCruz
+[2020.03.24-16.55.37:260][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.03.24-16.55.37:260][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.24-16.55.37:261][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.03.24-16.55.37:261][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.24-16.55.37:261][  0]LogMemory: Process Physical Memory: 100.74 MB used, 100.74 MB peak
+[2020.03.24-16.55.37:261][  0]LogMemory: Process Virtual Memory: 92.29 MB used, 92.29 MB peak
+[2020.03.24-16.55.37:261][  0]LogMemory: Physical Memory: 6190.11 MB used,  10077.48 MB free, 16267.60 MB total
+[2020.03.24-16.55.37:261][  0]LogMemory: Virtual Memory: 4659.12 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2020.03.24-16.55.37:290][  0]LogInit: Using OS detected language (en-US).
+[2020.03.24-16.55.37:291][  0]LogInit: Using OS detected locale (en-US).
+[2020.03.24-16.55.37:291][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.03.24-16.55.37:489][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.24-16.55.37:544][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.24-16.55.37:544][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.24-16.55.37:884][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.24-16.55.37:884][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.24-16.55.37:963][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2020.03.24-16.55.37:963][  0]LogD3D11RHI:       6052/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.03.24-16.55.37:975][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.03.24-16.55.37:975][  0]LogD3D11RHI:       128/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.03.24-16.55.37:978][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.24-16.55.37:978][  0]LogD3D11RHI:       0/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.24-16.55.37:978][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.24-16.55.38:012][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.24-16.55.38:012][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2020.03.24-16.55.38:012][  0]LogWindows: EnumDisplayDevices:
+[2020.03.24-16.55.38:012][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.03.24-16.55.38:012][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.03.24-16.55.38:012][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.03.24-16.55.38:013][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.03.24-16.55.38:013][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2020.03.24-16.55.38:013][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2020.03.24-16.55.38:013][  0]LogD3D11RHI:   Driver Version: 442.74 (internal:26.21.14.4274, unified:442.74)
+[2020.03.24-16.55.38:013][  0]LogD3D11RHI:      Driver Date: 3-13-2020
+[2020.03.24-16.55.38:013][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.03.24-16.55.38:063][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.24-16.55.38:069][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.24-16.55.38:069][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.24-16.55.38:069][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.24-16.55.38:078][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.03.24-16.55.38:397][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.03.24-16.55.38:410][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.03.24-16.55.38:422][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.03.24-16.55.38:438][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.03.24-16.55.38:451][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.03.24-16.55.38:465][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.03.24-16.55.38:479][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.24-16.55.38:494][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.03.24-16.55.38:503][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.03.24-16.55.38:593][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.03.24-16.55.38:593][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.03.24-16.55.38:593][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.03.24-16.55.38:593][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.03.24-16.55.38:593][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.03.24-16.55.38:593][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.03.24-16.55.38:593][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.03.24-16.55.38:593][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.03.24-16.55.38:593][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.03.24-16.55.38:593][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.24-16.55.38:593][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.03.24-16.55.38:593][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.03.24-16.55.38:593][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.24-16.55.38:593][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.24-16.55.38:593][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.24-16.55.38:593][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.24-16.55.38:593][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.03.24-16.55.38:593][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.03.24-16.55.38:594][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.03.24-16.55.38:644][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.03.24-16.55.38:644][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.03.24-16.55.38:668][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.03.24-16.55.38:668][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.03.24-16.55.38:681][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.03.24-16.55.38:693][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.24-16.55.38:705][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.03.24-16.55.38:718][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.03.24-16.55.38:760][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.03.24-16.55.38:760][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.03.24-16.55.38:760][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.24-16.55.38:767][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.24-16.55.38:807][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Intermediate/Shaders/WorkingDirectory/3312/).
+[2020.03.24-16.55.38:807][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Fabrizio Cruz/AppData/Local/Temp/UnrealShaderWorkingDir/3E30BD3D4C65B39A5C7386AB9B196116/'.
+[2020.03.24-16.55.38:808][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.24-16.55.38:808][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.24-16.55.38:808][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.24-16.55.39:367][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.24-16.55.39:413][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Fabrizio Cruz/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.03.24-16.55.39:413][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Fabrizio Cruz/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.03.24-16.55.39:413][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.24-16.55.39:413][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.24-16.55.39:413][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.24-16.55.39:413][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.24-16.55.39:425][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.24-16.55.39:426][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.24-16.55.39:426][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.24-16.55.39:437][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Fabrizio Cruz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.24-16.55.39:437][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.24-16.55.39:437][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.24-16.55.39:461][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.24-16.55.39:462][  0]LogSlate: Using FreeType 2.6.0
+[2020.03.24-16.55.39:463][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.24-16.55.39:573][  0]LogAssetRegistry: FAssetRegistry took 0.0327 seconds to start up
+[2020.03.24-16.55.39:880][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.24-16.55.40:007][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.24-16.55.40:007][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.03.24-16.55.40:007][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.24-16.55.40:007][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.03.24-16.55.40:007][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.03.24-16.55.40:020][  0]LogNetVersion: Vis2 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1012566908)
+[2020.03.24-16.55.40:582][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.163035 seconds
+[2020.03.24-16.55.40:588][  0]LogUObjectArray: 42208 objects as part of root set at end of initial load.
+[2020.03.24-16.55.40:588][  0]LogUObjectAllocator: 7325800 out of 0 bytes used by permanent object pool.
+[2020.03.24-16.55.40:589][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.24-16.55.41:715][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.24-16.55.41:728][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.24-16.55.41:829][  0]SourceControl: Source control is disabled
+[2020.03.24-16.55.41:829][  0]SourceControl: Source control is disabled
+[2020.03.24-16.55.41:830][  0]SourceControl: Source control is disabled
+[2020.03.24-16.55.41:831][  0]SourceControl: Source control is disabled
+[2020.03.24-16.55.41:927][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.24-16.55.42:000][  0]LogOcInput: OculusInput pre-init called
+[2020.03.24-16.55.42:918][  0]LogEngine: Initializing Engine...
+[2020.03.24-16.55.42:919][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.24-16.55.42:920][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.03.24-16.55.43:131][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.24-16.55.43:141][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.24-16.55.43:165][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.24-16.55.43:668][  0]LogInit: FAudioDevice initialized.
+[2020.03.24-16.55.43:668][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.24-16.55.43:756][  0]LogDerivedDataCache: Saved boot cache 0.09s 71MB C:/Users/Fabrizio Cruz/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.03.24-16.55.43:759][  0]LogInit: Texture streaming: Enabled
+[2020.03.24-16.55.43:773][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.24-16.55.43:790][  0]LogInit: Transaction tracking system initialized
+[2020.03.24-16.55.43:806][  0]BlueprintLog: New page: Editor Load
+[2020.03.24-16.55.43:873][  0]LocalizationService: Localization service is disabled
+[2020.03.24-16.55.44:243][  0]LogFileCache: Scanning file cache for directory 'D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Content/' took 0.02s
+[2020.03.24-16.55.44:243][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.24-16.55.44:243][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.24-16.55.44:427][  0]SourceControl: Source control is disabled
+[2020.03.24-16.55.44:427][  0]Cmd: MAP LOAD FILE="../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.24-16.55.44:427][  0]LightingResults: New page: Lighting Build
+[2020.03.24-16.55.44:429][  0]MapCheck: New page: Map Check
+[2020.03.24-16.55.44:429][  0]LightingResults: New page: Lighting Build
+[2020.03.24-16.55.44:455][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.03.24-16.55.49:334][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.EdGraphNode_Comment_1' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:334][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.EdGraphNode_Comment_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:334][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:334][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_55' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:334][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_56' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:334][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_57' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:334][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_58' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:334][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_59' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:334][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_60' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:334][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_61' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:334][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_62' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:334][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_63' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:334][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_64' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:334][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_65' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:334][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_66' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:334][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_67' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:334][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_68' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:334][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_90' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:334][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_Root_43' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:547][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.EdGraphNode_Comment_1' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:547][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.EdGraphNode_Comment_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:547][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_126' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:547][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_127' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:547][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_128' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:547][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_129' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:547][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_130' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:547][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_131' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:547][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_132' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:547][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_133' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:547][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_134' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:547][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_135' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:547][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_136' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:547][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_137' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:547][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_138' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:547][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_139' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:547][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:547][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_90' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:547][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_Root_11' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:561][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/Rifle_Reload_Cue.Rifle_Reload_Cue:SoundCueGraph_9.SoundCueGraphNode_116' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:561][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/Rifle_Reload_Cue.Rifle_Reload_Cue:SoundCueGraph_9.SoundCueGraphNode_117' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:562][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/Rifle_Reload_Cue.Rifle_Reload_Cue:SoundCueGraph_9.SoundCueGraphNode_118' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:562][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/Rifle_Reload_Cue.Rifle_Reload_Cue:SoundCueGraph_9.SoundCueGraphNode_119' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:562][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/Rifle_Reload_Cue.Rifle_Reload_Cue:SoundCueGraph_9.SoundCueGraphNode_123' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:562][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/Rifle_Reload_Cue.Rifle_Reload_Cue:SoundCueGraph_9.SoundCueGraphNode_Root_9' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:562][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/Rifle_ReloadInsert_Cue.Rifle_ReloadInsert_Cue:SoundCueGraph_9.SoundCueGraphNode_121' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:562][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/Rifle_ReloadInsert_Cue.Rifle_ReloadInsert_Cue:SoundCueGraph_9.SoundCueGraphNode_122' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:563][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/Rifle_ReloadInsert_Cue.Rifle_ReloadInsert_Cue:SoundCueGraph_9.SoundCueGraphNode_123' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:563][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/Rifle_ReloadInsert_Cue.Rifle_ReloadInsert_Cue:SoundCueGraph_9.SoundCueGraphNode_Root_9' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.03.24-16.55.49:879][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.03.24-16.55.49:957][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.24-16.55.50:018][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.03.24-16.55.50:018][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.24-16.55.50:018][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.255ms to complete.
+[2020.03.24-16.55.50:018][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 5.591
+[2020.03.24-16.55.50:416][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.24-16.55.50:425][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.24-16.55.50:432][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.24-16.55.50:440][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.24-16.55.50:483][  0]LogCollectionManager: Loaded 0 collections in 0.001785 seconds
+[2020.03.24-16.55.50:629][  0]LogFileCache: Scanning file cache for directory 'D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Collections/' took 0.01s
+[2020.03.24-16.55.50:629][  0]LogFileCache: Scanning file cache for directory 'D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Content/Developers/FabrizioCruz/Collections/' took 0.00s
+[2020.03.24-16.55.50:629][  0]LogFileCache: Scanning file cache for directory 'D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Content/Collections/' took 0.00s
+[2020.03.24-16.55.50:629][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.03.24-16.55.50:643][  0]LogContentBrowser: Native class hierarchy populated in 0.0107 seconds. Added 2732 classes and 659 folders.
+[2020.03.24-16.55.50:691][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.24-16.55.50:782][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.24-16.55.50:833][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.24-16.55.50:839][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.24-16.55.50:851][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.24-16.55.50:869][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.24-16.55.50:902][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.24-16.55.50:913][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.24-16.55.50:919][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.24-16.55.50:921][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.24-16.55.50:935][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.24-16.55.50:940][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.24-16.55.50:955][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.24-16.55.50:959][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.24-16.55.50:962][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.24-16.55.50:968][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.24-16.55.50:971][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.24-16.55.50:974][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.24-16.55.50:977][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.24-16.55.50:992][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.24-16.55.51:001][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.24-16.55.51:005][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.24-16.55.51:009][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.24-16.55.51:021][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.24-16.55.51:040][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.24-16.55.51:057][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.24-16.55.51:062][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.24-16.55.51:590][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.24-16.55.51:665][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.03.24-16.55.52:284][  0]LogSlate: Took 0.000373 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.24-16.55.52:289][  0]LogSlate: Took 0.000341 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.24-16.55.52:312][  0]LogSlate: Took 0.017072 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.24-16.55.52:525][  0]LogRenderer: Reallocating scene render targets to support 888x432 Format 10 NumSamples 1 (Frame:1).
+[2020.03.24-16.55.52:842][  0]LogSlate: Took 0.011934 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.24-16.55.52:978][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.24-16.55.52:978][  0]LogLoad: (Engine Initialization) Total time: 18.71 seconds
+[2020.03.24-16.55.52:978][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.24-16.55.53:053][  0]LogAssetRegistry: Asset discovery search completed in 13.5025 seconds
+[2020.03.24-16.55.53:056][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.03.24-16.55.53:056][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000050 seconds (updated 0 objects)
+[2020.03.24-16.55.53:075][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2020.03.24-16.55.54:336][  4]LogSlate: Took 0.000345 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.24-17.04.05:576][539]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.24-17.04.09:873][644]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Weapons/Pistol_bp.Pistol_bp
+[2020.03.24-17.04.10:577][644]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.03.24-17.04.11:842][644]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Weapons/AssaultRifle_bp.AssaultRifle_bp
+[2020.03.24-17.04.12:247][644]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2020.03.24-17.04.12:608][644]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/HUD/AmmoHealth_HUD_bp.AmmoHealth_HUD_bp
+[2020.03.24-17.04.12:973][644]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2020.03.24-17.04.13:080][644]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/HUD/HUD_bp.HUD_bp
+[2020.03.24-17.04.13:765][644]LogSlate: Took 0.020988 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.24-17.04.14:055][645]LogSlate: Took 0.003213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.24-17.04.40:847][326]LogSlate: Window 'AssaultRifle_bp' being destroyed
+[2020.03.24-17.04.41:388][353]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.03.24-17.04.44:005][505]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.03.24-17.05.02:779][429]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/Weapons/GunsData.GunsData
+[2020.03.24-17.05.04:779][512]LogSlate: Window 'GunsData' being destroyed
+[2020.03.24-17.05.04:784][513]LogRenderer: Reallocating scene render targets to support 1112x540 Format 10 NumSamples 1 (Frame:704).
+[2020.03.24-17.05.53:182][693]LogUObjectHash: Compacting FUObjectHashTables data took   5.77ms
+[2020.03.24-17.05.53:182][693]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.069
+[2020.03.24-17.05.53:185][693]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Weapons/GunsData] ([1] browsable assets)...
+[2020.03.24-17.05.53:185][693]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapons/GunsData]
+[2020.03.24-17.05.53:199][693]LogSavePackage: Moving '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/GunsData_Auto17C2B8FBA4E5CD0E0D91FD09A498D02A8.tmp' to '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Autosaves/Game/Weapons/GunsData_Auto1.uasset'
+[2020.03.24-17.05.53:513][693]LogFileHelpers: Auto-saving content packages took 0.330
+[2020.03.24-17.09.15:015][ 72]LogSlate: Took 0.001530 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.03.24-17.12.30:947][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/GunsData" FILE="../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Content/Weapons/GunsData.uasset" SILENT=true
+[2020.03.24-17.12.30:951][ 22]LogSavePackage: Moving '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/GunsData69473CED412E96BB311823B18589C358.tmp' to '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Content/Weapons/GunsData.uasset'
+[2020.03.24-17.12.38:751][251]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Weapons/WeaponBase_bp.WeaponBase_bp
+[2020.03.24-17.13.07:472][583]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_WeaponBase_bp_C_CHILDACTOR_1.mesh_sk) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.03.24-17.13.10:531][943]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_WeaponBase_bp_C_CHILDACTOR_3.mesh_sk) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.03.24-17.13.16:472][591]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_WeaponBase_bp_C_CHILDACTOR_5.mesh_sk) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.03.24-17.13.22:469][304]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_WeaponBase_bp_C_CHILDACTOR_7.mesh_sk) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.03.24-17.13.28:128][736]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_WeaponBase_bp_C_CHILDACTOR_9.mesh_sk) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.03.24-17.13.31:108][ 67]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_WeaponBase_bp_C_CHILDACTOR_11.mesh_sk) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.03.24-17.15.06:279][ 13]BlueprintLog: New page: Compile WeaponBase_bp
+[2020.03.24-17.15.06:551][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2020.03.24-17.15.06:554][ 13]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_WeaponBase_bp_C_CHILDACTOR_13.mesh_sk) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.03.24-17.15.06:566][ 13]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_WeaponBase_bp_C_CHILDACTOR_17.mesh_sk) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.03.24-17.15.06:947][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/WeaponBase_bp" FILE="../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Content/Weapons/WeaponBase_bp.uasset" SILENT=true
+[2020.03.24-17.15.07:564][ 27]LogSavePackage: Moving '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/WeaponBase_bp34EC00BD4B5FD27B7BC145B19A13F70D.tmp' to '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Content/Weapons/WeaponBase_bp.uasset'
+[2020.03.24-17.15.53:862][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.03.24-17.15.54:787][ 35]LogSavePackage: Moving '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/FirstPersonExampleMap_Auto2344BB08043E1A356A6701B83B97F1E48.tmp' to '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2020.03.24-17.15.54:792][ 35]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.969
+[2020.03.24-17.15.54:792][ 35]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.969
+[2020.03.24-17.17.58:505][270]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SSCSTreeType [SSCSEditor.cpp(3473)].
+[2020.03.24-18.09.11:231][533]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_WeaponBase_bp_C_CHILDACTOR_23.mesh_sk) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.03.24-18.09.12:512][610]BlueprintLog: New page: Compile WeaponBase_bp
+[2020.03.24-18.09.12:778][610]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2020.03.24-18.09.12:781][610]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_WeaponBase_bp_C_CHILDACTOR_25.mesh_sk) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.03.24-18.09.12:793][610]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_WeaponBase_bp_C_CHILDACTOR_29.mesh_sk) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.03.24-18.09.13:358][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/WeaponBase_bp" FILE="../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Content/Weapons/WeaponBase_bp.uasset" SILENT=true
+[2020.03.24-18.09.13:382][637]LogSavePackage: Moving '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/WeaponBase_bp501F16E54C543F556358F98624987A51.tmp' to '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Content/Weapons/WeaponBase_bp.uasset'
+[2020.03.24-18.09.39:832][812]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2020.03.24-18.09.40:837][812]LogSavePackage: Moving '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/FirstPersonExampleMap_Auto340A830B14E121EC54A332F82709E08D7.tmp' to '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap'
+[2020.03.24-18.09.40:902][812]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 1.113
+[2020.03.24-18.09.40:902][812]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.113
+[2020.03.24-18.09.40:907][812]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Weapons/AssaultRifle_bp] ([1] browsable assets)...
+[2020.03.24-18.09.40:907][812]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapons/AssaultRifle_bp]
+[2020.03.24-18.09.40:987][812]LogSavePackage: Moving '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/AssaultRifle_bp_Auto37F984AE742322E15AB80EEBC843EBADE.tmp' to '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Autosaves/Game/Weapons/AssaultRifle_bp_Auto3.uasset'
+[2020.03.24-18.09.40:988][812]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Weapons/Pistol_bp] ([1] browsable assets)...
+[2020.03.24-18.09.40:988][812]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapons/Pistol_bp]
+[2020.03.24-18.09.41:057][812]LogSavePackage: Moving '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Pistol_bp_Auto39FF8F11E428C92A13233C1BD9A999C47.tmp' to '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Autosaves/Game/Weapons/Pistol_bp_Auto3.uasset'
+[2020.03.24-18.09.41:059][812]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Weapons/Weapon_1_bp] ([1] browsable assets)...
+[2020.03.24-18.09.41:059][812]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapons/Weapon_1_bp]
+[2020.03.24-18.09.41:082][812]LogSavePackage: Moving '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Weapon_1_bp_Auto397E340394E96046885E1EB9C12C26D4A.tmp' to '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Autosaves/Game/Weapons/Weapon_1_bp_Auto3.uasset'
+[2020.03.24-18.09.41:083][812]LogFileHelpers: Auto-saving content packages took 0.176
+[2020.03.24-21.15.02:621][522]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.24-21.15.02:873][522]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.24-21.15.02:894][522]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.24-21.15.02:946][522]PIE: New page: PIE session: FirstPersonExampleMap (Mar 24, 2020, 9:15:02 AM)
+[2020.03.24-21.15.03:002][522]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.24-21.15.03:155][522]LogPlayLevel: PIE: StaticDuplicateObject took: (0.151250s)
+[2020.03.24-21.15.03:158][522]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.03.24-21.15.03:161][522]LogPlayLevel: PIE: World Init took: (0.005259s)
+[2020.03.24-21.15.03:161][522]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.158702s)
+[2020.03.24-21.15.03:321][522]LogUObjectHash: Compacting FUObjectHashTables data took  15.76ms
+[2020.03.24-21.15.03:434][522]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.24-21.15.03:457][522]LogInit: FAudioDevice initialized.
+[2020.03.24-21.15.03:478][522]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.24-21.15.03:532][522]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.24-21.15.03:572][522]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.03.24-15.15.03
+[2020.03.24-21.15.03:577][522]LogWorld: Bringing up level for play took: 0.042950
+[2020.03.24-21.15.03:727][522]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2020.03.24-21.15.03:736][522]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2020.03.24-21.15.03:737][522]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0012 seconds. Added 20 classes and 0 folders.
+[2020.03.24-21.15.03:787][522]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.652
+[2020.03.24-21.15.03:789][522]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.24-21.15.03:915][523]LogRenderer: Reallocating scene render targets to support 1112x544 Format 10 NumSamples 1 (Frame:1).
+[2020.03.24-21.15.04:999][542]LogBlueprintUserMessages: [AssaultRifle_bp_C_0] 44.0
+[2020.03.24-21.15.06:829][623]LogBlueprintUserMessages: [AssaultRifle_bp_C_0] 43.0
+[2020.03.24-21.15.06:996][633]LogBlueprintUserMessages: [AssaultRifle_bp_C_0] 42.0
+[2020.03.24-21.15.07:147][642]LogBlueprintUserMessages: [AssaultRifle_bp_C_0] 41.0
+[2020.03.24-21.15.07:331][653]LogBlueprintUserMessages: [AssaultRifle_bp_C_0] 40.0
+[2020.03.24-21.15.07:499][663]LogBlueprintUserMessages: [AssaultRifle_bp_C_0] 39.0
+[2020.03.24-21.15.07:683][674]LogBlueprintUserMessages: [AssaultRifle_bp_C_0] 38.0
+[2020.03.24-21.15.07:900][687]LogBlueprintUserMessages: [AssaultRifle_bp_C_0] 37.0
+[2020.03.24-21.15.08:101][699]LogBlueprintUserMessages: [AssaultRifle_bp_C_0] 36.0
+[2020.03.24-21.15.08:283][710]LogBlueprintUserMessages: [AssaultRifle_bp_C_0] 35.0
+[2020.03.24-21.15.08:800][741]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.24-21.15.08:803][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.24-21.15.08:817][741]LogSlate: Window 'Vis2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.24-21.15.08:906][741]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.24-21.15.08:907][741]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.24-21.15.09:051][741]LogUObjectHash: Compacting FUObjectHashTables data took   6.68ms
+[2020.03.24-21.15.09:081][742]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.03.24-21.15.46:227][898]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.24-21.17.03:172][429]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.03.24-21.17.03:590][429]LogUObjectHash: Compacting FUObjectHashTables data took   6.10ms
+[2020.03.24-21.17.04:725][480]LogSavePackage: Moving '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/FirstPersonCharacterEF64C3D540B422F004E134A3CB36F1D4.tmp' to '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.03.24-21.17.15:606][785]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.03.24-21.17.20:132][ 54]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.03.24-21.17.20:405][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2020.03.24-21.17.21:615][113]LogSavePackage: Moving '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/FirstPersonCharacterB706E9834DE521D5B9ABFDBC5DDA85CC.tmp' to '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.03.24-21.21.15:733][236]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.03.24-21.21.16:071][236]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2020.03.24-21.21.57:862][225]BlueprintLog: New page: Collapse to Function
+[2020.03.24-21.22.39:470][616]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.03.24-21.22.39:757][616]LogUObjectHash: Compacting FUObjectHashTables data took   6.31ms
+[2020.03.24-21.23.06:013][477]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Weapons/AssaultRifle_bp.AssaultRifle_bp
+[2020.03.24-21.23.08:633][556]LogSlate: Window 'AssaultRifle_bp' being destroyed
+[2020.03.24-21.26.15:807][182]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2020.03.24-21.26.15:807][182]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.048
+[2020.03.24-21.26.15:829][182]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2020.03.24-21.26.15:829][182]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2020.03.24-21.26.15:919][182]LogSavePackage: Moving '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/FirstPersonCharacter_Auto478858D9B4A9078090F9E599F4FAB13F9.tmp' to '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto4.uasset'
+[2020.03.24-21.26.15:944][182]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Weapons/AssaultRifle_bp] ([1] browsable assets)...
+[2020.03.24-21.26.15:944][182]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapons/AssaultRifle_bp]
+[2020.03.24-21.26.16:174][182]LogSavePackage: Moving '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/AssaultRifle_bp_Auto4500BB40B432A33CEEF7250AAED32CB69.tmp' to '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Autosaves/Game/Weapons/AssaultRifle_bp_Auto4.uasset'
+[2020.03.24-21.26.16:175][182]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Weapons/Pistol_bp] ([1] browsable assets)...
+[2020.03.24-21.26.16:175][182]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapons/Pistol_bp]
+[2020.03.24-21.26.16:337][182]LogSavePackage: Moving '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Pistol_bp_Auto4DA654B2749E2D8280ECCA68FC7C9614D.tmp' to '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Autosaves/Game/Weapons/Pistol_bp_Auto4.uasset'
+[2020.03.24-21.26.16:338][182]LogFileHelpers: Auto-saving content packages took 0.530
+[2020.03.24-21.41.57:333][242]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.03.24-21.43.32:996][526]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2020.03.24-21.43.36:181][526]LogSavePackage: Moving '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/FirstPersonExampleMap_Auto52BEFEF6045D7A4400D407F82A83B08AA.tmp' to '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto5.umap'
+[2020.03.24-21.43.36:459][526]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 3.512
+[2020.03.24-21.43.36:459][526]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.512
+[2020.03.24-21.43.36:465][526]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Weapons/AssaultRifle_bp] ([1] browsable assets)...
+[2020.03.24-21.43.36:465][526]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapons/AssaultRifle_bp]
+[2020.03.24-21.43.36:533][526]LogSavePackage: Moving '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/AssaultRifle_bp_Auto58BD18AF54387EB53C41CE58377935F70.tmp' to '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Autosaves/Game/Weapons/AssaultRifle_bp_Auto5.uasset'
+[2020.03.24-21.43.36:572][526]LogFileHelpers: Auto-saving content packages took 0.108
+[2020.03.24-21.43.37:284][569]BlueprintLog: New page: Compile AssaultRifle_bp
+[2020.03.24-21.43.37:548][569]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2020.03.24-21.43.38:459][619]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/AssaultRifle_bp" FILE="../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Content/Weapons/AssaultRifle_bp.uasset" SILENT=true
+[2020.03.24-21.43.38:525][619]LogSavePackage: Moving '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/AssaultRifle_bp6A6B20C64FD8DE491448789EB9F467AB.tmp' to '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Content/Weapons/AssaultRifle_bp.uasset'
+[2020.03.24-21.44.41:340][479]BlueprintLog: New page: Compile AssaultRifle_bp
+[2020.03.24-21.44.41:613][479]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2020.03.24-21.44.42:101][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/AssaultRifle_bp" FILE="../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Content/Weapons/AssaultRifle_bp.uasset" SILENT=true
+[2020.03.24-21.44.42:169][504]LogSavePackage: Moving '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/AssaultRifle_bpA8F75FE243CDDEB4A4B21EA7212EF6C2.tmp' to '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Content/Weapons/AssaultRifle_bp.uasset'
+[2020.03.24-21.47.12:724][222]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.03.24-21.47.13:058][222]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2020.03.24-21.47.13:497][237]LogSavePackage: Moving '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/FirstPersonCharacter0B457B764CEE9F3FB0A0FCB5261414EB.tmp' to '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.03.24-21.48.02:205][940]LogSavePackage: Moving '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/FirstPersonCharacter8F9F48784FA41D2F4B1CA78EA56B0D59.tmp' to '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.03.24-21.53.39:745][407]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.03.24-21.54.44:794][271]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2020.03.24-21.54.45:864][271]LogSavePackage: Moving '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/FirstPersonExampleMap_Auto67304ACB84E0613D424B378902BA43721.tmp' to '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto6.umap'
+[2020.03.24-21.54.45:867][271]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 1.122
+[2020.03.24-21.54.45:867][271]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.122
+[2020.03.24-21.54.45:871][271]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2020.03.24-21.54.45:871][271]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2020.03.24-21.54.45:970][271]LogSavePackage: Moving '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/FirstPersonCharacter_Auto64A3FC45546B7915433323B9E9E757A25.tmp' to '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto6.uasset'
+[2020.03.24-21.54.45:991][271]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Weapons/Pistol_bp] ([1] browsable assets)...
+[2020.03.24-21.54.45:991][271]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapons/Pistol_bp]
+[2020.03.24-21.54.46:061][271]LogSavePackage: Moving '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Pistol_bp_Auto6147FE5E5445C8CE30B2D1793986BB6F2.tmp' to '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Autosaves/Game/Weapons/Pistol_bp_Auto6.uasset'
+[2020.03.24-21.54.46:062][271]LogFileHelpers: Auto-saving content packages took 0.191
+[2020.03.24-21.58.59:736][104]BlueprintLog: New page: Collapse to Macro
+[2020.03.24-22.01.51:740][746]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.03.24-22.01.52:053][746]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2020.03.24-22.01.52:575][767]LogSavePackage: Moving '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/FirstPersonCharacter5D7F7A9544BFD5B6734111991B43D15C.tmp' to '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.03.24-22.04.58:638][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2020.03.24-22.04.59:690][ 41]LogSavePackage: Moving '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/FirstPersonExampleMap_Auto7DCE6132141F817843D160FBCAFEDF791.tmp' to '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto7.umap'
+[2020.03.24-22.05.01:695][ 41]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 3.102
+[2020.03.24-22.05.01:695][ 41]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.102
+[2020.03.24-22.05.01:701][ 41]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2020.03.24-22.05.01:701][ 41]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2020.03.24-22.05.01:800][ 41]LogSavePackage: Moving '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/FirstPersonCharacter_Auto7E7BE64594BCA6F367A4D4FBEC367A527.tmp' to '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto7.uasset'
+[2020.03.24-22.05.01:801][ 41]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Weapons/Pistol_bp] ([1] browsable assets)...
+[2020.03.24-22.05.01:801][ 41]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapons/Pistol_bp]
+[2020.03.24-22.05.01:866][ 41]LogSavePackage: Moving '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Pistol_bp_Auto783E314884705F11D6545FC96DA75E7A3.tmp' to '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Autosaves/Game/Weapons/Pistol_bp_Auto7.uasset'
+[2020.03.24-22.05.01:867][ 41]LogFileHelpers: Auto-saving content packages took 0.167
+[2020.03.24-22.09.27:362][366]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.03.24-22.09.27:647][366]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2020.03.24-22.09.28:131][384]LogSavePackage: Moving '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/FirstPersonCharacterC6BCCC3349ABDEE27ECB70BCF404FB25.tmp' to '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.03.24-22.10.44:252][604]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.03.24-22.10.44:281][604]LogBlueprint: Error: [Compiler FirstPersonCharacter] In use pin  As Weapon Base Bp  no longer exists on node  Set Weapon Variables . Please refresh node or break links to remove pin.
+[2020.03.24-22.10.44:281][604]LogBlueprint: Error: [Compiler FirstPersonCharacter] In use pin  Gun  no longer exists on node  Set Weapon Variables . Please refresh node or break links to remove pin.
+[2020.03.24-22.10.44:286][604]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Set Weapon Variables  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2020.03.24-22.10.44:287][604]LogBlueprint: Error: [Compiler FirstPersonCharacter] This blueprint (self) is not a ChildActorComponent, therefore ' Target ' must have a connection.
+[2020.03.24-22.10.44:555][604]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2020.03.24-22.10.44:586][604]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [8910.31] Compile of FirstPersonCharacter failed. 3 Fatal Issue(s) 1 Warning(s) [in 333 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2020.03.24-22.16.03:469][209]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.03.24-22.16.03:765][209]LogUObjectHash: Compacting FUObjectHashTables data took   5.69ms
+[2020.03.24-22.16.04:848][263]LogSavePackage: Moving '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/FirstPersonCharacter39EFAC754B8C669647F26E95E7558EC1.tmp' to '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.03.24-22.16.25:011][459]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.24-22.16.25:036][459]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.24-22.16.25:036][459]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.24-22.16.25:036][459]PIE: New page: PIE session: FirstPersonExampleMap (Mar 24, 2020, 10:16:25 AM)
+[2020.03.24-22.16.25:036][459]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.24-22.16.25:585][459]LogPlayLevel: PIE: StaticDuplicateObject took: (0.546978s)
+[2020.03.24-22.16.25:585][459]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.03.24-22.16.25:587][459]LogPlayLevel: PIE: World Init took: (0.001154s)
+[2020.03.24-22.16.25:587][459]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.550600s)
+[2020.03.24-22.16.25:636][459]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2020.03.24-22.16.25:651][459]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.24-22.16.25:672][459]LogInit: FAudioDevice initialized.
+[2020.03.24-22.16.25:684][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.24-22.16.25:720][459]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.24-22.16.25:750][459]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.03.24-16.16.25
+[2020.03.24-22.16.25:751][459]LogWorld: Bringing up level for play took: 0.030915
+[2020.03.24-22.16.25:770][459]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.636
+[2020.03.24-22.16.25:771][459]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.24-22.16.26:609][475]LogBlueprintUserMessages: [AssaultRifle_bp_C_0] 44.0
+[2020.03.24-22.16.28:092][519]LogBlueprintUserMessages: [AssaultRifle_bp_C_0] 43.0
+[2020.03.24-22.16.28:239][524]LogBlueprintUserMessages: [AssaultRifle_bp_C_0] 42.0
+[2020.03.24-22.16.29:780][596]LogBlueprintUserMessages: [AssaultRifle_bp_C_0] 41.0
+[2020.03.24-22.16.30:098][615]LogBlueprintUserMessages: [AssaultRifle_bp_C_0] 40.0
+[2020.03.24-22.16.30:596][645]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.24-22.16.30:596][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.24-22.16.30:610][645]LogSlate: Window 'Vis2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.24-22.16.30:653][645]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.24-22.16.30:653][645]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.24-22.16.30:718][645]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.03.24-22.16.30:742][646]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.03.24-22.16.55:886][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.03.24-22.16.56:954][775]LogSavePackage: Moving '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/FirstPersonExampleMap_Auto8C0AB775A408A06FED4BD94BC81E3B77F.tmp' to '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto8.umap'
+[2020.03.24-22.16.58:038][775]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 2.194
+[2020.03.24-22.16.58:038][775]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.194
+[2020.03.24-22.16.58:044][775]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Weapons/Pistol_bp] ([1] browsable assets)...
+[2020.03.24-22.16.58:044][775]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapons/Pistol_bp]
+[2020.03.24-22.16.58:120][775]LogSavePackage: Moving '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Pistol_bp_Auto82F4F547044A197E169C469BEC79A7510.tmp' to '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Autosaves/Game/Weapons/Pistol_bp_Auto8.uasset'
+[2020.03.24-22.16.58:121][775]LogFileHelpers: Auto-saving content packages took 0.078
+[2020.03.24-22.17.52:297][157]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Weapons/Pistol_bp.Pistol_bp
+[2020.03.24-22.18.23:542][801]LogEditorTransaction: Undo Paste clipboard contents
+[2020.03.24-22.18.30:414][178]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.03.24-22.18.46:147][ 63]LogUObjectBase: Warning: Object is not registered
+[2020.03.24-22.18.46:149][ 63]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.03.24-22.18.46:953][ 63]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.804 s
+[2020.03.24-22.18.46:953][ 63]LogOutputDevice: Error: === Handled ensure: ===
+[2020.03.24-22.18.46:953][ 63]LogOutputDevice: Error: 
+[2020.03.24-22.18.46:953][ 63]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1156]
+[2020.03.24-22.18.46:953][ 63]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.03.24-22.18.46:953][ 63]LogOutputDevice: Error: Stack: 
+[2020.03.24-22.18.46:953][ 63]LogOutputDevice: Error: [Callstack] 0x00007ffb4e64b0c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.24-22.18.46:953][ 63]LogOutputDevice: Error: [Callstack] 0x00007ffb4dec6f7e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.24-22.18.46:953][ 63]LogOutputDevice: Error: [Callstack] 0x00007ffb4ded4d90 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.24-22.18.46:953][ 63]LogOutputDevice: Error: [Callstack] 0x00007ffb4ef137f2 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.03.24-22.18.46:953][ 63]LogOutputDevice: Error: [Callstack] 0x00007ffb4bcf5cfa UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.03.24-22.18.46:953][ 63]LogOutputDevice: Error: [Callstack] 0x00007ffb4bcb1e47 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.03.24-22.18.46:953][ 63]LogOutputDevice: Error: [Callstack] 0x00007ffb510f5984 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.24-22.18.46:953][ 63]LogOutputDevice: Error: [Callstack] 0x00007ffb512e15e3 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.24-22.18.46:953][ 63]LogOutputDevice: Error: [Callstack] 0x00007ffb5113d70b UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.24-22.18.46:953][ 63]LogOutputDevice: Error: [Callstack] 0x00007ffb5113a302 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.24-22.18.46:953][ 63]LogOutputDevice: Error: [Callstack] 0x00007ffb51139a4d UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.24-22.18.46:953][ 63]LogOutputDevice: Error: [Callstack] 0x00007ff7cd8b7a6a UE4Editor.exe!UnknownFunction []
+[2020.03.24-22.18.46:953][ 63]LogOutputDevice: Error: [Callstack] 0x00007ff7cd8c554c UE4Editor.exe!UnknownFunction []
+[2020.03.24-22.18.46:953][ 63]LogOutputDevice: Error: [Callstack] 0x00007ff7cd8c55ca UE4Editor.exe!UnknownFunction []
+[2020.03.24-22.18.46:953][ 63]LogOutputDevice: Error: [Callstack] 0x00007ff7cd8d316c UE4Editor.exe!UnknownFunction []
+[2020.03.24-22.18.46:953][ 63]LogOutputDevice: Error: [Callstack] 0x00007ff7cd8d5b8e UE4Editor.exe!UnknownFunction []
+[2020.03.24-22.18.46:953][ 63]LogOutputDevice: Error: [Callstack] 0x00007ffbbabb7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.03.24-22.18.46:953][ 63]LogOutputDevice: Error: [Callstack] 0x00007ffbbc10ced1 ntdll.dll!UnknownFunction []
+[2020.03.24-22.18.46:953][ 63]LogOutputDevice: Error: 
+[2020.03.24-22.18.46:962][ 63]LogStats:                SubmitErrorReport -  0.000 s

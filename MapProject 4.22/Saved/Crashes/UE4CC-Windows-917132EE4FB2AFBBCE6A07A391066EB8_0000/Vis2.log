@@ -1,0 +1,700 @@
+﻿Log file open, 03/15/20 15:42:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Vis2
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.274051
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.32.0
+LogInit: Build: ++UE4+Release-4.22-CL-6574378
+LogInit: Engine Version: 4.22.2-6574378+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): May 20 2019 09:54:56
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Games/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.15-21.42.15:577][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.15-21.42.15:577][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.15-21.42.15:577][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Config/Windows/Engine.ini]
+[2020.03.15-21.42.15:577][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.15-21.42.15:577][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Config/Windows/Engine.ini]
+[2020.03.15-21.42.15:577][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Config/Windows/Engine.ini]
+[2020.03.15-21.42.15:577][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.15-21.42.15:577][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.15-21.42.15:577][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.15-21.42.15:577][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.15-21.42.15:577][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.15-21.42.15:577][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.15-21.42.15:577][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.15-21.42.15:577][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.15-21.42.15:577][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.15-21.42.15:577][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.15-21.42.15:577][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.15-21.42.15:577][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.15-21.42.15:577][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.15-21.42.15:577][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Config/Windows/Engine.ini]
+[2020.03.15-21.42.15:577][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.15-21.42.15:577][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.15-21.42.15:577][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.15-21.42.15:577][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.15-21.42.15:577][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.15-21.42.15:577][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.15-21.42.15:577][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.03.15-21.42.15:577][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.15-21.42.15:577][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.15-21.42.15:577][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.15-21.42.15:577][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.15-21.42.15:577][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.15-21.42.15:577][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.15-21.42.15:577][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Config/Windows/Engine.ini]
+[2020.03.15-21.42.15:577][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Config/Windows/Engine.ini]
+[2020.03.15-21.42.15:579][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.15-21.42.15:580][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.15-21.42.15:581][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.15-21.42.15:581][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.15-21.42.15:581][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.15-21.42.15:581][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.15-21.42.15:581][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.03.15-21.42.15:581][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.15-21.42.15:581][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.15-21.42.15:581][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.15-21.42.15:581][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.15-21.42.15:590][  0]LogHAL: Display: Platform has ~ 16 GB [17057812480 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.15-21.42.15:590][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.03.15-21.42.15:590][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.15-21.42.15:590][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.03.15-21.42.15:590][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.15-21.42.15:590][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:6]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:4096]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:4]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:1000]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.LensFlareQuality:3]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; no bokeh simulation when scattering]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:3000]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.SSR.Quality:4]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.15-21.42.15:591][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.03.15-21.42.15:592][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.15-21.42.15:592][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.15-21.42.15:592][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.03.15-21.42.15:592][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.15-21.42.15:592][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.15-21.42.15:592][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.15-21.42.15:592][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.15-21.42.15:592][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.03.15-21.42.15:592][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Config/Windows/Engine.ini]
+[2020.03.15-21.42.15:592][  0]LogInit: Computer: LAPTOPPREDATORF
+[2020.03.15-21.42.15:592][  0]LogInit: User: FabrizioCruz
+[2020.03.15-21.42.15:592][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.03.15-21.42.15:592][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.15-21.42.15:592][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.03.15-21.42.15:592][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.15-21.42.15:592][  0]LogMemory: Process Physical Memory: 99.10 MB used, 99.10 MB peak
+[2020.03.15-21.42.15:592][  0]LogMemory: Process Virtual Memory: 92.34 MB used, 92.34 MB peak
+[2020.03.15-21.42.15:592][  0]LogMemory: Physical Memory: 4787.46 MB used,  11480.14 MB free, 16267.60 MB total
+[2020.03.15-21.42.15:592][  0]LogMemory: Virtual Memory: 4659.12 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2020.03.15-21.42.15:615][  0]LogInit: Using OS detected language (en-US).
+[2020.03.15-21.42.15:615][  0]LogInit: Using OS detected locale (en-US).
+[2020.03.15-21.42.15:616][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.03.15-21.42.15:760][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.15-21.42.15:795][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.15-21.42.15:795][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.15-21.42.16:091][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.15-21.42.16:091][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.15-21.42.16:167][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2020.03.15-21.42.16:167][  0]LogD3D11RHI:       6052/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.03.15-21.42.16:179][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.03.15-21.42.16:180][  0]LogD3D11RHI:       128/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.03.15-21.42.16:182][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.15-21.42.16:182][  0]LogD3D11RHI:       0/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.15-21.42.16:182][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.15-21.42.16:214][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.15-21.42.16:214][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2020.03.15-21.42.16:214][  0]LogWindows: EnumDisplayDevices:
+[2020.03.15-21.42.16:214][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.03.15-21.42.16:214][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.03.15-21.42.16:214][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.03.15-21.42.16:215][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.03.15-21.42.16:215][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2020.03.15-21.42.16:215][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2020.03.15-21.42.16:215][  0]LogD3D11RHI:   Driver Version: 442.59 (internal:26.21.14.4259, unified:442.59)
+[2020.03.15-21.42.16:215][  0]LogD3D11RHI:      Driver Date: 3-4-2020
+[2020.03.15-21.42.16:215][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.03.15-21.42.16:260][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.15-21.42.16:263][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.15-21.42.16:263][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.15-21.42.16:263][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.15-21.42.16:272][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.03.15-21.42.16:570][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.03.15-21.42.16:583][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.03.15-21.42.16:596][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.03.15-21.42.16:609][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.03.15-21.42.16:622][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.03.15-21.42.16:635][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.03.15-21.42.16:647][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.15-21.42.16:659][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.03.15-21.42.16:665][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.03.15-21.42.16:742][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.03.15-21.42.16:742][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.03.15-21.42.16:742][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.03.15-21.42.16:742][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.03.15-21.42.16:742][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.03.15-21.42.16:742][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.03.15-21.42.16:742][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.03.15-21.42.16:742][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.03.15-21.42.16:742][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.03.15-21.42.16:742][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.15-21.42.16:742][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.03.15-21.42.16:742][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.03.15-21.42.16:742][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.15-21.42.16:742][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.15-21.42.16:742][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.15-21.42.16:742][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.15-21.42.16:742][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.03.15-21.42.16:742][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.03.15-21.42.16:744][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.03.15-21.42.16:793][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.03.15-21.42.16:793][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.03.15-21.42.16:819][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.03.15-21.42.16:819][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.03.15-21.42.16:833][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.03.15-21.42.16:846][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.15-21.42.16:858][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.03.15-21.42.16:871][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.03.15-21.42.16:914][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.03.15-21.42.16:914][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.03.15-21.42.16:914][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.15-21.42.16:921][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.15-21.42.16:960][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Intermediate/Shaders/WorkingDirectory/11380/).
+[2020.03.15-21.42.16:960][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Fabrizio Cruz/AppData/Local/Temp/UnrealShaderWorkingDir/6AF3016140B1EB45EB950F9774D45372/'.
+[2020.03.15-21.42.16:962][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.15-21.42.16:962][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.15-21.42.16:962][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.15-21.42.17:540][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.15-21.42.17:587][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Fabrizio Cruz/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.03.15-21.42.17:587][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Fabrizio Cruz/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.03.15-21.42.17:587][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.15-21.42.17:587][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.15-21.42.17:587][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.15-21.42.17:587][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.15-21.42.17:599][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.15-21.42.17:600][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.15-21.42.17:600][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.15-21.42.17:613][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Fabrizio Cruz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.15-21.42.17:613][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.15-21.42.17:613][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.15-21.42.17:638][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.15-21.42.17:639][  0]LogSlate: Using FreeType 2.6.0
+[2020.03.15-21.42.17:640][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.15-21.42.17:753][  0]LogAssetRegistry: FAssetRegistry took 0.0338 seconds to start up
+[2020.03.15-21.42.18:070][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.15-21.42.18:207][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.15-21.42.18:207][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.03.15-21.42.18:207][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.15-21.42.18:207][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.03.15-21.42.18:207][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.03.15-21.42.18:220][  0]LogNetVersion: Vis2 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1012566908)
+[2020.03.15-21.42.18:653][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.033107 seconds
+[2020.03.15-21.42.18:659][  0]LogUObjectArray: 42208 objects as part of root set at end of initial load.
+[2020.03.15-21.42.18:659][  0]LogUObjectAllocator: 7325800 out of 0 bytes used by permanent object pool.
+[2020.03.15-21.42.18:659][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.15-21.42.19:673][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.15-21.42.19:687][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.15-21.42.19:787][  0]SourceControl: Source control is disabled
+[2020.03.15-21.42.19:787][  0]SourceControl: Source control is disabled
+[2020.03.15-21.42.19:788][  0]SourceControl: Source control is disabled
+[2020.03.15-21.42.19:789][  0]SourceControl: Source control is disabled
+[2020.03.15-21.42.19:866][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.15-21.42.19:936][  0]LogOcInput: OculusInput pre-init called
+[2020.03.15-21.42.20:851][  0]LogEngine: Initializing Engine...
+[2020.03.15-21.42.20:852][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.15-21.42.20:853][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.03.15-21.42.21:070][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.15-21.42.21:080][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.15-21.42.21:103][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.15-21.42.21:591][  0]LogInit: FAudioDevice initialized.
+[2020.03.15-21.42.21:591][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.15-21.42.21:682][  0]LogDerivedDataCache: Saved boot cache 0.09s 71MB C:/Users/Fabrizio Cruz/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.03.15-21.42.21:687][  0]LogInit: Texture streaming: Enabled
+[2020.03.15-21.42.21:702][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.15-21.42.21:737][  0]LogInit: Transaction tracking system initialized
+[2020.03.15-21.42.21:757][  0]BlueprintLog: New page: Editor Load
+[2020.03.15-21.42.21:817][  0]LocalizationService: Localization service is disabled
+[2020.03.15-21.42.22:211][  0]LogFileCache: Scanning file cache for directory 'D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Content/' took 0.02s
+[2020.03.15-21.42.22:211][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.15-21.42.22:211][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.15-21.42.22:384][  0]SourceControl: Source control is disabled
+[2020.03.15-21.42.22:385][  0]Cmd: MAP LOAD FILE="../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.15-21.42.22:397][  0]LightingResults: New page: Lighting Build
+[2020.03.15-21.42.22:399][  0]MapCheck: New page: Map Check
+[2020.03.15-21.42.22:399][  0]LightingResults: New page: Lighting Build
+[2020.03.15-21.42.22:426][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.03.15-21.42.27:344][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.03.15-21.42.27:501][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.15-21.42.27:554][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.03.15-21.42.27:554][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.15-21.42.27:554][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.429ms to complete.
+[2020.03.15-21.42.27:554][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 5.169
+[2020.03.15-21.42.27:979][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-21.42.27:988][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-21.42.27:996][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-21.42.28:003][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-21.42.28:051][  0]LogCollectionManager: Loaded 0 collections in 0.000811 seconds
+[2020.03.15-21.42.28:211][  0]LogFileCache: Scanning file cache for directory 'D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Collections/' took 0.01s
+[2020.03.15-21.42.28:211][  0]LogFileCache: Scanning file cache for directory 'D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Content/Developers/FabrizioCruz/Collections/' took 0.01s
+[2020.03.15-21.42.28:211][  0]LogFileCache: Scanning file cache for directory 'D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Content/Collections/' took 0.00s
+[2020.03.15-21.42.28:211][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.03.15-21.42.28:223][  0]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 2732 classes and 659 folders.
+[2020.03.15-21.42.28:277][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.15-21.42.28:395][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.42.28:426][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.42.28:430][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.42.28:456][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.42.28:470][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.42.28:474][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.42.28:483][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.42.28:496][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.42.28:498][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.42.28:514][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.42.28:517][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.42.28:523][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.42.28:527][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.42.28:549][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.42.28:551][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.42.28:555][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.42.28:558][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.42.28:560][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.42.28:563][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.42.28:583][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.42.28:588][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.42.28:590][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.42.28:602][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.42.28:621][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.42.28:630][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.42.28:635][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.42.29:040][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.15-21.42.29:107][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.03.15-21.42.29:723][  0]LogSlate: Took 0.000368 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.15-21.42.29:729][  0]LogSlate: Took 0.000392 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.15-21.42.29:751][  0]LogSlate: Took 0.016949 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.15-21.42.29:993][  0]LogRenderer: Reallocating scene render targets to support 1012x508 Format 10 NumSamples 1 (Frame:1).
+[2020.03.15-21.42.30:292][  0]LogSlate: Took 0.015932 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.15-21.42.30:384][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.15-21.42.30:384][  0]LogLoad: (Engine Initialization) Total time: 18.00 seconds
+[2020.03.15-21.42.30:384][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.15-21.42.30:484][  0]LogAssetRegistry: Asset discovery search completed in 12.7533 seconds
+[2020.03.15-21.42.30:486][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.03.15-21.42.30:486][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000090 seconds (updated 0 objects)
+[2020.03.15-21.42.30:488][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2020.03.15-21.46.57:209][ 64]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (FloorEdge46)
+[2020.03.15-21.46.57:526][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.15-21.47.15:484][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.15-21.47.59:741][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.15-21.48.09:426][256]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2020.03.15-21.48.19:323][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.15-21.48.24:379][991]LogSlate: Took 0.022580 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.15-21.48.52:899][674]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.15-21.51.41:881][798]LogDirectoryWatcher: A directory notification failed for 'D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2020.03.15-21.51.41:881][798]LogDirectoryWatcher: A directory notification failed for 'D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Content/Developers/FabrizioCruz/Collections/' because it could not be accessed. Aborting watch request...
+[2020.03.15-21.51.41:881][798]LogDirectoryWatcher: A directory notification failed for 'D:/FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2020.03.15-21.51.56:100][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.15-21.52.50:425][234]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.15-21.52.50:648][238]LogBlueprint: Warning: [Compiler Ue4ASP_Character] InputAction Event references unknown Action 'Crouch' for  InputAction Crouch
+[2020.03.15-21.52.50:660][238]LogBlueprint: Warning: [Compiler Ue4ASP_Character] [0638.28] Compile of Ue4ASP_Character successful, but with 1 Warning(s) [in 66 ms] (/Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character)
+[2020.03.15-21.53.28:837][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.15-21.54.21:782][259]LogSlate: Took 0.000361 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.15-21.54.30:857][547]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.03.15-21.54.32:383][547]LogSavePackage: Moving '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/FirstPersonExampleMap_Auto12860DA744D54E08F0CEC64A4AD52256C.tmp' to '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2020.03.15-21.54.32:408][547]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 1.582
+[2020.03.15-21.54.32:408][547]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.582
+[2020.03.15-22.00.55:376][682]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Catwalk_Stair2)
+[2020.03.15-22.00.55:810][682]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.15-22.00.57:704][782]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Catwalk_Stair3)
+[2020.03.15-22.00.57:810][782]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.15-22.00.58:707][825]LogEditorViewport: Clicking on Actor (context menu): Ue4ASP_Character_C (Ue4ASP_Character)
+[2020.03.15-22.00.58:828][825]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.15-22.01.39:339][776]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.15-22.16.22:697][239]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character
+[2020.03.15-22.16.23:767][239]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.03.15-22.16.25:006][239]LogSlate: Took 0.018850 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.15-22.16.27:518][315]LogSlate: Window 'Ue4ASP_Character' being destroyed
+[2020.03.15-22.17.01:625][365]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.03.15-22.17.19:267][889]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Weapons/Weapon_BP.Weapon_BP
+[2020.03.15-22.17.19:611][890]LogRenderer: Reallocating scene render targets to support 1012x540 Format 10 NumSamples 1 (Frame:1).
+[2020.03.15-22.17.23:764][138]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.15-22.17.52:893][862]LogStaticMesh: Building static mesh GUN...
+[2020.03.15-22.17.52:911][862]LogBlueprintActionDatabase: Requesting refresh due to module change: MeshBuilder (loaded)
+[2020.03.15-22.17.52:940][862]LogStaticMesh: Built static mesh [0.05s] /Game/Geometry/Decorations/GUN.GUN
+[2020.03.15-22.17.53:000][862]LogBlueprintActionDatabase: Requesting refresh due to module change: HierarchicalLODUtilities (loaded)
+[2020.03.15-22.18.00:876][315]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.15-22.18.09:162][807]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.15-22.18.19:558][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.15-22.18.33:673][261]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.15-22.19.18:559][551]LogUObjectHash: Compacting FUObjectHashTables data took   6.38ms
+[2020.03.15-22.19.18:559][551]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.065
+[2020.03.15-22.19.18:560][551]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Weapons/Weapon_BP] ([1] browsable assets)...
+[2020.03.15-22.19.18:578][551]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Weapons/Weapon_BP.Weapon_BP]
+[2020.03.15-22.19.18:578][551]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapons/Weapon_BP]
+[2020.03.15-22.19.18:595][551]LogSavePackage: Moving '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Weapon_BP_Auto207882B7F4CAD5A72673066B28A026BBC.tmp' to '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Autosaves/Game/Weapons/Weapon_BP_Auto2.uasset'
+[2020.03.15-22.19.18:596][551]LogFileHelpers: Auto-saving content packages took 0.037
+[2020.03.15-22.19.27:670][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.15-22.19.27:752][783]BlueprintLog: New page: Compile Weapon_BP
+[2020.03.15-22.19.27:968][783]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.03.15-22.19.28:797][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/Weapon_BP" FILE="../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Content/Weapons/Weapon_BP.uasset" SILENT=true
+[2020.03.15-22.19.28:813][808]LogSavePackage: Moving '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Saved/Weapon_BPA4D7E59D4BFC38659AB38CAA27B1F7AF.tmp' to '../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Content/Weapons/Weapon_BP.uasset'
+[2020.03.15-22.19.29:953][874]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.15-22.20.01:652][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/Weapon_BP" FILE="../../../../../../FCFM/8vo Semestre/Videojuegos 3/Proyecto Leonardo/MapProject 4.22/Content/Weapons/Weapon_BP.uasset" SILENT=true
+[2020.03.15-22.20.01:675][851]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.03.15-22.20.02:328][851]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.652 s
+[2020.03.15-22.20.02:328][851]LogOutputDevice: Error: === Handled ensure: ===
+[2020.03.15-22.20.02:328][851]LogOutputDevice: Error: 
+[2020.03.15-22.20.02:328][851]LogOutputDevice: Error: Ensure condition failed: !SeenPaths.Contains(NewPath) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\RedirectCollector.cpp] [Line: 219]
+[2020.03.15-22.20.02:328][851]LogOutputDevice: Error: Found circular redirect from /Game/Weapons/Weapon_BP.Weapon_BP to /Game/Weapons/Weapon_bp.Weapon_bp! Returning None instead
+[2020.03.15-22.20.02:328][851]LogOutputDevice: Error: Stack: 
+[2020.03.15-22.20.02:328][851]LogOutputDevice: Error: [Callstack] 0x00007ffeaaa02690 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.03.15-22.20.02:328][851]LogOutputDevice: Error: [Callstack] 0x00007ffeaa6d4d22 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.03.15-22.20.02:328][851]LogOutputDevice: Error: [Callstack] 0x00007ffeaa95c2ca UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.03.15-22.20.02:328][851]LogOutputDevice: Error: [Callstack] 0x00007ffeaa9674c9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.03.15-22.20.02:328][851]LogOutputDevice: Error: [Callstack] 0x00007ffeaa709017 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.03.15-22.20.02:328][851]LogOutputDevice: Error: [Callstack] 0x00007ffeaa6a06c3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.03.15-22.20.02:328][851]LogOutputDevice: Error: [Callstack] 0x00007ffeaa967113 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.03.15-22.20.02:328][851]LogOutputDevice: Error: [Callstack] 0x00007ffeaa81533c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.03.15-22.20.02:328][851]LogOutputDevice: Error: [Callstack] 0x00007ffeaa927d99 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.03.15-22.20.02:328][851]LogOutputDevice: Error: [Callstack] 0x00007ffeaa9280a1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.03.15-22.20.02:328][851]LogOutputDevice: Error: [Callstack] 0x00007ffeaa81736c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.03.15-22.20.02:328][851]LogOutputDevice: Error: [Callstack] 0x00007ffeaa815412 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.03.15-22.20.02:328][851]LogOutputDevice: Error: [Callstack] 0x00007ffeaa927d99 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.03.15-22.20.02:328][851]LogOutputDevice: Error: [Callstack] 0x00007ffeaa8cdced UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.03.15-22.20.02:328][851]LogOutputDevice: Error: [Callstack] 0x00007ffeaa9280a1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.03.15-22.20.02:328][851]LogOutputDevice: Error: [Callstack] 0x00007ffeaa81736c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.03.15-22.20.02:328][851]LogOutputDevice: Error: [Callstack] 0x00007ffeaa8ce3f3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.03.15-22.20.02:328][851]LogOutputDevice: Error: [Callstack] 0x00007ffeaa8cc9f7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.03.15-22.20.02:328][851]LogOutputDevice: Error: [Callstack] 0x00007ffeaa8cc6f4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.03.15-22.20.02:328][851]LogOutputDevice: Error: [Callstack] 0x00007ffea2070125 UE4Editor-Engine.dll!UnknownFunction []
+[2020.03.15-22.20.02:329][851]LogOutputDevice: Error: [Callstack] 0x00007ffea206fc5c UE4Editor-Engine.dll!UnknownFunction []
+[2020.03.15-22.20.02:329][851]LogOutputDevice: Error: [Callstack] 0x00007ffeaa90c315 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.03.15-22.20.02:329][851]LogOutputDevice: Error: [Callstack] 0x00007ffeaa92b619 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.03.15-22.20.02:329][851]LogOutputDevice: Error: [Callstack] 0x00007ffeaa913f55 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.03.15-22.20.02:329][851]LogOutputDevice: Error: [Callstack] 0x00007ffea0919ddb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.15-22.20.02:329][851]LogOutputDevice: Error: [Callstack] 0x00007ffea091a757 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.15-22.20.02:329][851]LogOutputDevice: Error: [Callstack] 0x00007ffea094fce4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.15-22.20.02:329][851]LogOutputDevice: Error: [Callstack] 0x00007ffea094c5b5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.15-22.20.02:329][851]LogOutputDevice: Error: [Callstack] 0x00007ffea10de9fa UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.15-22.20.02:329][851]LogOutputDevice: Error: [Callstack] 0x00007ffea0c8d9b4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.15-22.20.02:329][851]LogOutputDevice: Error: [Callstack] 0x00007ffea0c8c529 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.15-22.20.02:329][851]LogOutputDevice: Error: [Callstack] 0x00007ffea0ca0042 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.15-22.20.02:329][851]LogOutputDevice: Error: [Callstack] 0x00007ffe9242b1b3 UE4Editor-AssetTools.dll!UnknownFunction []
+[2020.03.15-22.20.02:329][851]LogOutputDevice: Error: [Callstack] 0x00007ffe923eab33 UE4Editor-AssetTools.dll!UnknownFunction []
+[2020.03.15-22.20.02:329][851]LogOutputDevice: Error: [Callstack] 0x00007ffe9243a9d7 UE4Editor-AssetTools.dll!UnknownFunction []
+[2020.03.15-22.20.02:329][851]LogOutputDevice: Error: [Callstack] 0x00007ffe91422fde UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.03.15-22.20.02:329][851]LogOutputDevice: Error: [Callstack] 0x00007ffe91486f11 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.03.15-22.20.02:329][851]LogOutputDevice: Error: [Callstack] 0x00007ffe914cdda4 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.03.15-22.20.02:329][851]LogOutputDevice: Error: [Callstack] 0x00007ffe91400e4d UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.03.15-22.20.02:329][851]LogOutputDevice: Error: [Callstack] 0x00007ffe913e3d59 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.03.15-22.20.02:329][851]LogOutputDevice: Error: [Callstack] 0x00007ffeaa04b61a UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.15-22.20.02:329][851]LogOutputDevice: Error: [Callstack] 0x00007ffeaa01ee59 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.15-22.20.02:329][851]LogOutputDevice: Error: [Callstack] 0x00007ffeaa07c69d UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.15-22.20.02:329][851]LogOutputDevice: Error: [Callstack] 0x00007ffeaa07d93d UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.15-22.20.02:329][851]LogOutputDevice: Error: [Callstack] 0x00007ffea9fb00bd UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.15-22.20.02:329][851]LogOutputDevice: Error: [Callstack] 0x00007ffea9e01e66 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.15-22.20.02:329][851]LogOutputDevice: Error: [Callstack] 0x00007ffea9e68dcd UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.15-22.20.02:329][851]LogOutputDevice: Error: [Callstack] 0x00007ffea9e5f1ce UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.15-22.20.02:329][851]LogOutputDevice: Error: [Callstack] 0x00007fff0e15b55a UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.15-22.20.02:329][851]LogOutputDevice: Error: [Callstack] 0x00007fff0e14ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.15-22.20.02:329][851]LogOutputDevice: Error: [Callstack] 0x00007fff0e15d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.15-22.20.02:329][851]LogOutputDevice: Error: [Callstack] 0x00007fff0e14c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.15-22.20.02:329][851]LogOutputDevice: Error: [Callstack] 0x00007fff1f245c0d USER32.dll!UnknownFunction []
+[2020.03.15-22.20.02:329][851]LogOutputDevice: Error: [Callstack] 0x00007fff1f245602 USER32.dll!UnknownFunction []
+[2020.03.15-22.20.02:329][851]LogOutputDevice: Error: [Callstack] 0x00007fff0e15e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.15-22.20.02:329][851]LogOutputDevice: Error: [Callstack] 0x00007ff7e7705d3e UE4Editor.exe!UnknownFunction []
+[2020.03.15-22.20.02:329][851]LogOutputDevice: Error: [Callstack] 0x00007ff7e771554c UE4Editor.exe!UnknownFunction []
+[2020.03.15-22.20.02:329][851]LogOutputDevice: Error: [Callstack] 0x00007ff7e77155ca UE4Editor.exe!UnknownFunction []
+[2020.03.15-22.20.02:329][851]LogOutputDevice: Error: [Callstack] 0x00007ff7e772316c UE4Editor.exe!UnknownFunction []
+[2020.03.15-22.20.02:329][851]LogOutputDevice: Error: [Callstack] 0x00007ff7e7725b8e UE4Editor.exe!UnknownFunction []
+[2020.03.15-22.20.02:329][851]LogOutputDevice: Error: [Callstack] 0x00007fff1f5c7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.03.15-22.20.02:329][851]LogOutputDevice: Error: [Callstack] 0x00007fff20deced1 ntdll.dll!UnknownFunction []
+[2020.03.15-22.20.02:329][851]LogOutputDevice: Error: 
+[2020.03.15-22.20.02:337][851]LogStats:                SubmitErrorReport -  0.000 s
