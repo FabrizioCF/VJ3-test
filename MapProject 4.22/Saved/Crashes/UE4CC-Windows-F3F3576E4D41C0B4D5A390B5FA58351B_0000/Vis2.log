@@ -1,0 +1,1241 @@
+﻿Log file open, 05/07/20 15:16:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Vis2
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.445589
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AdvancedSessions
+LogPluginManager: Mounting plugin AdvancedSteamSessions
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin GraphFormatter
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogOnline: OSS: Unable to create OnlineSubsystem module Steam
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.07-20.17.11:821][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.07-20.17.11:821][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.07-20.17.11:822][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Config/Windows/Engine.ini]
+[2020.05.07-20.17.11:822][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.07-20.17.11:822][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Config/Windows/Engine.ini]
+[2020.05.07-20.17.11:822][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Config/Windows/Engine.ini]
+[2020.05.07-20.17.11:822][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.07-20.17.11:822][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.07-20.17.11:822][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.07-20.17.11:822][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.07-20.17.11:822][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.07-20.17.11:822][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.07-20.17.11:822][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.07-20.17.11:822][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.07-20.17.11:822][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.07-20.17.11:822][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.07-20.17.11:822][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.07-20.17.11:822][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.07-20.17.11:822][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.07-20.17.11:822][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Config/Windows/Engine.ini]
+[2020.05.07-20.17.11:822][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.07-20.17.11:822][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.07-20.17.11:822][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.07-20.17.11:822][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.07-20.17.11:822][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.07-20.17.11:823][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.07-20.17.11:823][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.05.07-20.17.11:823][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.07-20.17.11:823][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.07-20.17.11:823][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.07-20.17.11:823][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.07-20.17.11:823][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.07-20.17.11:823][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.07-20.17.11:823][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Config/Windows/Engine.ini]
+[2020.05.07-20.17.11:823][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Config/Windows/Engine.ini]
+[2020.05.07-20.17.11:993][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.05.07-20.17.11:993][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.07-20.17.11:993][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.07-20.17.11:993][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.05.07-20.17.11:993][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.07-20.17.11:993][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.05.07-20.17.11:993][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.07-20.17.11:993][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.07-20.17.11:993][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.07-20.17.11:993][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.07-20.17.11:993][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.07-20.17.11:993][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.07-20.17.11:993][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.07-20.17.11:993][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.07-20.17.11:993][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.07-20.17.11:993][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.07-20.17.11:993][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.07-20.17.11:993][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.07-20.17.11:993][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.07-20.17.11:993][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.07-20.17.11:993][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.07-20.17.11:993][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.07-20.17.11:993][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.07-20.17.11:993][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.07-20.17.11:993][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.05.07-20.17.11:993][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.07-20.17.11:993][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.07-20.17.11:994][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.07-20.17.11:994][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.07-20.17.11:994][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.07-20.17.11:994][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.07-20.17.11:994][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.07-20.17.11:994][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.07-20.17.11:994][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.07-20.17.11:994][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.07-20.17.11:994][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.07-20.17.11:994][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.07-20.17.11:994][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.07-20.17.11:994][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.07-20.17.11:994][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.07-20.17.11:994][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.07-20.17.11:994][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.07-20.17.11:994][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.07-20.17.11:994][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.07-20.17.11:994][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.07-20.17.11:994][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.07-20.17.11:994][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.07-20.17.11:994][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.07-20.17.11:994][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.07-20.17.11:994][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.07-20.17.11:994][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.07-20.17.11:994][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.07-20.17.11:994][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.07-20.17.11:994][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.07-20.17.11:994][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.07-20.17.11:994][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.05.07-20.17.11:994][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.07-20.17.11:994][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.07-20.17.11:994][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.07-20.17.11:994][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.07-20.17.11:994][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.07-20.17.11:994][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.07-20.17.11:994][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.07-20.17.11:994][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.07-20.17.11:994][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.05.07-20.17.11:994][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.07-20.17.11:994][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.07-20.17.11:994][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.07-20.17.11:994][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.07-20.17.11:994][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.07-20.17.11:994][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.07-20.17.11:994][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.07-20.17.11:994][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.07-20.17.11:995][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.07-20.17.11:995][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.07-20.17.11:995][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.07-20.17.11:995][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.07-20.17.11:995][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.07-20.17.11:995][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.05.07-20.17.11:995][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.07-20.17.11:995][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.07-20.17.12:015][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.07-20.17.12:016][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.07-20.17.12:109][  0]LogHAL: Display: Platform has ~ 8 GB [8443301888 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.07-20.17.12:111][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.05.07-20.17.12:111][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.07-20.17.12:112][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.05.07-20.17.12:112][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.07-20.17.12:112][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.07-20.17.12:112][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.05.07-20.17.12:112][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.07-20.17.12:112][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.05.07-20.17.12:112][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.07-20.17.12:112][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.07-20.17.12:112][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.07-20.17.12:112][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.07-20.17.12:112][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.07-20.17.12:112][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.07-20.17.12:113][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.05.07-20.17.12:114][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.07-20.17.12:114][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.07-20.17.12:114][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.07-20.17.12:114][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.07-20.17.12:114][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.07-20.17.12:114][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.07-20.17.12:114][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.07-20.17.12:114][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.07-20.17.12:114][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.07-20.17.12:114][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.07-20.17.12:114][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.07-20.17.12:114][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.07-20.17.12:114][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.07-20.17.12:114][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.05.07-20.17.12:114][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.07-20.17.12:114][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.07-20.17.12:114][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.07-20.17.12:124][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.07-20.17.12:124][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.07-20.17.12:124][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Config/Windows/Engine.ini]
+[2020.05.07-20.17.12:312][  0]LogInit: Computer: DESKTOP-8J0KLND
+[2020.05.07-20.17.12:313][  0]LogInit: User: ayala
+[2020.05.07-20.17.12:313][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.05.07-20.17.12:313][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.07-20.17.12:326][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.05.07-20.17.12:326][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.07-20.17.12:326][  0]LogMemory: Process Physical Memory: 96.48 MB used, 96.49 MB peak
+[2020.05.07-20.17.12:326][  0]LogMemory: Process Virtual Memory: 89.93 MB used, 89.93 MB peak
+[2020.05.07-20.17.12:326][  0]LogMemory: Physical Memory: 7064.25 MB used,  987.91 MB free, 8052.16 MB total
+[2020.05.07-20.17.12:326][  0]LogMemory: Virtual Memory: 4644.52 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2020.05.07-20.17.14:425][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.05.07-20.17.14:425][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2020.05.07-20.17.19:436][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.07-20.17.21:126][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.07-20.17.21:126][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.07-20.17.25:361][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.07-20.17.25:361][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.07-20.17.29:367][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2020.05.07-20.17.29:367][  0]LogD3D11RHI:       6052/0/4026 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.05.07-20.17.29:972][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.05.07-20.17.29:972][  0]LogD3D11RHI:       128/0/4026 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.05.07-20.17.30:133][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.07-20.17.30:133][  0]LogD3D11RHI:       0/0/4026 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.07-20.17.30:133][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.07-20.17.30:484][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.07-20.17.30:484][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.07-20.17.30:484][  0]LogWindows: EnumDisplayDevices:
+[2020.05.07-20.17.30:484][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.05.07-20.17.30:485][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.05.07-20.17.30:485][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.05.07-20.17.30:486][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.05.07-20.17.30:486][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.05.07-20.17.30:486][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.05.07-20.17.30:487][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.05.07-20.17.30:487][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.05.07-20.17.30:487][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2020.05.07-20.17.30:487][  0]LogD3D11RHI:   Driver Version: 441.66 (internal:26.21.14.4166, unified:441.66)
+[2020.05.07-20.17.30:487][  0]LogD3D11RHI:      Driver Date: 12-6-2019
+[2020.05.07-20.17.30:487][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.05.07-20.17.31:189][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.07-20.17.32:269][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.07-20.17.32:296][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.07-20.17.32:296][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.07-20.17.32:447][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.05.07-20.17.40:115][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.05.07-20.17.40:245][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.05.07-20.17.40:284][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.05.07-20.17.40:352][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.05.07-20.17.40:574][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.05.07-20.17.40:686][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.05.07-20.17.40:848][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.07-20.17.40:886][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.05.07-20.17.40:900][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.05.07-20.17.41:237][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.05.07-20.17.41:237][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.05.07-20.17.41:237][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.05.07-20.17.41:237][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.05.07-20.17.41:237][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.05.07-20.17.41:237][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.05.07-20.17.41:237][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.05.07-20.17.41:237][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.05.07-20.17.41:237][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.05.07-20.17.41:237][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.07-20.17.41:237][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.05.07-20.17.41:237][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.05.07-20.17.41:237][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.05.07-20.17.41:237][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.05.07-20.17.41:237][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.07-20.17.41:237][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.05.07-20.17.41:237][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.05.07-20.17.41:237][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.05.07-20.17.41:405][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.05.07-20.17.41:807][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.05.07-20.17.41:807][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.05.07-20.17.41:887][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.05.07-20.17.41:887][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.05.07-20.17.41:984][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.05.07-20.17.42:005][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.07-20.17.42:029][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.05.07-20.17.42:085][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.05.07-20.17.42:185][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.05.07-20.17.42:185][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.05.07-20.17.42:186][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.07-20.17.42:758][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.07-20.17.44:649][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Intermediate/Shaders/WorkingDirectory/1164/).
+[2020.05.07-20.17.44:650][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ayala/AppData/Local/Temp/UnrealShaderWorkingDir/A49CBA5349652B20F5BA84A571B1B0E5/'.
+[2020.05.07-20.17.44:679][  0]LogXGEController: Cleaning working directory: C:/Users/ayala/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.05.07-20.17.44:702][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.07-20.17.44:703][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.07-20.17.44:703][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.07-20.17.50:644][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.07-20.17.52:535][  0]LogDerivedDataCache: Loaded boot cache 1.79s 71MB C:/Users/ayala/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.05.07-20.17.52:535][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ayala/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.05.07-20.17.52:536][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.07-20.17.52:536][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.07-20.17.52:536][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.07-20.17.52:536][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.07-20.17.52:609][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.07-20.17.52:609][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.07-20.17.52:609][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.07-20.17.52:622][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ayala/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.07-20.17.52:622][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.07-20.17.52:622][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.07-20.17.52:798][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.07-20.17.52:996][  0]LogSlate: Using FreeType 2.6.0
+[2020.05.07-20.17.53:071][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.07-20.17.56:261][  0]LogAssetRegistry: FAssetRegistry took 0.0461 seconds to start up
+[2020.05.07-20.18.11:807][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.07-20.18.20:511][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.07-20.18.20:511][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.07-20.18.20:511][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.07-20.18.20:511][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.07-20.18.20:511][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.07-20.18.22:284][  0]LogNetVersion: Vis2 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1012566908)
+[2020.05.07-20.18.32:390][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.597652 seconds
+[2020.05.07-20.18.32:494][  0]LogUObjectArray: 42214 objects as part of root set at end of initial load.
+[2020.05.07-20.18.32:494][  0]LogUObjectAllocator: 7335800 out of 0 bytes used by permanent object pool.
+[2020.05.07-20.18.32:495][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.07-20.19.34:041][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.07-20.19.34:115][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.07-20.19.35:834][  0]SourceControl: Source control is disabled
+[2020.05.07-20.19.35:843][  0]SourceControl: Source control is disabled
+[2020.05.07-20.19.36:826][  0]SourceControl: Source control is disabled
+[2020.05.07-20.19.37:306][  0]SourceControl: Source control is disabled
+[2020.05.07-20.19.37:816][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.05.07-20.19.37:817][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.05.07-20.19.39:239][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.07-20.19.40:340][  0]LogOcInput: OculusInput pre-init called
+[2020.05.07-20.19.48:102][  0]LogEngine: Initializing Engine...
+[2020.05.07-20.19.48:375][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.07-20.19.48:520][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.102 s
+[2020.05.07-20.19.50:924][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.07-20.19.53:256][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.07-20.19.54:152][  0]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.07-20.19.54:544][  0]LogInit: FAudioDevice initialized.
+[2020.05.07-20.19.54:571][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.07-20.19.54:941][  0]LogDerivedDataCache: Saved boot cache 0.37s 71MB C:/Users/ayala/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.05.07-20.19.54:950][  0]LogInit: Texture streaming: Enabled
+[2020.05.07-20.19.55:465][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.07-20.19.55:466][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={883604CF-482C-F7A6-9532-1E9CC30BD163}
+[2020.05.07-20.19.55:985][  0]LogInit: Transaction tracking system initialized
+[2020.05.07-20.19.58:183][  0]BlueprintLog: New page: Editor Load
+[2020.05.07-20.20.03:268][  0]LocalizationService: Localization service is disabled
+[2020.05.07-20.20.07:568][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.05.07-20.20.07:569][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.05.07-20.20.13:287][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.07-20.20.13:494][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.07-20.20.15:583][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/' took 1.09s
+[2020.05.07-20.20.24:857][  0]SourceControl: Source control is disabled
+[2020.05.07-20.20.25:843][  0]LogSlate: Took 0.221421 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.07-20.21.03:389][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2020.05.07-20.21.03:458][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.07-20.21.04:456][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.07-20.21.08:663][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2020.05.07-20.21.08:663][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.07-20.21.20:705][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.07-20.21.20:947][  0]Cmd: MAP LOAD FILE="../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.07-20.21.25:811][  0]LightingResults: New page: Lighting Build
+[2020.05.07-20.21.33:422][  0]MapCheck: New page: Map Check
+[2020.05.07-20.21.33:422][  0]LightingResults: New page: Lighting Build
+[2020.05.07-20.21.51:886][  0]LogUObjectHash: Compacting FUObjectHashTables data took  51.70ms
+[2020.05.07-20.23.07:161][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.05.07-20.23.11:825][  0]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2020.05.07-20.23.12:441][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.05.07-20.23.12:443][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.07-20.23.12:523][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.025ms to complete.
+[2020.05.07-20.23.12:526][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 111.766
+[2020.05.07-20.23.17:159][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.07-20.23.17:202][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.07-20.23.17:210][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.07-20.23.17:217][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.07-20.23.17:561][  0]LogCollectionManager: Loaded 0 collections in 0.001696 seconds
+[2020.05.07-20.23.17:813][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Collections/' took 0.01s
+[2020.05.07-20.23.17:813][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/Developers/ayala/Collections/' took 0.01s
+[2020.05.07-20.23.17:813][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/Collections/' took 0.00s
+[2020.05.07-20.23.17:813][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.05.07-20.23.17:841][  0]LogContentBrowser: Native class hierarchy populated in 0.0171 seconds. Added 2759 classes and 672 folders.
+[2020.05.07-20.23.18:083][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2020.05.07-20.23.18:469][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.07-20.23.18:555][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.07-20.23.18:559][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.07-20.23.18:564][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.07-20.23.18:567][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.07-20.23.18:571][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.07-20.23.18:575][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.07-20.23.18:579][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.07-20.23.18:583][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.07-20.23.18:586][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.07-20.23.18:590][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.07-20.23.18:604][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.07-20.23.18:610][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.07-20.23.18:668][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.07-20.23.18:671][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.07-20.23.18:691][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.07-20.23.18:696][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.07-20.23.18:720][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.07-20.23.18:731][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.07-20.23.18:737][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.07-20.23.18:773][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.07-20.23.18:777][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.07-20.23.18:781][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.07-20.23.18:786][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.07-20.23.18:790][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.07-20.23.18:794][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.07-20.23.21:181][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2020.05.07-20.23.21:533][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2020.05.07-20.23.23:227][  0]LogSlate: Took 0.052167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.07-20.23.23:462][  0]LogSlate: Took 0.028110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.07-20.23.24:714][  0]LogRenderer: Reallocating scene render targets to support 812x436 Format 10 NumSamples 1 (Frame:1).
+[2020.05.07-20.23.26:828][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0015 seconds. Added 0 classes and 0 folders.
+[2020.05.07-20.23.26:828][  0]LogLoad: (Engine Initialization) Total time: 437.01 seconds
+[2020.05.07-20.23.26:828][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.07-20.23.31:057][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.07-20.23.32:576][  0]LogSlate: Took 0.021180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.07-20.23.53:955][  2]LogAssetRegistry: Asset discovery search completed in 357.7192 seconds
+[2020.05.07-20.23.54:023][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.05.07-20.23.54:023][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000061 seconds (updated 0 objects)
+[2020.05.07-20.23.54:638][  2]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.07-20.24.00:882][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.07-20.24.02:924][364]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_EnergyCell.BP_EnergyCell
+[2020.05.07-20.24.12:178][364]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0016 seconds. Added 121 classes and 0 folders.
+[2020.05.07-20.24.25:760][364]LogLinker: Warning: Can't resolve asset name
+[2020.05.07-20.24.25:770][364]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.07-20.24.26:498][364]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_HealingStation.BP_HealingStation
+[2020.05.07-20.24.31:257][364]LogAssetEditorManager: Opening Asset editor for Font /Game/Poppins.Poppins
+[2020.05.07-20.24.33:172][364]LogBlueprintActionDatabase: Requesting refresh due to module change: FontEditor (loaded)
+[2020.05.07-20.24.34:807][364]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Widgets/BPW_PauseMenu.BPW_PauseMenu
+[2020.05.07-20.24.35:964][364]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2020.05.07-20.24.38:266][364]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	BP_HealingStation_C /Engine/Transient.World_2:PersistentLevel.BP_HealingStation_C_0
+	Function /Game/Blueprints/BP_HealingStation.BP_HealingStation_C:OnRep_HealingCapacity:00CC
+[2020.05.07-20.24.41:679][364]LogSlate: Took 0.025380 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.07-20.25.26:941][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (39.874 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.05.07-20.25.47:003][266]LogSlate: Took 0.050424 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.07-20.25.51:380][514]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.05.07-20.25.56:379][734]LogAIModule: Creating AISystem for world Online
+[2020.05.07-20.25.56:432][734]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	BP_HealingStation_C /Game/Maps/Online.Online:PersistentLevel.BP_HealingStation_2
+	Function /Game/Blueprints/BP_HealingStation.BP_HealingStation_C:OnRep_HealingCapacity:00CC
+[2020.05.07-20.25.56:438][734]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Online.Online
+[2020.05.07-20.25.56:659][734]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2020.05.07-20.25.56:660][734]Cmd: MAP LOAD FILE="../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/Maps/Online.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.07-20.25.56:748][734]LightingResults: New page: Lighting Build
+[2020.05.07-20.25.56:749][734]LoadErrors: New page: Loading map: Online.umap
+[2020.05.07-20.25.56:755][734]MapCheck: New page: Map Check
+[2020.05.07-20.25.56:755][734]LightingResults: New page: Lighting Build
+[2020.05.07-20.25.56:931][734]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.05.07-20.25.56:962][734]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	BP_HealingStation_C /Game/Maps/Online.Online:PersistentLevel.BP_HealingStation_2
+	Function /Game/Blueprints/BP_HealingStation.BP_HealingStation_C:OnRep_HealingCapacity:00CC
+[2020.05.07-20.25.57:146][734]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.07-20.25.57:189][734]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.05.07-20.25.57:214][734]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.07-20.25.57:214][734]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.098ms to complete.
+[2020.05.07-20.25.57:214][734]LogFileHelpers: Loading map 'Online' took 0.555
+[2020.05.07-20.27.21:068][375]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	BP_HealingStation_C /Engine/Transient.World_2:PersistentLevel.BP_HealingStation_C_0
+	Function /Game/Blueprints/BP_HealingStation.BP_HealingStation_C:OnRep_HealingCapacity:00CC
+[2020.05.07-20.27.21:100][376]LogRenderer: Reallocating scene render targets to support 912x540 Format 10 NumSamples 1 (Frame:1).
+[2020.05.07-20.27.28:902][739]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.07-20.28.02:397][226]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2020.05.07-20.28.03:625][226]LogMaterial: Warning: /Engine/Transient.Material_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.05.07-20.28.03:625][226]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2020.05.07-20.28.31:175][471]LogMaterial: Display: Missing cached shader map for material PoppinsMaterial, compiling. 
+[2020.05.07-20.28.34:084][552]LogAssetEditorManager: Opening Asset editor for Material /Engine/EngineMaterials/PoppinsMaterial.PoppinsMaterial
+[2020.05.07-20.28.34:841][552]LogMaterial: Display: Missing cached shader map for material PoppinsMaterial, compiling. 
+[2020.05.07-20.28.53:521][552]LogMaterial: Display: Missing cached shader map for material PoppinsMaterial, compiling. 
+[2020.05.07-20.28.54:187][552]LogMaterial: Display: Missing cached shader map for material PoppinsMaterial, compiling. 
+[2020.05.07-20.28.54:237][552]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_0, compiling. 
+[2020.05.07-20.29.05:848][687]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.05.07-20.29.12:302][799]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.05.07-20.29.23:868][181]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.05.07-20.29.28:798][183]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.05.07-20.29.56:250][291]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.05.07-20.29.56:250][291]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.05.07-20.29.56:250][291]MaterialEditorStats: Base pass vertex shader: 51 instructions
+[2020.05.07-20.29.56:250][291]MaterialEditorStats: Texture samplers: 4/16
+[2020.05.07-20.29.56:250][291]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.05.07-20.29.56:250][291]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.05.07-20.31.01:679][ 93]LogAssetEditorManager: Opening Asset editor for Font /Game/PoppinsDistance.PoppinsDistance
+[2020.05.07-20.31.09:322][295]LogSlate: Window 'Really change the font cache type?' being destroyed
+[2020.05.07-20.32.01:775][295]LogFactory: FactoryCreateNew: Font with TrueTypeFontFactory (1 0 )
+[2020.05.07-20.32.02:625][295]LogTTFontImport: OutPutGlyph X=1 Y=1 FontHeight=39 FontWidth=0 Char=0000 U=1 V=2 =Usize=0 VSIze=39
+[2020.05.07-20.32.02:627][295]LogTTFontImport: OutPutGlyph X=158 Y=1 FontHeight=39 FontWidth=4 Char=000d U=158 V=2 =Usize=4 VSIze=39
+[2020.05.07-20.32.02:629][295]LogTTFontImport: OutPutGlyph X=144 Y=41 FontHeight=39 FontWidth=4 Char=0020 U=144 V=42 =Usize=4 VSIze=39
+[2020.05.07-20.32.03:144][295]LogTexture: Display: Building textures: PoppinsDistance_PageA (AutoDXT, 256X256)
+[2020.05.07-20.32.03:510][295]LogTTFontImport: OutPutGlyph X=1 Y=1 FontHeight=39 FontWidth=4 Char=00a0 U=1 V=2 =Usize=4 VSIze=39
+[2020.05.07-20.32.03:612][295]LogTexture: Display: Building textures: PoppinsDistance_PageB (AutoDXT, 256X256)
+[2020.05.07-20.32.03:616][295]LogTTFontImport: ImportTrueTypeFont: Total Time 1.16
+[2020.05.07-20.32.18:001][124]LogFactory: FactoryCreateNew: Font with TrueTypeFontFactory (1 0 )
+[2020.05.07-20.32.18:026][124]LogTTFontImport: OutPutGlyph X=64 Y=64 FontHeight=39 FontWidth=0 Char=0000 U=4 V=5 =Usize=0 VSIze=39
+[2020.05.07-20.32.18:051][124]LogTTFontImport: OutPutGlyph X=128 Y=64 FontHeight=39 FontWidth=11 Char=0001 U=8 V=5 =Usize=11 VSIze=39
+[2020.05.07-20.32.18:076][124]LogTTFontImport: OutPutGlyph X=368 Y=64 FontHeight=39 FontWidth=11 Char=0002 U=23 V=5 =Usize=11 VSIze=39
+[2020.05.07-20.32.18:077][124]LogTTFontImport: OutPutGlyph X=608 Y=64 FontHeight=39 FontWidth=11 Char=0003 U=38 V=5 =Usize=11 VSIze=39
+[2020.05.07-20.32.18:079][124]LogTTFontImport: OutPutGlyph X=848 Y=64 FontHeight=39 FontWidth=11 Char=0004 U=53 V=5 =Usize=11 VSIze=39
+[2020.05.07-20.32.18:080][124]LogTTFontImport: OutPutGlyph X=1088 Y=64 FontHeight=39 FontWidth=11 Char=0005 U=68 V=5 =Usize=11 VSIze=39
+[2020.05.07-20.32.18:081][124]LogTTFontImport: OutPutGlyph X=1328 Y=64 FontHeight=39 FontWidth=11 Char=0006 U=83 V=5 =Usize=11 VSIze=39
+[2020.05.07-20.32.18:082][124]LogTTFontImport: OutPutGlyph X=1568 Y=64 FontHeight=39 FontWidth=11 Char=0007 U=98 V=5 =Usize=11 VSIze=39
+[2020.05.07-20.32.18:084][124]LogTTFontImport: OutPutGlyph X=1808 Y=64 FontHeight=39 FontWidth=11 Char=0008 U=113 V=5 =Usize=11 VSIze=39
+[2020.05.07-20.32.18:084][124]LogTTFontImport: OutPutGlyph X=2048 Y=64 FontHeight=39 FontWidth=11 Char=0009 U=128 V=5 =Usize=11 VSIze=39
+[2020.05.07-20.32.18:084][124]LogTTFontImport: OutPutGlyph X=2288 Y=64 FontHeight=39 FontWidth=11 Char=000a U=143 V=5 =Usize=11 VSIze=39
+[2020.05.07-20.32.18:085][124]LogTTFontImport: OutPutGlyph X=2528 Y=64 FontHeight=39 FontWidth=11 Char=000b U=158 V=5 =Usize=11 VSIze=39
+[2020.05.07-20.32.18:085][124]LogTTFontImport: OutPutGlyph X=2768 Y=64 FontHeight=39 FontWidth=11 Char=000c U=173 V=5 =Usize=11 VSIze=39
+[2020.05.07-20.32.18:086][124]LogTTFontImport: OutPutGlyph X=3008 Y=64 FontHeight=39 FontWidth=4 Char=000d U=188 V=5 =Usize=4 VSIze=39
+[2020.05.07-20.32.18:087][124]LogTTFontImport: OutPutGlyph X=3136 Y=64 FontHeight=39 FontWidth=11 Char=000e U=196 V=5 =Usize=11 VSIze=39
+[2020.05.07-20.32.18:088][124]LogTTFontImport: OutPutGlyph X=3376 Y=64 FontHeight=39 FontWidth=11 Char=000f U=211 V=5 =Usize=11 VSIze=39
+[2020.05.07-20.32.18:089][124]LogTTFontImport: OutPutGlyph X=3616 Y=64 FontHeight=39 FontWidth=11 Char=0010 U=226 V=5 =Usize=11 VSIze=39
+[2020.05.07-20.32.18:090][124]LogTTFontImport: OutPutGlyph X=3856 Y=64 FontHeight=39 FontWidth=11 Char=0011 U=241 V=5 =Usize=11 VSIze=39
+[2020.05.07-20.32.18:092][124]LogTTFontImport: OutPutGlyph X=64 Y=752 FontHeight=39 FontWidth=11 Char=0012 U=4 V=48 =Usize=11 VSIze=39
+[2020.05.07-20.32.18:093][124]LogTTFontImport: OutPutGlyph X=304 Y=752 FontHeight=39 FontWidth=11 Char=0013 U=19 V=48 =Usize=11 VSIze=39
+[2020.05.07-20.32.18:094][124]LogTTFontImport: OutPutGlyph X=544 Y=752 FontHeight=39 FontWidth=11 Char=0014 U=34 V=48 =Usize=11 VSIze=39
+[2020.05.07-20.32.18:096][124]LogTTFontImport: OutPutGlyph X=784 Y=752 FontHeight=39 FontWidth=11 Char=0015 U=49 V=48 =Usize=11 VSIze=39
+[2020.05.07-20.32.18:097][124]LogTTFontImport: OutPutGlyph X=1024 Y=752 FontHeight=39 FontWidth=11 Char=0016 U=64 V=48 =Usize=11 VSIze=39
+[2020.05.07-20.32.18:098][124]LogTTFontImport: OutPutGlyph X=1264 Y=752 FontHeight=39 FontWidth=11 Char=0017 U=79 V=48 =Usize=11 VSIze=39
+[2020.05.07-20.32.18:099][124]LogTTFontImport: OutPutGlyph X=1504 Y=752 FontHeight=39 FontWidth=11 Char=0018 U=94 V=48 =Usize=11 VSIze=39
+[2020.05.07-20.32.18:100][124]LogTTFontImport: OutPutGlyph X=1744 Y=752 FontHeight=39 FontWidth=11 Char=0019 U=109 V=48 =Usize=11 VSIze=39
+[2020.05.07-20.32.18:102][124]LogTTFontImport: OutPutGlyph X=1984 Y=752 FontHeight=39 FontWidth=11 Char=001a U=124 V=48 =Usize=11 VSIze=39
+[2020.05.07-20.32.18:103][124]LogTTFontImport: OutPutGlyph X=2224 Y=752 FontHeight=39 FontWidth=11 Char=001b U=139 V=48 =Usize=11 VSIze=39
+[2020.05.07-20.32.18:103][124]LogTTFontImport: OutPutGlyph X=2464 Y=752 FontHeight=39 FontWidth=11 Char=001c U=154 V=48 =Usize=11 VSIze=39
+[2020.05.07-20.32.18:103][124]LogTTFontImport: OutPutGlyph X=2704 Y=752 FontHeight=39 FontWidth=11 Char=001d U=169 V=48 =Usize=11 VSIze=39
+[2020.05.07-20.32.18:103][124]LogTTFontImport: OutPutGlyph X=2944 Y=752 FontHeight=39 FontWidth=11 Char=001e U=184 V=48 =Usize=11 VSIze=39
+[2020.05.07-20.32.18:104][124]LogTTFontImport: OutPutGlyph X=3184 Y=752 FontHeight=39 FontWidth=11 Char=001f U=199 V=48 =Usize=11 VSIze=39
+[2020.05.07-20.32.18:104][124]LogTTFontImport: OutPutGlyph X=3424 Y=752 FontHeight=39 FontWidth=4 Char=0020 U=214 V=48 =Usize=4 VSIze=39
+[2020.05.07-20.32.18:104][124]LogTTFontImport: OutPutGlyph X=3552 Y=752 FontHeight=39 FontWidth=8 Char=0021 U=222 V=48 =Usize=8 VSIze=39
+[2020.05.07-20.32.18:104][124]LogTTFontImport: OutPutGlyph X=3744 Y=752 FontHeight=39 FontWidth=9 Char=0022 U=234 V=48 =Usize=9 VSIze=39
+[2020.05.07-20.32.18:104][124]LogTTFontImport: OutPutGlyph X=64 Y=1440 FontHeight=39 FontWidth=20 Char=0023 U=4 V=91 =Usize=20 VSIze=39
+[2020.05.07-20.32.18:104][124]LogTTFontImport: OutPutGlyph X=448 Y=1440 FontHeight=39 FontWidth=14 Char=0024 U=28 V=91 =Usize=14 VSIze=39
+[2020.05.07-20.32.18:104][124]LogTTFontImport: OutPutGlyph X=736 Y=1440 FontHeight=39 FontWidth=18 Char=0025 U=46 V=91 =Usize=18 VSIze=39
+[2020.05.07-20.32.18:104][124]LogTTFontImport: OutPutGlyph X=1088 Y=1440 FontHeight=39 FontWidth=15 Char=0026 U=68 V=91 =Usize=15 VSIze=39
+[2020.05.07-20.32.18:104][124]LogTTFontImport: OutPutGlyph X=1392 Y=1440 FontHeight=39 FontWidth=5 Char=0027 U=87 V=91 =Usize=5 VSIze=39
+[2020.05.07-20.32.18:104][124]LogTTFontImport: OutPutGlyph X=1536 Y=1440 FontHeight=39 FontWidth=9 Char=0028 U=96 V=91 =Usize=9 VSIze=39
+[2020.05.07-20.32.18:104][124]LogTTFontImport: OutPutGlyph X=1744 Y=1440 FontHeight=39 FontWidth=9 Char=0029 U=109 V=91 =Usize=9 VSIze=39
+[2020.05.07-20.32.18:104][124]LogTTFontImport: OutPutGlyph X=1952 Y=1440 FontHeight=39 FontWidth=12 Char=002a U=122 V=91 =Usize=12 VSIze=39
+[2020.05.07-20.32.18:104][124]LogTTFontImport: OutPutGlyph X=2208 Y=1440 FontHeight=39 FontWidth=12 Char=002b U=138 V=91 =Usize=12 VSIze=39
+[2020.05.07-20.32.18:105][124]LogTTFontImport: OutPutGlyph X=2464 Y=1440 FontHeight=39 FontWidth=5 Char=002c U=154 V=91 =Usize=5 VSIze=39
+[2020.05.07-20.32.18:106][124]LogTTFontImport: OutPutGlyph X=2608 Y=1440 FontHeight=39 FontWidth=12 Char=002d U=163 V=91 =Usize=12 VSIze=39
+[2020.05.07-20.32.18:106][124]LogTTFontImport: OutPutGlyph X=2864 Y=1440 FontHeight=39 FontWidth=5 Char=002e U=179 V=91 =Usize=5 VSIze=39
+[2020.05.07-20.32.18:106][124]LogTTFontImport: OutPutGlyph X=3008 Y=1440 FontHeight=39 FontWidth=9 Char=002f U=188 V=91 =Usize=9 VSIze=39
+[2020.05.07-20.32.18:106][124]LogTTFontImport: OutPutGlyph X=3216 Y=1440 FontHeight=39 FontWidth=14 Char=0030 U=201 V=91 =Usize=14 VSIze=39
+[2020.05.07-20.32.18:106][124]LogTTFontImport: OutPutGlyph X=3504 Y=1440 FontHeight=39 FontWidth=8 Char=0031 U=219 V=91 =Usize=8 VSIze=39
+[2020.05.07-20.32.18:106][124]LogTTFontImport: OutPutGlyph X=3696 Y=1440 FontHeight=39 FontWidth=12 Char=0032 U=231 V=91 =Usize=12 VSIze=39
+[2020.05.07-20.32.18:106][124]LogTTFontImport: OutPutGlyph X=64 Y=2128 FontHeight=39 FontWidth=13 Char=0033 U=4 V=134 =Usize=13 VSIze=39
+[2020.05.07-20.32.18:106][124]LogTTFontImport: OutPutGlyph X=336 Y=2128 FontHeight=39 FontWidth=15 Char=0034 U=21 V=134 =Usize=15 VSIze=39
+[2020.05.07-20.32.18:106][124]LogTTFontImport: OutPutGlyph X=640 Y=2128 FontHeight=39 FontWidth=14 Char=0035 U=40 V=134 =Usize=14 VSIze=39
+[2020.05.07-20.32.18:106][124]LogTTFontImport: OutPutGlyph X=928 Y=2128 FontHeight=39 FontWidth=14 Char=0036 U=58 V=134 =Usize=14 VSIze=39
+[2020.05.07-20.32.18:106][124]LogTTFontImport: OutPutGlyph X=1216 Y=2128 FontHeight=39 FontWidth=11 Char=0037 U=76 V=134 =Usize=11 VSIze=39
+[2020.05.07-20.32.18:106][124]LogTTFontImport: OutPutGlyph X=1456 Y=2128 FontHeight=39 FontWidth=14 Char=0038 U=91 V=134 =Usize=14 VSIze=39
+[2020.05.07-20.32.18:108][124]LogTTFontImport: OutPutGlyph X=1744 Y=2128 FontHeight=39 FontWidth=13 Char=0039 U=109 V=134 =Usize=13 VSIze=39
+[2020.05.07-20.32.18:108][124]LogTTFontImport: OutPutGlyph X=2016 Y=2128 FontHeight=39 FontWidth=6 Char=003a U=126 V=134 =Usize=6 VSIze=39
+[2020.05.07-20.32.18:108][124]LogTTFontImport: OutPutGlyph X=2176 Y=2128 FontHeight=39 FontWidth=8 Char=003b U=136 V=134 =Usize=8 VSIze=39
+[2020.05.07-20.32.18:108][124]LogTTFontImport: OutPutGlyph X=2368 Y=2128 FontHeight=39 FontWidth=10 Char=003c U=148 V=134 =Usize=10 VSIze=39
+[2020.05.07-20.32.18:108][124]LogTTFontImport: OutPutGlyph X=2592 Y=2128 FontHeight=39 FontWidth=13 Char=003d U=162 V=134 =Usize=13 VSIze=39
+[2020.05.07-20.32.18:108][124]LogTTFontImport: OutPutGlyph X=2864 Y=2128 FontHeight=39 FontWidth=10 Char=003e U=179 V=134 =Usize=10 VSIze=39
+[2020.05.07-20.32.18:108][124]LogTTFontImport: OutPutGlyph X=3088 Y=2128 FontHeight=39 FontWidth=12 Char=003f U=193 V=134 =Usize=12 VSIze=39
+[2020.05.07-20.32.18:108][124]LogTTFontImport: OutPutGlyph X=3344 Y=2128 FontHeight=39 FontWidth=28 Char=0040 U=209 V=134 =Usize=28 VSIze=39
+[2020.05.07-20.32.18:108][124]LogTTFontImport: OutPutGlyph X=64 Y=2816 FontHeight=39 FontWidth=16 Char=0041 U=4 V=177 =Usize=16 VSIze=39
+[2020.05.07-20.32.18:108][124]LogTTFontImport: OutPutGlyph X=384 Y=2816 FontHeight=39 FontWidth=14 Char=0042 U=24 V=177 =Usize=14 VSIze=39
+[2020.05.07-20.32.18:108][124]LogTTFontImport: OutPutGlyph X=672 Y=2816 FontHeight=39 FontWidth=17 Char=0043 U=42 V=177 =Usize=17 VSIze=39
+[2020.05.07-20.32.18:108][124]LogTTFontImport: OutPutGlyph X=1008 Y=2816 FontHeight=39 FontWidth=16 Char=0044 U=63 V=177 =Usize=16 VSIze=39
+[2020.05.07-20.32.18:108][124]LogTTFontImport: OutPutGlyph X=1328 Y=2816 FontHeight=39 FontWidth=12 Char=0045 U=83 V=177 =Usize=12 VSIze=39
+[2020.05.07-20.32.18:109][124]LogTTFontImport: OutPutGlyph X=1584 Y=2816 FontHeight=39 FontWidth=12 Char=0046 U=99 V=177 =Usize=12 VSIze=39
+[2020.05.07-20.32.18:109][124]LogTTFontImport: OutPutGlyph X=1840 Y=2816 FontHeight=39 FontWidth=17 Char=0047 U=115 V=177 =Usize=17 VSIze=39
+[2020.05.07-20.32.18:109][124]LogTTFontImport: OutPutGlyph X=2176 Y=2816 FontHeight=39 FontWidth=16 Char=0048 U=136 V=177 =Usize=16 VSIze=39
+[2020.05.07-20.32.18:109][124]LogTTFontImport: OutPutGlyph X=2496 Y=2816 FontHeight=39 FontWidth=6 Char=0049 U=156 V=177 =Usize=6 VSIze=39
+[2020.05.07-20.32.18:109][124]LogTTFontImport: OutPutGlyph X=2656 Y=2816 FontHeight=39 FontWidth=12 Char=004a U=166 V=177 =Usize=12 VSIze=39
+[2020.05.07-20.32.18:109][124]LogTTFontImport: OutPutGlyph X=2912 Y=2816 FontHeight=39 FontWidth=15 Char=004b U=182 V=177 =Usize=15 VSIze=39
+[2020.05.07-20.32.18:110][124]LogTTFontImport: OutPutGlyph X=3216 Y=2816 FontHeight=39 FontWidth=11 Char=004c U=201 V=177 =Usize=11 VSIze=39
+[2020.05.07-20.32.18:110][124]LogTTFontImport: OutPutGlyph X=3456 Y=2816 FontHeight=39 FontWidth=20 Char=004d U=216 V=177 =Usize=20 VSIze=39
+[2020.05.07-20.32.18:110][124]LogTTFontImport: Warning: A texture named PoppinsDistance_PageA already exists!
+[2020.05.07-20.32.20:290][124]LogTexture: Display: Building textures: PoppinsDistance_PageA (G8, 256X256)
+[2020.05.07-20.32.20:300][124]LogTTFontImport: OutPutGlyph X=64 Y=64 FontHeight=39 FontWidth=16 Char=004e U=4 V=5 =Usize=16 VSIze=39
+[2020.05.07-20.32.20:300][124]LogTTFontImport: OutPutGlyph X=384 Y=64 FontHeight=39 FontWidth=17 Char=004f U=24 V=5 =Usize=17 VSIze=39
+[2020.05.07-20.32.20:300][124]LogTTFontImport: OutPutGlyph X=720 Y=64 FontHeight=39 FontWidth=14 Char=0050 U=45 V=5 =Usize=14 VSIze=39
+[2020.05.07-20.32.20:300][124]LogTTFontImport: OutPutGlyph X=1008 Y=64 FontHeight=39 FontWidth=17 Char=0051 U=63 V=5 =Usize=17 VSIze=39
+[2020.05.07-20.32.20:300][124]LogTTFontImport: OutPutGlyph X=1344 Y=64 FontHeight=39 FontWidth=14 Char=0052 U=84 V=5 =Usize=14 VSIze=39
+[2020.05.07-20.32.20:300][124]LogTTFontImport: OutPutGlyph X=1632 Y=64 FontHeight=39 FontWidth=13 Char=0053 U=102 V=5 =Usize=13 VSIze=39
+[2020.05.07-20.32.20:300][124]LogTTFontImport: OutPutGlyph X=1904 Y=64 FontHeight=39 FontWidth=13 Char=0054 U=119 V=5 =Usize=13 VSIze=39
+[2020.05.07-20.32.20:300][124]LogTTFontImport: OutPutGlyph X=2176 Y=64 FontHeight=39 FontWidth=15 Char=0055 U=136 V=5 =Usize=15 VSIze=39
+[2020.05.07-20.32.20:300][124]LogTTFontImport: OutPutGlyph X=2480 Y=64 FontHeight=39 FontWidth=16 Char=0056 U=155 V=5 =Usize=16 VSIze=39
+[2020.05.07-20.32.20:300][124]LogTTFontImport: OutPutGlyph X=2800 Y=64 FontHeight=39 FontWidth=23 Char=0057 U=175 V=5 =Usize=23 VSIze=39
+[2020.05.07-20.32.20:300][124]LogTTFontImport: OutPutGlyph X=3232 Y=64 FontHeight=39 FontWidth=15 Char=0058 U=202 V=5 =Usize=15 VSIze=39
+[2020.05.07-20.32.20:300][124]LogTTFontImport: OutPutGlyph X=3536 Y=64 FontHeight=39 FontWidth=15 Char=0059 U=221 V=5 =Usize=15 VSIze=39
+[2020.05.07-20.32.20:303][124]LogTTFontImport: OutPutGlyph X=3840 Y=64 FontHeight=39 FontWidth=13 Char=005a U=240 V=5 =Usize=13 VSIze=39
+[2020.05.07-20.32.20:303][124]LogTTFontImport: OutPutGlyph X=64 Y=752 FontHeight=39 FontWidth=10 Char=005b U=4 V=48 =Usize=10 VSIze=39
+[2020.05.07-20.32.20:303][124]LogTTFontImport: OutPutGlyph X=288 Y=752 FontHeight=39 FontWidth=17 Char=005c U=18 V=48 =Usize=17 VSIze=39
+[2020.05.07-20.32.20:303][124]LogTTFontImport: OutPutGlyph X=624 Y=752 FontHeight=39 FontWidth=10 Char=005d U=39 V=48 =Usize=10 VSIze=39
+[2020.05.07-20.32.20:303][124]LogTTFontImport: OutPutGlyph X=848 Y=752 FontHeight=39 FontWidth=16 Char=005e U=53 V=48 =Usize=16 VSIze=39
+[2020.05.07-20.32.20:303][124]LogTTFontImport: OutPutGlyph X=1168 Y=752 FontHeight=39 FontWidth=16 Char=005f U=73 V=48 =Usize=16 VSIze=39
+[2020.05.07-20.32.20:303][124]LogTTFontImport: OutPutGlyph X=1488 Y=752 FontHeight=39 FontWidth=7 Char=0060 U=93 V=48 =Usize=7 VSIze=39
+[2020.05.07-20.32.20:304][124]LogTTFontImport: OutPutGlyph X=1664 Y=752 FontHeight=39 FontWidth=15 Char=0061 U=104 V=48 =Usize=15 VSIze=39
+[2020.05.07-20.32.20:304][124]LogTTFontImport: OutPutGlyph X=1968 Y=752 FontHeight=39 FontWidth=15 Char=0062 U=123 V=48 =Usize=15 VSIze=39
+[2020.05.07-20.32.20:304][124]LogTTFontImport: OutPutGlyph X=2272 Y=752 FontHeight=39 FontWidth=14 Char=0063 U=142 V=48 =Usize=14 VSIze=39
+[2020.05.07-20.32.20:304][124]LogTTFontImport: OutPutGlyph X=2560 Y=752 FontHeight=39 FontWidth=15 Char=0064 U=160 V=48 =Usize=15 VSIze=39
+[2020.05.07-20.32.20:304][124]LogTTFontImport: OutPutGlyph X=2864 Y=752 FontHeight=39 FontWidth=14 Char=0065 U=179 V=48 =Usize=14 VSIze=39
+[2020.05.07-20.32.20:304][124]LogTTFontImport: OutPutGlyph X=3152 Y=752 FontHeight=39 FontWidth=8 Char=0066 U=197 V=48 =Usize=8 VSIze=39
+[2020.05.07-20.32.20:306][124]LogTTFontImport: OutPutGlyph X=3344 Y=752 FontHeight=39 FontWidth=15 Char=0067 U=209 V=48 =Usize=15 VSIze=39
+[2020.05.07-20.32.20:306][124]LogTTFontImport: OutPutGlyph X=3648 Y=752 FontHeight=39 FontWidth=15 Char=0068 U=228 V=48 =Usize=15 VSIze=39
+[2020.05.07-20.32.20:306][124]LogTTFontImport: OutPutGlyph X=3952 Y=752 FontHeight=39 FontWidth=6 Char=0069 U=247 V=48 =Usize=6 VSIze=39
+[2020.05.07-20.32.20:306][124]LogTTFontImport: OutPutGlyph X=64 Y=1440 FontHeight=39 FontWidth=6 Char=006a U=4 V=91 =Usize=6 VSIze=39
+[2020.05.07-20.32.20:306][124]LogTTFontImport: OutPutGlyph X=224 Y=1440 FontHeight=39 FontWidth=13 Char=006b U=14 V=91 =Usize=13 VSIze=39
+[2020.05.07-20.32.20:306][124]LogTTFontImport: OutPutGlyph X=496 Y=1440 FontHeight=39 FontWidth=6 Char=006c U=31 V=91 =Usize=6 VSIze=39
+[2020.05.07-20.32.20:306][124]LogTTFontImport: OutPutGlyph X=656 Y=1440 FontHeight=39 FontWidth=23 Char=006d U=41 V=91 =Usize=23 VSIze=39
+[2020.05.07-20.32.20:306][124]LogTTFontImport: OutPutGlyph X=1088 Y=1440 FontHeight=39 FontWidth=15 Char=006e U=68 V=91 =Usize=15 VSIze=39
+[2020.05.07-20.32.20:306][124]LogTTFontImport: OutPutGlyph X=1392 Y=1440 FontHeight=39 FontWidth=14 Char=006f U=87 V=91 =Usize=14 VSIze=39
+[2020.05.07-20.32.20:306][124]LogTTFontImport: OutPutGlyph X=1680 Y=1440 FontHeight=39 FontWidth=15 Char=0070 U=105 V=91 =Usize=15 VSIze=39
+[2020.05.07-20.32.20:306][124]LogTTFontImport: OutPutGlyph X=1984 Y=1440 FontHeight=39 FontWidth=15 Char=0071 U=124 V=91 =Usize=15 VSIze=39
+[2020.05.07-20.32.20:306][124]LogTTFontImport: OutPutGlyph X=2288 Y=1440 FontHeight=39 FontWidth=10 Char=0072 U=143 V=91 =Usize=10 VSIze=39
+[2020.05.07-20.32.20:306][124]LogTTFontImport: OutPutGlyph X=2512 Y=1440 FontHeight=39 FontWidth=12 Char=0073 U=157 V=91 =Usize=12 VSIze=39
+[2020.05.07-20.32.20:308][124]LogTTFontImport: OutPutGlyph X=2768 Y=1440 FontHeight=39 FontWidth=9 Char=0074 U=173 V=91 =Usize=9 VSIze=39
+[2020.05.07-20.32.20:308][124]LogTTFontImport: OutPutGlyph X=2976 Y=1440 FontHeight=39 FontWidth=15 Char=0075 U=186 V=91 =Usize=15 VSIze=39
+[2020.05.07-20.32.20:308][124]LogTTFontImport: OutPutGlyph X=3280 Y=1440 FontHeight=39 FontWidth=14 Char=0076 U=205 V=91 =Usize=14 VSIze=39
+[2020.05.07-20.32.20:308][124]LogTTFontImport: OutPutGlyph X=3568 Y=1440 FontHeight=39 FontWidth=19 Char=0077 U=223 V=91 =Usize=19 VSIze=39
+[2020.05.07-20.32.20:308][124]LogTTFontImport: OutPutGlyph X=64 Y=2128 FontHeight=39 FontWidth=13 Char=0078 U=4 V=134 =Usize=13 VSIze=39
+[2020.05.07-20.32.20:308][124]LogTTFontImport: OutPutGlyph X=336 Y=2128 FontHeight=39 FontWidth=14 Char=0079 U=21 V=134 =Usize=14 VSIze=39
+[2020.05.07-20.32.20:308][124]LogTTFontImport: OutPutGlyph X=624 Y=2128 FontHeight=39 FontWidth=11 Char=007a U=39 V=134 =Usize=11 VSIze=39
+[2020.05.07-20.32.20:309][124]LogTTFontImport: OutPutGlyph X=864 Y=2128 FontHeight=39 FontWidth=10 Char=007b U=54 V=134 =Usize=10 VSIze=39
+[2020.05.07-20.32.20:309][124]LogTTFontImport: OutPutGlyph X=1088 Y=2128 FontHeight=39 FontWidth=5 Char=007c U=68 V=134 =Usize=5 VSIze=39
+[2020.05.07-20.32.20:309][124]LogTTFontImport: OutPutGlyph X=1232 Y=2128 FontHeight=39 FontWidth=10 Char=007d U=77 V=134 =Usize=10 VSIze=39
+[2020.05.07-20.32.20:309][124]LogTTFontImport: OutPutGlyph X=1456 Y=2128 FontHeight=39 FontWidth=14 Char=007e U=91 V=134 =Usize=14 VSIze=39
+[2020.05.07-20.32.20:311][124]LogTTFontImport: OutPutGlyph X=1744 Y=2128 FontHeight=39 FontWidth=11 Char=007f U=109 V=134 =Usize=11 VSIze=39
+[2020.05.07-20.32.20:311][124]LogTTFontImport: OutPutGlyph X=1984 Y=2128 FontHeight=39 FontWidth=0 Char=0080 U=124 V=134 =Usize=0 VSIze=39
+[2020.05.07-20.32.20:311][124]LogTTFontImport: OutPutGlyph X=2048 Y=2128 FontHeight=39 FontWidth=0 Char=0081 U=128 V=134 =Usize=0 VSIze=39
+[2020.05.07-20.32.20:311][124]LogTTFontImport: OutPutGlyph X=2112 Y=2128 FontHeight=39 FontWidth=0 Char=0082 U=132 V=134 =Usize=0 VSIze=39
+[2020.05.07-20.32.20:312][124]LogTTFontImport: OutPutGlyph X=2176 Y=2128 FontHeight=39 FontWidth=0 Char=0083 U=136 V=134 =Usize=0 VSIze=39
+[2020.05.07-20.32.20:312][124]LogTTFontImport: OutPutGlyph X=2240 Y=2128 FontHeight=39 FontWidth=0 Char=0084 U=140 V=134 =Usize=0 VSIze=39
+[2020.05.07-20.32.20:312][124]LogTTFontImport: OutPutGlyph X=2304 Y=2128 FontHeight=39 FontWidth=0 Char=0085 U=144 V=134 =Usize=0 VSIze=39
+[2020.05.07-20.32.20:312][124]LogTTFontImport: OutPutGlyph X=2368 Y=2128 FontHeight=39 FontWidth=0 Char=0086 U=148 V=134 =Usize=0 VSIze=39
+[2020.05.07-20.32.20:312][124]LogTTFontImport: OutPutGlyph X=2432 Y=2128 FontHeight=39 FontWidth=0 Char=0087 U=152 V=134 =Usize=0 VSIze=39
+[2020.05.07-20.32.20:312][124]LogTTFontImport: OutPutGlyph X=2496 Y=2128 FontHeight=39 FontWidth=0 Char=0088 U=156 V=134 =Usize=0 VSIze=39
+[2020.05.07-20.32.20:313][124]LogTTFontImport: OutPutGlyph X=2560 Y=2128 FontHeight=39 FontWidth=0 Char=0089 U=160 V=134 =Usize=0 VSIze=39
+[2020.05.07-20.32.20:313][124]LogTTFontImport: OutPutGlyph X=2624 Y=2128 FontHeight=39 FontWidth=0 Char=008a U=164 V=134 =Usize=0 VSIze=39
+[2020.05.07-20.32.20:313][124]LogTTFontImport: OutPutGlyph X=2688 Y=2128 FontHeight=39 FontWidth=0 Char=008b U=168 V=134 =Usize=0 VSIze=39
+[2020.05.07-20.32.20:313][124]LogTTFontImport: OutPutGlyph X=2752 Y=2128 FontHeight=39 FontWidth=0 Char=008c U=172 V=134 =Usize=0 VSIze=39
+[2020.05.07-20.32.20:313][124]LogTTFontImport: OutPutGlyph X=2816 Y=2128 FontHeight=39 FontWidth=0 Char=008d U=176 V=134 =Usize=0 VSIze=39
+[2020.05.07-20.32.20:314][124]LogTTFontImport: OutPutGlyph X=2880 Y=2128 FontHeight=39 FontWidth=0 Char=008e U=180 V=134 =Usize=0 VSIze=39
+[2020.05.07-20.32.20:314][124]LogTTFontImport: OutPutGlyph X=2944 Y=2128 FontHeight=39 FontWidth=0 Char=008f U=184 V=134 =Usize=0 VSIze=39
+[2020.05.07-20.32.20:314][124]LogTTFontImport: OutPutGlyph X=3008 Y=2128 FontHeight=39 FontWidth=0 Char=0090 U=188 V=134 =Usize=0 VSIze=39
+[2020.05.07-20.32.20:314][124]LogTTFontImport: OutPutGlyph X=3072 Y=2128 FontHeight=39 FontWidth=0 Char=0091 U=192 V=134 =Usize=0 VSIze=39
+[2020.05.07-20.32.20:314][124]LogTTFontImport: OutPutGlyph X=3136 Y=2128 FontHeight=39 FontWidth=0 Char=0092 U=196 V=134 =Usize=0 VSIze=39
+[2020.05.07-20.32.20:315][124]LogTTFontImport: OutPutGlyph X=3200 Y=2128 FontHeight=39 FontWidth=0 Char=0093 U=200 V=134 =Usize=0 VSIze=39
+[2020.05.07-20.32.20:315][124]LogTTFontImport: OutPutGlyph X=3264 Y=2128 FontHeight=39 FontWidth=0 Char=0094 U=204 V=134 =Usize=0 VSIze=39
+[2020.05.07-20.32.20:315][124]LogTTFontImport: OutPutGlyph X=3328 Y=2128 FontHeight=39 FontWidth=0 Char=0095 U=208 V=134 =Usize=0 VSIze=39
+[2020.05.07-20.32.20:315][124]LogTTFontImport: OutPutGlyph X=3392 Y=2128 FontHeight=39 FontWidth=0 Char=0096 U=212 V=134 =Usize=0 VSIze=39
+[2020.05.07-20.32.20:315][124]LogTTFontImport: OutPutGlyph X=3456 Y=2128 FontHeight=39 FontWidth=0 Char=0097 U=216 V=134 =Usize=0 VSIze=39
+[2020.05.07-20.32.20:316][124]LogTTFontImport: OutPutGlyph X=3520 Y=2128 FontHeight=39 FontWidth=0 Char=0098 U=220 V=134 =Usize=0 VSIze=39
+[2020.05.07-20.32.20:316][124]LogTTFontImport: OutPutGlyph X=3584 Y=2128 FontHeight=39 FontWidth=0 Char=0099 U=224 V=134 =Usize=0 VSIze=39
+[2020.05.07-20.32.20:316][124]LogTTFontImport: OutPutGlyph X=3648 Y=2128 FontHeight=39 FontWidth=0 Char=009a U=228 V=134 =Usize=0 VSIze=39
+[2020.05.07-20.32.20:316][124]LogTTFontImport: OutPutGlyph X=3712 Y=2128 FontHeight=39 FontWidth=0 Char=009b U=232 V=134 =Usize=0 VSIze=39
+[2020.05.07-20.32.20:316][124]LogTTFontImport: OutPutGlyph X=3776 Y=2128 FontHeight=39 FontWidth=0 Char=009c U=236 V=134 =Usize=0 VSIze=39
+[2020.05.07-20.32.20:317][124]LogTTFontImport: OutPutGlyph X=3840 Y=2128 FontHeight=39 FontWidth=0 Char=009d U=240 V=134 =Usize=0 VSIze=39
+[2020.05.07-20.32.20:317][124]LogTTFontImport: OutPutGlyph X=3904 Y=2128 FontHeight=39 FontWidth=0 Char=009e U=244 V=134 =Usize=0 VSIze=39
+[2020.05.07-20.32.20:317][124]LogTTFontImport: OutPutGlyph X=3968 Y=2128 FontHeight=39 FontWidth=0 Char=009f U=248 V=134 =Usize=0 VSIze=39
+[2020.05.07-20.32.20:317][124]LogTTFontImport: OutPutGlyph X=64 Y=2816 FontHeight=39 FontWidth=4 Char=00a0 U=4 V=177 =Usize=4 VSIze=39
+[2020.05.07-20.32.20:317][124]LogTTFontImport: OutPutGlyph X=192 Y=2816 FontHeight=39 FontWidth=9 Char=00a1 U=12 V=177 =Usize=9 VSIze=39
+[2020.05.07-20.32.20:318][124]LogTTFontImport: OutPutGlyph X=400 Y=2816 FontHeight=39 FontWidth=13 Char=00a2 U=25 V=177 =Usize=13 VSIze=39
+[2020.05.07-20.32.20:318][124]LogTTFontImport: OutPutGlyph X=672 Y=2816 FontHeight=39 FontWidth=14 Char=00a3 U=42 V=177 =Usize=14 VSIze=39
+[2020.05.07-20.32.20:318][124]LogTTFontImport: OutPutGlyph X=960 Y=2816 FontHeight=39 FontWidth=13 Char=00a4 U=60 V=177 =Usize=13 VSIze=39
+[2020.05.07-20.32.20:318][124]LogTTFontImport: OutPutGlyph X=1232 Y=2816 FontHeight=39 FontWidth=15 Char=00a5 U=77 V=177 =Usize=15 VSIze=39
+[2020.05.07-20.32.20:318][124]LogTTFontImport: OutPutGlyph X=1536 Y=2816 FontHeight=39 FontWidth=8 Char=00a6 U=96 V=177 =Usize=8 VSIze=39
+[2020.05.07-20.32.20:319][124]LogTTFontImport: OutPutGlyph X=1728 Y=2816 FontHeight=39 FontWidth=13 Char=00a7 U=108 V=177 =Usize=13 VSIze=39
+[2020.05.07-20.32.20:319][124]LogTTFontImport: OutPutGlyph X=2000 Y=2816 FontHeight=39 FontWidth=9 Char=00a8 U=125 V=177 =Usize=9 VSIze=39
+[2020.05.07-20.32.20:319][124]LogTTFontImport: OutPutGlyph X=2208 Y=2816 FontHeight=39 FontWidth=17 Char=00a9 U=138 V=177 =Usize=17 VSIze=39
+[2020.05.07-20.32.20:319][124]LogTTFontImport: OutPutGlyph X=2544 Y=2816 FontHeight=39 FontWidth=10 Char=00aa U=159 V=177 =Usize=10 VSIze=39
+[2020.05.07-20.32.20:319][124]LogTTFontImport: OutPutGlyph X=2768 Y=2816 FontHeight=39 FontWidth=12 Char=00ab U=173 V=177 =Usize=12 VSIze=39
+[2020.05.07-20.32.20:319][124]LogTTFontImport: OutPutGlyph X=3024 Y=2816 FontHeight=39 FontWidth=17 Char=00ac U=189 V=177 =Usize=17 VSIze=39
+[2020.05.07-20.32.20:320][124]LogTTFontImport: OutPutGlyph X=3360 Y=2816 FontHeight=39 FontWidth=12 Char=00ad U=210 V=177 =Usize=12 VSIze=39
+[2020.05.07-20.32.20:320][124]LogTTFontImport: OutPutGlyph X=3616 Y=2816 FontHeight=39 FontWidth=18 Char=00ae U=226 V=177 =Usize=18 VSIze=39
+[2020.05.07-20.32.20:320][124]LogTTFontImport: Warning: A texture named PoppinsDistance_PageB already exists!
+[2020.05.07-20.32.22:497][124]LogTexture: Display: Building textures: PoppinsDistance_PageB (G8, 256X256)
+[2020.05.07-20.32.22:499][124]LogTTFontImport: OutPutGlyph X=64 Y=64 FontHeight=39 FontWidth=10 Char=00af U=4 V=5 =Usize=10 VSIze=39
+[2020.05.07-20.32.22:500][124]LogTTFontImport: OutPutGlyph X=288 Y=64 FontHeight=39 FontWidth=10 Char=00b0 U=18 V=5 =Usize=10 VSIze=39
+[2020.05.07-20.32.22:501][124]LogTTFontImport: OutPutGlyph X=512 Y=64 FontHeight=39 FontWidth=12 Char=00b1 U=32 V=5 =Usize=12 VSIze=39
+[2020.05.07-20.32.22:501][124]LogTTFontImport: OutPutGlyph X=768 Y=64 FontHeight=39 FontWidth=9 Char=00b2 U=48 V=5 =Usize=9 VSIze=39
+[2020.05.07-20.32.22:502][124]LogTTFontImport: OutPutGlyph X=976 Y=64 FontHeight=39 FontWidth=8 Char=00b3 U=61 V=5 =Usize=8 VSIze=39
+[2020.05.07-20.32.22:502][124]LogTTFontImport: OutPutGlyph X=1168 Y=64 FontHeight=39 FontWidth=6 Char=00b4 U=73 V=5 =Usize=6 VSIze=39
+[2020.05.07-20.32.22:502][124]LogTTFontImport: OutPutGlyph X=1328 Y=64 FontHeight=39 FontWidth=16 Char=00b5 U=83 V=5 =Usize=16 VSIze=39
+[2020.05.07-20.32.22:503][124]LogTTFontImport: OutPutGlyph X=1648 Y=64 FontHeight=39 FontWidth=16 Char=00b6 U=103 V=5 =Usize=16 VSIze=39
+[2020.05.07-20.32.22:503][124]LogTTFontImport: OutPutGlyph X=1968 Y=64 FontHeight=39 FontWidth=6 Char=00b7 U=123 V=5 =Usize=6 VSIze=39
+[2020.05.07-20.32.22:504][124]LogTTFontImport: OutPutGlyph X=2128 Y=64 FontHeight=39 FontWidth=7 Char=00b8 U=133 V=5 =Usize=7 VSIze=39
+[2020.05.07-20.32.22:504][124]LogTTFontImport: OutPutGlyph X=2304 Y=64 FontHeight=39 FontWidth=6 Char=00b9 U=144 V=5 =Usize=6 VSIze=39
+[2020.05.07-20.32.22:504][124]LogTTFontImport: OutPutGlyph X=2464 Y=64 FontHeight=39 FontWidth=10 Char=00ba U=154 V=5 =Usize=10 VSIze=39
+[2020.05.07-20.32.22:505][124]LogTTFontImport: OutPutGlyph X=2688 Y=64 FontHeight=39 FontWidth=12 Char=00bb U=168 V=5 =Usize=12 VSIze=39
+[2020.05.07-20.32.22:505][124]LogTTFontImport: OutPutGlyph X=2944 Y=64 FontHeight=39 FontWidth=17 Char=00bc U=184 V=5 =Usize=17 VSIze=39
+[2020.05.07-20.32.22:505][124]LogTTFontImport: OutPutGlyph X=3280 Y=64 FontHeight=39 FontWidth=19 Char=00bd U=205 V=5 =Usize=19 VSIze=39
+[2020.05.07-20.32.22:505][124]LogTTFontImport: OutPutGlyph X=3648 Y=64 FontHeight=39 FontWidth=20 Char=00be U=228 V=5 =Usize=20 VSIze=39
+[2020.05.07-20.32.22:505][124]LogTTFontImport: OutPutGlyph X=64 Y=752 FontHeight=39 FontWidth=11 Char=00bf U=4 V=48 =Usize=11 VSIze=39
+[2020.05.07-20.32.22:506][124]LogTTFontImport: OutPutGlyph X=304 Y=752 FontHeight=39 FontWidth=16 Char=00c0 U=19 V=48 =Usize=16 VSIze=39
+[2020.05.07-20.32.22:506][124]LogTTFontImport: OutPutGlyph X=624 Y=752 FontHeight=39 FontWidth=16 Char=00c1 U=39 V=48 =Usize=16 VSIze=39
+[2020.05.07-20.32.22:506][124]LogTTFontImport: OutPutGlyph X=944 Y=752 FontHeight=39 FontWidth=16 Char=00c2 U=59 V=48 =Usize=16 VSIze=39
+[2020.05.07-20.32.22:506][124]LogTTFontImport: OutPutGlyph X=1264 Y=752 FontHeight=39 FontWidth=16 Char=00c3 U=79 V=48 =Usize=16 VSIze=39
+[2020.05.07-20.32.22:507][124]LogTTFontImport: OutPutGlyph X=1584 Y=752 FontHeight=39 FontWidth=16 Char=00c4 U=99 V=48 =Usize=16 VSIze=39
+[2020.05.07-20.32.22:507][124]LogTTFontImport: OutPutGlyph X=1904 Y=752 FontHeight=39 FontWidth=16 Char=00c5 U=119 V=48 =Usize=16 VSIze=39
+[2020.05.07-20.32.22:507][124]LogTTFontImport: OutPutGlyph X=2224 Y=752 FontHeight=39 FontWidth=21 Char=00c6 U=139 V=48 =Usize=21 VSIze=39
+[2020.05.07-20.32.22:507][124]LogTTFontImport: OutPutGlyph X=2624 Y=752 FontHeight=39 FontWidth=17 Char=00c7 U=164 V=48 =Usize=17 VSIze=39
+[2020.05.07-20.32.22:508][124]LogTTFontImport: OutPutGlyph X=2960 Y=752 FontHeight=39 FontWidth=12 Char=00c8 U=185 V=48 =Usize=12 VSIze=39
+[2020.05.07-20.32.22:508][124]LogTTFontImport: OutPutGlyph X=3216 Y=752 FontHeight=39 FontWidth=12 Char=00c9 U=201 V=48 =Usize=12 VSIze=39
+[2020.05.07-20.32.22:508][124]LogTTFontImport: OutPutGlyph X=3472 Y=752 FontHeight=39 FontWidth=12 Char=00ca U=217 V=48 =Usize=12 VSIze=39
+[2020.05.07-20.32.22:508][124]LogTTFontImport: OutPutGlyph X=3728 Y=752 FontHeight=39 FontWidth=12 Char=00cb U=233 V=48 =Usize=12 VSIze=39
+[2020.05.07-20.32.22:508][124]LogTTFontImport: OutPutGlyph X=3984 Y=752 FontHeight=39 FontWidth=6 Char=00cc U=249 V=48 =Usize=6 VSIze=39
+[2020.05.07-20.32.22:508][124]LogTTFontImport: OutPutGlyph X=64 Y=1440 FontHeight=39 FontWidth=6 Char=00cd U=4 V=91 =Usize=6 VSIze=39
+[2020.05.07-20.32.22:509][124]LogTTFontImport: OutPutGlyph X=224 Y=1440 FontHeight=39 FontWidth=6 Char=00ce U=14 V=91 =Usize=6 VSIze=39
+[2020.05.07-20.32.22:509][124]LogTTFontImport: OutPutGlyph X=384 Y=1440 FontHeight=39 FontWidth=6 Char=00cf U=24 V=91 =Usize=6 VSIze=39
+[2020.05.07-20.32.22:509][124]LogTTFontImport: OutPutGlyph X=544 Y=1440 FontHeight=39 FontWidth=16 Char=00d0 U=34 V=91 =Usize=16 VSIze=39
+[2020.05.07-20.32.22:510][124]LogTTFontImport: OutPutGlyph X=864 Y=1440 FontHeight=39 FontWidth=16 Char=00d1 U=54 V=91 =Usize=16 VSIze=39
+[2020.05.07-20.32.22:510][124]LogTTFontImport: OutPutGlyph X=1184 Y=1440 FontHeight=39 FontWidth=17 Char=00d2 U=74 V=91 =Usize=17 VSIze=39
+[2020.05.07-20.32.22:510][124]LogTTFontImport: OutPutGlyph X=1520 Y=1440 FontHeight=39 FontWidth=17 Char=00d3 U=95 V=91 =Usize=17 VSIze=39
+[2020.05.07-20.32.22:510][124]LogTTFontImport: OutPutGlyph X=1856 Y=1440 FontHeight=39 FontWidth=17 Char=00d4 U=116 V=91 =Usize=17 VSIze=39
+[2020.05.07-20.32.22:511][124]LogTTFontImport: OutPutGlyph X=2192 Y=1440 FontHeight=39 FontWidth=17 Char=00d5 U=137 V=91 =Usize=17 VSIze=39
+[2020.05.07-20.32.22:511][124]LogTTFontImport: OutPutGlyph X=2528 Y=1440 FontHeight=39 FontWidth=17 Char=00d6 U=158 V=91 =Usize=17 VSIze=39
+[2020.05.07-20.32.22:511][124]LogTTFontImport: OutPutGlyph X=2864 Y=1440 FontHeight=39 FontWidth=12 Char=00d7 U=179 V=91 =Usize=12 VSIze=39
+[2020.05.07-20.32.22:511][124]LogTTFontImport: OutPutGlyph X=3120 Y=1440 FontHeight=39 FontWidth=17 Char=00d8 U=195 V=91 =Usize=17 VSIze=39
+[2020.05.07-20.32.22:511][124]LogTTFontImport: OutPutGlyph X=3456 Y=1440 FontHeight=39 FontWidth=15 Char=00d9 U=216 V=91 =Usize=15 VSIze=39
+[2020.05.07-20.32.22:512][124]LogTTFontImport: OutPutGlyph X=3760 Y=1440 FontHeight=39 FontWidth=15 Char=00da U=235 V=91 =Usize=15 VSIze=39
+[2020.05.07-20.32.22:512][124]LogTTFontImport: OutPutGlyph X=64 Y=2128 FontHeight=39 FontWidth=15 Char=00db U=4 V=134 =Usize=15 VSIze=39
+[2020.05.07-20.32.22:512][124]LogTTFontImport: OutPutGlyph X=368 Y=2128 FontHeight=39 FontWidth=15 Char=00dc U=23 V=134 =Usize=15 VSIze=39
+[2020.05.07-20.32.22:512][124]LogTTFontImport: OutPutGlyph X=672 Y=2128 FontHeight=39 FontWidth=15 Char=00dd U=42 V=134 =Usize=15 VSIze=39
+[2020.05.07-20.32.22:512][124]LogTTFontImport: OutPutGlyph X=976 Y=2128 FontHeight=39 FontWidth=14 Char=00de U=61 V=134 =Usize=14 VSIze=39
+[2020.05.07-20.32.22:513][124]LogTTFontImport: OutPutGlyph X=1264 Y=2128 FontHeight=39 FontWidth=16 Char=00df U=79 V=134 =Usize=16 VSIze=39
+[2020.05.07-20.32.22:513][124]LogTTFontImport: OutPutGlyph X=1584 Y=2128 FontHeight=39 FontWidth=15 Char=00e0 U=99 V=134 =Usize=15 VSIze=39
+[2020.05.07-20.32.22:513][124]LogTTFontImport: OutPutGlyph X=1888 Y=2128 FontHeight=39 FontWidth=15 Char=00e1 U=118 V=134 =Usize=15 VSIze=39
+[2020.05.07-20.32.22:513][124]LogTTFontImport: OutPutGlyph X=2192 Y=2128 FontHeight=39 FontWidth=15 Char=00e2 U=137 V=134 =Usize=15 VSIze=39
+[2020.05.07-20.32.22:513][124]LogTTFontImport: OutPutGlyph X=2496 Y=2128 FontHeight=39 FontWidth=15 Char=00e3 U=156 V=134 =Usize=15 VSIze=39
+[2020.05.07-20.32.22:514][124]LogTTFontImport: OutPutGlyph X=2800 Y=2128 FontHeight=39 FontWidth=15 Char=00e4 U=175 V=134 =Usize=15 VSIze=39
+[2020.05.07-20.32.22:514][124]LogTTFontImport: OutPutGlyph X=3104 Y=2128 FontHeight=39 FontWidth=15 Char=00e5 U=194 V=134 =Usize=15 VSIze=39
+[2020.05.07-20.32.22:514][124]LogTTFontImport: OutPutGlyph X=3408 Y=2128 FontHeight=39 FontWidth=24 Char=00e6 U=213 V=134 =Usize=24 VSIze=39
+[2020.05.07-20.32.22:515][124]LogTTFontImport: OutPutGlyph X=3856 Y=2128 FontHeight=39 FontWidth=14 Char=00e7 U=241 V=134 =Usize=14 VSIze=39
+[2020.05.07-20.32.22:515][124]LogTTFontImport: OutPutGlyph X=64 Y=2816 FontHeight=39 FontWidth=14 Char=00e8 U=4 V=177 =Usize=14 VSIze=39
+[2020.05.07-20.32.22:515][124]LogTTFontImport: OutPutGlyph X=352 Y=2816 FontHeight=39 FontWidth=14 Char=00e9 U=22 V=177 =Usize=14 VSIze=39
+[2020.05.07-20.32.22:515][124]LogTTFontImport: OutPutGlyph X=640 Y=2816 FontHeight=39 FontWidth=14 Char=00ea U=40 V=177 =Usize=14 VSIze=39
+[2020.05.07-20.32.22:515][124]LogTTFontImport: OutPutGlyph X=928 Y=2816 FontHeight=39 FontWidth=14 Char=00eb U=58 V=177 =Usize=14 VSIze=39
+[2020.05.07-20.32.22:516][124]LogTTFontImport: OutPutGlyph X=1216 Y=2816 FontHeight=39 FontWidth=7 Char=00ec U=76 V=177 =Usize=7 VSIze=39
+[2020.05.07-20.32.22:516][124]LogTTFontImport: OutPutGlyph X=1392 Y=2816 FontHeight=39 FontWidth=7 Char=00ed U=87 V=177 =Usize=7 VSIze=39
+[2020.05.07-20.32.22:516][124]LogTTFontImport: OutPutGlyph X=1568 Y=2816 FontHeight=39 FontWidth=7 Char=00ee U=98 V=177 =Usize=7 VSIze=39
+[2020.05.07-20.32.22:516][124]LogTTFontImport: OutPutGlyph X=1744 Y=2816 FontHeight=39 FontWidth=7 Char=00ef U=109 V=177 =Usize=7 VSIze=39
+[2020.05.07-20.32.22:516][124]LogTTFontImport: OutPutGlyph X=1920 Y=2816 FontHeight=39 FontWidth=14 Char=00f0 U=120 V=177 =Usize=14 VSIze=39
+[2020.05.07-20.32.22:517][124]LogTTFontImport: OutPutGlyph X=2208 Y=2816 FontHeight=39 FontWidth=15 Char=00f1 U=138 V=177 =Usize=15 VSIze=39
+[2020.05.07-20.32.22:517][124]LogTTFontImport: OutPutGlyph X=2512 Y=2816 FontHeight=39 FontWidth=14 Char=00f2 U=157 V=177 =Usize=14 VSIze=39
+[2020.05.07-20.32.22:517][124]LogTTFontImport: OutPutGlyph X=2800 Y=2816 FontHeight=39 FontWidth=14 Char=00f3 U=175 V=177 =Usize=14 VSIze=39
+[2020.05.07-20.32.22:517][124]LogTTFontImport: OutPutGlyph X=3088 Y=2816 FontHeight=39 FontWidth=14 Char=00f4 U=193 V=177 =Usize=14 VSIze=39
+[2020.05.07-20.32.22:518][124]LogTTFontImport: OutPutGlyph X=3376 Y=2816 FontHeight=39 FontWidth=14 Char=00f5 U=211 V=177 =Usize=14 VSIze=39
+[2020.05.07-20.32.22:518][124]LogTTFontImport: OutPutGlyph X=3664 Y=2816 FontHeight=39 FontWidth=14 Char=00f6 U=229 V=177 =Usize=14 VSIze=39
+[2020.05.07-20.32.24:430][124]LogTexture: Display: Building textures: PoppinsDistance_PageC (G8, 256X256)
+[2020.05.07-20.32.24:433][124]LogTTFontImport: OutPutGlyph X=64 Y=64 FontHeight=39 FontWidth=12 Char=00f7 U=4 V=5 =Usize=12 VSIze=39
+[2020.05.07-20.32.24:434][124]LogTTFontImport: OutPutGlyph X=320 Y=64 FontHeight=39 FontWidth=14 Char=00f8 U=20 V=5 =Usize=14 VSIze=39
+[2020.05.07-20.32.24:434][124]LogTTFontImport: OutPutGlyph X=608 Y=64 FontHeight=39 FontWidth=15 Char=00f9 U=38 V=5 =Usize=15 VSIze=39
+[2020.05.07-20.32.24:435][124]LogTTFontImport: OutPutGlyph X=912 Y=64 FontHeight=39 FontWidth=15 Char=00fa U=57 V=5 =Usize=15 VSIze=39
+[2020.05.07-20.32.24:435][124]LogTTFontImport: OutPutGlyph X=1216 Y=64 FontHeight=39 FontWidth=15 Char=00fb U=76 V=5 =Usize=15 VSIze=39
+[2020.05.07-20.32.24:436][124]LogTTFontImport: OutPutGlyph X=1520 Y=64 FontHeight=39 FontWidth=15 Char=00fc U=95 V=5 =Usize=15 VSIze=39
+[2020.05.07-20.32.24:436][124]LogTTFontImport: OutPutGlyph X=1824 Y=64 FontHeight=39 FontWidth=14 Char=00fd U=114 V=5 =Usize=14 VSIze=39
+[2020.05.07-20.32.24:436][124]LogTTFontImport: OutPutGlyph X=2112 Y=64 FontHeight=39 FontWidth=15 Char=00fe U=132 V=5 =Usize=15 VSIze=39
+[2020.05.07-20.32.24:437][124]LogTTFontImport: OutPutGlyph X=2416 Y=64 FontHeight=39 FontWidth=14 Char=00ff U=151 V=5 =Usize=14 VSIze=39
+[2020.05.07-20.32.25:063][124]LogTexture: Display: Building textures: PoppinsDistance_PageD (G8, 256X64)
+[2020.05.07-20.32.25:066][124]LogTTFontImport: ImportTrueTypeFont: Total Time 7.06
+[2020.05.07-20.32.26:949][234]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (23.075 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.05.07-20.32.36:232][781]LogMaterial: Display: Missing cached shader map for material PoppinsMaterial, compiling. 
+[2020.05.07-20.32.36:947][822]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.05.07-20.32.37:842][876]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.05.07-20.32.38:627][923]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.05.07-20.32.39:762][991]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.05.07-20.32.51:971][713]LogMaterial: Display: Missing cached shader map for material PoppinsMaterial, compiling. 
+[2020.05.07-20.32.52:035][713]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_0, compiling. 
+[2020.05.07-20.32.52:069][713]LogMaterial: Display: Missing cached shader map for material PoppinsMaterial, compiling. 
+[2020.05.07-20.32.52:571][742]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.05.07-20.32.53:320][787]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.05.07-20.32.54:086][833]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.05.07-20.32.55:021][889]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.05.07-20.32.55:294][902]LogMaterial: Display: Missing cached shader map for material PoppinsMaterial, compiling. 
+[2020.05.07-20.32.55:347][904]LogMaterialEditor: Saving and Compiling material PoppinsMaterial
+[2020.05.07-20.33.01:617][904]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.05.07-20.33.01:617][904]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.05.07-20.33.01:617][904]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.05.07-20.33.01:617][904]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.05.07-20.33.01:660][904]LogMaterial: Display: Missing cached shader map for material PoppinsMaterial, compiling. 
+[2020.05.07-20.33.02:331][904]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.05.07-20.33.03:640][904]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.05.07-20.33.03:640][904]LogMaterial: Display: Missing cached shader map for material PoppinsMaterial, compiling. 
+[2020.05.07-20.33.03:666][904]LogMaterial: Display: Missing cached shader map for material PoppinsMaterial, compiling. 
+[2020.05.07-20.33.04:043][904]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.05.07-20.33.07:056][904]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.05.07-20.33.07:056][904]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.05.07-20.33.12:562][904]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.05.07-20.33.16:330][904]TextureStreamingBuild: Display: Compiling optional shaders took 12.157 seconds.
+[2020.05.07-20.33.16:921][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.05.07-20.33.17:564][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/PoppinsMaterial" FILE="../../../Engine/Content/EngineMaterials/PoppinsMaterial.uasset" SILENT=true
+[2020.05.07-20.33.18:102][904]LogSavePackage: Moving '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/PoppinsMaterialE6A023AE41BB97A9291432A7CBE9B500.tmp' to '../../../Engine/Content/EngineMaterials/PoppinsMaterial.uasset'
+[2020.05.07-20.33.18:251][904]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.05.07-20.33.18:251][904]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.05.07-20.33.18:251][904]MaterialEditorStats: Base pass vertex shader: 51 instructions
+[2020.05.07-20.33.18:251][904]MaterialEditorStats: Texture samplers: 4/16
+[2020.05.07-20.33.18:251][904]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.05.07-20.33.18:251][904]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.05.07-20.33.40:133][ 86]LogMaterial: Display: Missing cached shader map for material PoppinsMaterial, compiling. 
+[2020.05.07-20.33.44:952][372]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.05.07-20.33.49:279][631]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.07-20.33.56:560][832]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.05.07-20.33.56:562][832]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.07-20.34.02:294][833]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.05.07-20.34.04:688][974]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.05.07-20.34.10:871][267]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.05.07-20.34.10:871][267]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.05.07-20.34.10:871][267]MaterialEditorStats: Base pass vertex shader: 51 instructions
+[2020.05.07-20.34.10:871][267]MaterialEditorStats: Texture samplers: 4/16
+[2020.05.07-20.34.10:871][267]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.05.07-20.34.10:871][267]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.05.07-20.34.19:348][383]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.07-20.34.23:682][524]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	BP_HealingStation_C /Engine/Transient.World_2:PersistentLevel.BP_HealingStation_C_0
+	Function /Game/Blueprints/BP_HealingStation.BP_HealingStation_C:OnRep_HealingCapacity:00CC
+[2020.05.07-20.34.23:685][524]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	BP_HealingStation_C /Game/Maps/Online.Online:PersistentLevel.BP_HealingStation_2
+	Function /Game/Blueprints/BP_HealingStation.BP_HealingStation_C:OnRep_HealingCapacity:00CC
+[2020.05.07-20.34.23:687][524]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	BP_HealingStation_C /Engine/Transient.World_2:PersistentLevel.BP_HealingStation_C_0
+	Function /Game/Blueprints/BP_HealingStation.BP_HealingStation_C:OnRep_HealingCapacity:00CC
+[2020.05.07-20.34.23:689][524]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	BP_HealingStation_C /Game/Maps/Online.Online:PersistentLevel.BP_HealingStation_2
+	Function /Game/Blueprints/BP_HealingStation.BP_HealingStation_C:OnRep_HealingCapacity:00CC
+[2020.05.07-20.34.23:712][524]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	BP_HealingStation_C /Engine/Transient.World_2:PersistentLevel.BP_HealingStation_C_0
+	Function /Game/Blueprints/BP_HealingStation.BP_HealingStation_C:OnRep_HealingCapacity:00CC
+[2020.05.07-20.34.32:295][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.07-20.34.33:945][138]LogMaterialEditor: Saving and Compiling material PoppinsMaterial
+[2020.05.07-20.34.33:970][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/PoppinsMaterial" FILE="../../../Engine/Content/EngineMaterials/PoppinsMaterial.uasset" SILENT=true
+[2020.05.07-20.34.57:067][138]LogSavePackage: Moving '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/PoppinsMaterialCC3B2CB84568C7FFC2BD718F905CC419.tmp' to '../../../Engine/Content/EngineMaterials/PoppinsMaterial.uasset'
+[2020.05.07-20.35.11:894][740]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.07-20.35.22:458][209]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.07-20.35.29:083][605]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	BP_HealingStation_C /Game/Maps/Online.Online:PersistentLevel.BP_HealingStation_2
+	Function /Game/Blueprints/BP_HealingStation.BP_HealingStation_C:OnRep_HealingCapacity:00CC
+[2020.05.07-20.35.29:085][605]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	BP_HealingStation_C /Engine/Transient.World_2:PersistentLevel.BP_HealingStation_C_0
+	Function /Game/Blueprints/BP_HealingStation.BP_HealingStation_C:OnRep_HealingCapacity:00CC
+[2020.05.07-20.35.29:087][605]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	BP_HealingStation_C /Engine/Transient.World_2:PersistentLevel.BP_HealingStation_C_0
+	Function /Game/Blueprints/BP_HealingStation.BP_HealingStation_C:OnRep_HealingCapacity:00CC
+[2020.05.07-20.35.29:090][605]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	BP_HealingStation_C /Game/Maps/Online.Online:PersistentLevel.BP_HealingStation_2
+	Function /Game/Blueprints/BP_HealingStation.BP_HealingStation_C:OnRep_HealingCapacity:00CC
+[2020.05.07-20.35.29:101][605]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	BP_HealingStation_C /Engine/Transient.World_2:PersistentLevel.BP_HealingStation_C_0
+	Function /Game/Blueprints/BP_HealingStation.BP_HealingStation_C:OnRep_HealingCapacity:00CC
+[2020.05.07-20.35.37:716][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.07-20.35.39:519][191]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	BP_HealingStation_C /Game/Maps/Online.Online:PersistentLevel.BP_HealingStation_2
+	Function /Game/Blueprints/BP_HealingStation.BP_HealingStation_C:OnRep_HealingCapacity:00CC
+[2020.05.07-20.35.39:520][191]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	BP_HealingStation_C /Engine/Transient.World_2:PersistentLevel.BP_HealingStation_C_0
+	Function /Game/Blueprints/BP_HealingStation.BP_HealingStation_C:OnRep_HealingCapacity:00CC
+[2020.05.07-20.35.39:521][191]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	BP_HealingStation_C /Engine/Transient.World_2:PersistentLevel.BP_HealingStation_C_0
+	Function /Game/Blueprints/BP_HealingStation.BP_HealingStation_C:OnRep_HealingCapacity:00CC
+[2020.05.07-20.35.39:523][191]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	BP_HealingStation_C /Game/Maps/Online.Online:PersistentLevel.BP_HealingStation_2
+	Function /Game/Blueprints/BP_HealingStation.BP_HealingStation_C:OnRep_HealingCapacity:00CC
+[2020.05.07-20.35.39:532][191]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	BP_HealingStation_C /Engine/Transient.World_2:PersistentLevel.BP_HealingStation_C_0
+	Function /Game/Blueprints/BP_HealingStation.BP_HealingStation_C:OnRep_HealingCapacity:00CC
+[2020.05.07-20.36.20:765][485]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.07-20.36.24:784][485]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.05.07-20.36.42:789][485]LogSavePackage: Moving '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Online_Auto140957915457A55CA624A9ABB10DCCD77.tmp' to '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Autosaves/Game/Maps/Online_Auto1.umap'
+[2020.05.07-20.36.44:100][485]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Online' took 20.444
+[2020.05.07-20.36.44:100][485]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 20.444
+[2020.05.07-20.36.44:113][485]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_HealingStation] ([1] browsable assets)...
+[2020.05.07-20.36.44:121][485]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	BP_HealingStation_C /Engine/Transient.World_8:PersistentLevel.BP_HealingStation_C_0
+	Function /Game/Blueprints/BP_HealingStation.BP_HealingStation_C:OnRep_HealingCapacity:00CC
+[2020.05.07-20.36.44:147][485]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_HealingStation.BP_HealingStation]
+[2020.05.07-20.36.44:147][485]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_HealingStation]
+[2020.05.07-20.36.45:917][485]LogSavePackage: Moving '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/BP_HealingStation_Auto17FE40C39425907210928BAA240A52432.tmp' to '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Autosaves/Game/Blueprints/BP_HealingStation_Auto1.uasset'
+[2020.05.07-20.36.47:419][485]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PoppinsDistance] ([1] browsable assets)...
+[2020.05.07-20.36.47:430][485]OBJ SavePackage:     Rendered thumbnail for [Font /Game/PoppinsDistance.PoppinsDistance]
+[2020.05.07-20.36.47:430][485]OBJ SavePackage: Finished generating thumbnails for package [/Game/PoppinsDistance]
+[2020.05.07-20.36.47:439][485]LogSavePackage: Moving '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/PoppinsDistance_Auto1684EB8E6476C38D8ABF94E9321AC6E45.tmp' to '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/Autosaves/Game/PoppinsDistance_Auto1.uasset'
+[2020.05.07-20.36.47:440][485]LogFileHelpers: Auto-saving content packages took 3.327
+[2020.05.07-20.36.49:574][575]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.07-20.36.53:514][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PoppinsDistance" FILE="../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/PoppinsDistance.uasset" SILENT=true
+[2020.05.07-20.36.53:531][810]LogSavePackage: Moving '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Saved/PoppinsDistance91DD05AD458095B951410F871C328ABE.tmp' to '../../../../../../Users/ayala/Documents/GitHub/VJ3-test/MapProject 4.22/Content/PoppinsDistance.uasset'
+[2020.05.07-20.37.27:049][327]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (39.586 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.05.07-20.39.02:788][404]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.07-20.39.06:485][404]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.07-20.51.18:109][702]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.07-20.51.30:927][446]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	BP_HealingStation_C /Engine/Transient.World_2:PersistentLevel.BP_HealingStation_C_0
+	Function /Game/Blueprints/BP_HealingStation.BP_HealingStation_C:OnRep_HealingCapacity:00CC
+[2020.05.07-20.51.30:948][446]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	BP_HealingStation_C /Game/Maps/Online.Online:PersistentLevel.BP_HealingStation_2
+	Function /Game/Blueprints/BP_HealingStation.BP_HealingStation_C:OnRep_HealingCapacity:00CC
+[2020.05.07-20.51.30:950][446]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	BP_HealingStation_C /Engine/Transient.World_8:PersistentLevel.BP_HealingStation_C_0
+	Function /Game/Blueprints/BP_HealingStation.BP_HealingStation_C:OnRep_HealingCapacity:00CC
+[2020.05.07-20.51.30:952][446]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	BP_HealingStation_C /Engine/Transient.World_2:PersistentLevel.BP_HealingStation_C_0
+	Function /Game/Blueprints/BP_HealingStation.BP_HealingStation_C:OnRep_HealingCapacity:00CC
+[2020.05.07-20.51.31:000][446]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	BP_HealingStation_C /Game/Maps/Online.Online:PersistentLevel.BP_HealingStation_2
+	Function /Game/Blueprints/BP_HealingStation.BP_HealingStation_C:OnRep_HealingCapacity:00CC
+[2020.05.07-20.51.31:002][446]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	BP_HealingStation_C /Engine/Transient.World_8:PersistentLevel.BP_HealingStation_C_0
+	Function /Game/Blueprints/BP_HealingStation.BP_HealingStation_C:OnRep_HealingCapacity:00CC
+[2020.05.07-20.51.31:004][446]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.07-20.51.31:023][446]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	BP_HealingStation_C /Engine/Transient.World_2:PersistentLevel.BP_HealingStation_C_0
+	Function /Game/Blueprints/BP_HealingStation.BP_HealingStation_C:OnRep_HealingCapacity:00CC
+[2020.05.07-20.51.42:633][  4]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	BP_HealingStation_C /Game/Maps/Online.Online:PersistentLevel.BP_HealingStation_2
+	Function /Game/Blueprints/BP_HealingStation.BP_HealingStation_C:OnRep_HealingCapacity:00CC
+[2020.05.07-20.51.42:639][  4]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	BP_HealingStation_C /Game/Maps/Online.Online:PersistentLevel.BP_HealingStation_2
+	Function /Game/Blueprints/BP_HealingStation.BP_HealingStation_C:OnRep_HealingCapacity:00CC
+[2020.05.07-20.51.43:905][ 72]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	BP_HealingStation_C /Game/Maps/Online.Online:PersistentLevel.BP_HealingStation_2
+	Function /Game/Blueprints/BP_HealingStation.BP_HealingStation_C:OnRep_HealingCapacity:00CC
+[2020.05.07-20.51.43:912][ 72]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	BP_HealingStation_C /Game/Maps/Online.Online:PersistentLevel.BP_HealingStation_2
+	Function /Game/Blueprints/BP_HealingStation.BP_HealingStation_C:OnRep_HealingCapacity:00CC
+[2020.05.07-20.51.44:542][109]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	BP_HealingStation_C /Game/Maps/Online.Online:PersistentLevel.BP_HealingStation_2
+	Function /Game/Blueprints/BP_HealingStation.BP_HealingStation_C:OnRep_HealingCapacity:00CC
+[2020.05.07-20.51.44:549][109]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	BP_HealingStation_C /Game/Maps/Online.Online:PersistentLevel.BP_HealingStation_2
+	Function /Game/Blueprints/BP_HealingStation.BP_HealingStation_C:OnRep_HealingCapacity:00CC
+[2020.05.07-20.51.45:655][175]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	BP_HealingStation_C /Game/Maps/Online.Online:PersistentLevel.BP_HealingStation_2
+	Function /Game/Blueprints/BP_HealingStation.BP_HealingStation_C:OnRep_HealingCapacity:00CC
+[2020.05.07-20.51.45:664][175]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.07-20.51.49:444][393]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.07-20.52.07:912][479]LogEditorTransaction: Undo Modify Component(s)
+[2020.05.07-20.52.08:340][479]LogMaterial: Display: Missing cached shader map for material PoppinsMaterial, compiling. 
+[2020.05.07-20.52.13:469][690]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.05.07-20.52.13:548][694]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.07-20.52.19:268][986]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.05.07-20.52.20:051][ 33]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.05.07-20.52.21:069][ 94]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.05.07-20.52.22:710][192]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.05.07-20.52.22:710][192]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.05.07-20.52.22:710][192]MaterialEditorStats: Base pass vertex shader: 51 instructions
+[2020.05.07-20.52.22:710][192]MaterialEditorStats: Texture samplers: 4/16
+[2020.05.07-20.52.22:710][192]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.05.07-20.52.22:710][192]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.05.07-20.53.04:695][700]LogMaterial: Display: Missing cached shader map for material PoppinsMaterial, compiling. 
+[2020.05.07-20.53.04:695][700]LogMaterial: Warning: /Engine/Transient.PoppinsMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.05.07-20.53.04:695][700]LogMaterial: 	(Node FontSampleParameter) Font Param> Font 'Poppins' is runtime cached, but only offline cached fonts can be sampled
+[2020.05.07-20.53.04:707][700]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_0, compiling. 
+[2020.05.07-20.53.04:798][700]LogMaterial: Display: Missing cached shader map for material PoppinsMaterial, compiling. 
+[2020.05.07-20.53.04:799][700]LogMaterial: Warning: /Engine/Transient.PoppinsMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.05.07-20.53.04:799][700]LogMaterial: 	(Node FontSampleParameter) Font Param> Font 'Poppins' is runtime cached, but only offline cached fonts can be sampled
+[2020.05.07-20.53.04:803][700]MaterialEditorStats: Error: [SM5] (Node FontSampleParameter) Font Param> Font 'Poppins' is runtime cached, but only offline cached fonts can be sampled
+[2020.05.07-20.53.09:870][993]LogMaterial: Display: Missing cached shader map for material PoppinsMaterial, compiling. 
+[2020.05.07-20.53.09:870][993]LogMaterial: Warning: /Engine/Transient.PoppinsMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.05.07-20.53.09:870][993]LogMaterial: 	(Node FontSampleParameter) Font Param> Font 'Poppins-Black_Font' is runtime cached, but only offline cached fonts can be sampled
+[2020.05.07-20.53.09:877][993]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_0, compiling. 
+[2020.05.07-20.53.10:580][993]LogMaterial: Display: Missing cached shader map for material PoppinsMaterial, compiling. 
+[2020.05.07-20.53.10:581][993]LogMaterial: Warning: /Engine/Transient.PoppinsMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.05.07-20.53.10:581][993]LogMaterial: 	(Node FontSampleParameter) Font Param> Font 'Poppins-Black_Font' is runtime cached, but only offline cached fonts can be sampled
+[2020.05.07-20.53.10:585][993]MaterialEditorStats: Error: [SM5] (Node FontSampleParameter) Font Param> Font 'Poppins-Black_Font' is runtime cached, but only offline cached fonts can be sampled
+[2020.05.07-20.53.15:160][192]LogMaterialEditor: Saving and Compiling material PoppinsMaterial
+[2020.05.07-20.53.17:698][192]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2020.05.07-20.53.23:518][539]LogMaterial: Display: Missing cached shader map for material PoppinsMaterial, compiling. 
+[2020.05.07-20.53.23:543][539]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_0, compiling. 
+[2020.05.07-20.53.23:617][539]LogMaterial: Display: Missing cached shader map for material PoppinsMaterial, compiling. 
+[2020.05.07-20.53.24:421][586]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.05.07-20.53.25:302][639]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.05.07-20.53.26:032][682]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.05.07-20.53.26:916][735]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.05.07-20.53.28:591][835]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.05.07-20.53.28:591][835]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.05.07-20.53.28:591][835]MaterialEditorStats: Base pass vertex shader: 51 instructions
+[2020.05.07-20.53.28:591][835]MaterialEditorStats: Texture samplers: 4/16
+[2020.05.07-20.53.28:591][835]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.05.07-20.53.28:591][835]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.05.07-20.54.01:718][739]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.07-20.55.31:768][899]BlueprintLog: New page: Compile BP_HealingStation
+[2020.05.07-20.55.32:256][899]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2020.05.07-20.55.32:359][899]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	BP_HealingStation_C /Engine/Transient.World_8:PersistentLevel.BP_HealingStation_C_1
+	Function /Game/Blueprints/BP_HealingStation.BP_HealingStation_C:OnRep_HealingCapacity:00CC
+[2020.05.07-20.55.32:388][899]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	BP_HealingStation_C /Engine/Transient.World_8:PersistentLevel.BP_HealingStation_C_1
+	Function /Game/Blueprints/BP_HealingStation.BP_HealingStation_C:OnRep_HealingCapacity:00CC
+[2020.05.07-20.55.41:699][447]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	BP_HealingStation_C /Engine/Transient.World_8:PersistentLevel.BP_HealingStation_C_1
+	Function /Game/Blueprints/BP_HealingStation.BP_HealingStation_C:OnRep_HealingCapacity:00CC
+[2020.05.07-20.55.41:705][447]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	BP_HealingStation_C /Engine/Transient.World_8:PersistentLevel.BP_HealingStation_C_1
+	Function /Game/Blueprints/BP_HealingStation.BP_HealingStation_C:OnRep_HealingCapacity:00CC
+[2020.05.07-20.55.43:435][551]BlueprintLog: New page: Compile BP_HealingStation
+[2020.05.07-20.55.43:454][551]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	BP_HealingStation_C /Engine/Transient.World_8:PersistentLevel.BP_HealingStation_C_1
+	Function /Game/Blueprints/BP_HealingStation.BP_HealingStation_C:OnRep_HealingCapacity:00CC
+[2020.05.07-20.55.43:642][551]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2020.05.07-20.55.43:648][551]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	BP_HealingStation_C /Engine/Transient.World_8:PersistentLevel.BP_HealingStation_C_1
+	Function /Game/Blueprints/BP_HealingStation.BP_HealingStation_C:OnRep_HealingCapacity:00CC
+[2020.05.07-20.55.43:649][551]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	BP_HealingStation_C /Engine/Transient.World_8:PersistentLevel.BP_HealingStation_C_2
+	Function /Game/Blueprints/BP_HealingStation.BP_HealingStation_C:OnRep_HealingCapacity:00CC
+[2020.05.07-20.55.43:656][551]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	BP_HealingStation_C /Engine/Transient.World_8:PersistentLevel.BP_HealingStation_C_2
+	Function /Game/Blueprints/BP_HealingStation.BP_HealingStation_C:OnRep_HealingCapacity:00CC
+[2020.05.07-20.55.58:106][401]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	BP_HealingStation_C /Engine/Transient.World_8:PersistentLevel.BP_HealingStation_C_2
+	Function /Game/Blueprints/BP_HealingStation.BP_HealingStation_C:OnRep_HealingCapacity:00CC
+[2020.05.07-20.55.58:112][401]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	BP_HealingStation_C /Engine/Transient.World_8:PersistentLevel.BP_HealingStation_C_2
+	Function /Game/Blueprints/BP_HealingStation.BP_HealingStation_C:OnRep_HealingCapacity:00CC
+[2020.05.07-20.56.01:348][588]LogEditorTransaction: Undo Edit Text
+[2020.05.07-20.56.01:456][588]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.05.07-20.56.26:648][588]LogStats: FPlatformStackWalk::StackWalkAndDump - 25.192 s
+[2020.05.07-20.56.26:648][588]LogOutputDevice: Error: === Handled ensure: ===
+[2020.05.07-20.56.26:648][588]LogOutputDevice: Error: 
+[2020.05.07-20.56.26:648][588]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2020.05.07-20.56.26:648][588]LogOutputDevice: Error: 
+[2020.05.07-20.56.26:648][588]LogOutputDevice: Error: Stack: 
+[2020.05.07-20.56.26:648][588]LogOutputDevice: Error: [Callstack] 0x00007ffff2e41258 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.07-20.56.26:648][588]LogOutputDevice: Error: [Callstack] 0x00007ffff236b350 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.07-20.56.26:648][588]LogOutputDevice: Error: [Callstack] 0x00007ffff2324b5a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.07-20.56.26:648][588]LogOutputDevice: Error: [Callstack] 0x00007ffff053d7b9 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.05.07-20.56.26:648][588]LogOutputDevice: Error: [Callstack] 0x00007ffff047d3e9 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.05.07-20.56.26:648][588]LogOutputDevice: Error: [Callstack] 0x00007ffff04f9de3 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.05.07-20.56.26:648][588]LogOutputDevice: Error: [Callstack] 0x00007ffff0585929 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.05.07-20.56.26:648][588]LogOutputDevice: Error: [Callstack] 0x00007fffeaa7b233 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2020.05.07-20.56.26:648][588]LogOutputDevice: Error: [Callstack] 0x00007fffed68a25a UE4Editor-EditorWidgets.dll!UnknownFunction []
+[2020.05.07-20.56.26:648][588]LogOutputDevice: Error: [Callstack] 0x00007fffed66f2e9 UE4Editor-EditorWidgets.dll!UnknownFunction []
+[2020.05.07-20.56.26:648][588]LogOutputDevice: Error: [Callstack] 0x00007ff800d87377 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.07-20.56.26:648][588]LogOutputDevice: Error: [Callstack] 0x00007ff800d7cc60 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.07-20.56.26:648][588]LogOutputDevice: Error: [Callstack] 0x00007ff800b85efe UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.07-20.56.26:648][588]LogOutputDevice: Error: [Callstack] 0x00007ff800b36444 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.07-20.56.26:648][588]LogOutputDevice: Error: [Callstack] 0x00007fffefa31e34 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.05.07-20.56.26:648][588]LogOutputDevice: Error: [Callstack] 0x00007fffef7ed84d UE4Editor-Kismet.dll!UnknownFunction []
+[2020.05.07-20.56.26:648][588]LogOutputDevice: Error: [Callstack] 0x00007fffef7c8389 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.05.07-20.56.26:648][588]LogOutputDevice: Error: [Callstack] 0x00007fffefb047a3 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.05.07-20.56.26:648][588]LogOutputDevice: Error: [Callstack] 0x00007fffefaecdf8 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.05.07-20.56.26:648][588]LogOutputDevice: Error: [Callstack] 0x00007fffefaabe94 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.05.07-20.56.26:648][588]LogOutputDevice: Error: [Callstack] 0x00007fffefaf2aea UE4Editor-Kismet.dll!UnknownFunction []
+[2020.05.07-20.56.26:648][588]LogOutputDevice: Error: [Callstack] 0x00007fffef7aaa78 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.05.07-20.56.26:648][588]LogOutputDevice: Error: [Callstack] 0x00007fffef7d7756 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.05.07-20.56.26:648][588]LogOutputDevice: Error: [Callstack] 0x00007fffef7f356d UE4Editor-Kismet.dll!UnknownFunction []
+[2020.05.07-20.56.26:648][588]LogOutputDevice: Error: [Callstack] 0x00007ffff2324fed UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.07-20.56.26:648][588]LogOutputDevice: Error: [Callstack] 0x00007ffff2346366 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.07-20.56.26:648][588]LogOutputDevice: Error: [Callstack] 0x00007ffff2332f0c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.07-20.56.26:648][588]LogOutputDevice: Error: [Callstack] 0x00007ffff238ac53 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.07-20.56.26:648][588]LogOutputDevice: Error: [Callstack] 0x00007ffff23cae98 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.07-20.56.26:648][588]LogOutputDevice: Error: [Callstack] 0x00007ffff236929f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.07-20.56.26:649][588]LogOutputDevice: Error: [Callstack] 0x00007fffef7c9188 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.05.07-20.56.26:649][588]LogOutputDevice: Error: [Callstack] 0x00007ff800b371ea UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.07-20.56.26:649][588]LogOutputDevice: Error: [Callstack] 0x00007ff800b6743e UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.07-20.56.26:649][588]LogOutputDevice: Error: [Callstack] 0x00007ffff2b0769e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.07-20.56.26:649][588]LogOutputDevice: Error: [Callstack] 0x00007ffff2af6e41 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.07-20.56.26:649][588]LogOutputDevice: Error: [Callstack] 0x00007ff800b01e66 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.07-20.56.26:649][588]LogOutputDevice: Error: [Callstack] 0x00007ff800b68dcd UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.07-20.56.26:649][588]LogOutputDevice: Error: [Callstack] 0x00007ff800b5f1ce UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.07-20.56.26:649][588]LogOutputDevice: Error: [Callstack] 0x00007ff817cdb55a UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.07-20.56.26:649][588]LogOutputDevice: Error: [Callstack] 0x00007ff817ccef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.07-20.56.26:649][588]LogOutputDevice: Error: [Callstack] 0x00007ff817cdd77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.07-20.56.26:649][588]LogOutputDevice: Error: [Callstack] 0x00007ff817ccc090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.07-20.56.26:649][588]LogOutputDevice: Error: [Callstack] 0x00007ff8361d5c0d USER32.dll!UnknownFunction []
+[2020.05.07-20.56.26:649][588]LogOutputDevice: Error: [Callstack] 0x00007ff8361d5602 USER32.dll!UnknownFunction []
+[2020.05.07-20.56.26:649][588]LogOutputDevice: Error: [Callstack] 0x00007ff817cde946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.07-20.56.26:649][588]LogOutputDevice: Error: [Callstack] 0x00007ff674935d3e UE4Editor.exe!UnknownFunction []
+[2020.05.07-20.56.26:649][588]LogOutputDevice: Error: [Callstack] 0x00007ff67494554c UE4Editor.exe!UnknownFunction []
+[2020.05.07-20.56.26:649][588]LogOutputDevice: Error: [Callstack] 0x00007ff6749455ca UE4Editor.exe!UnknownFunction []
+[2020.05.07-20.56.26:649][588]LogOutputDevice: Error: [Callstack] 0x00007ff67495316c UE4Editor.exe!UnknownFunction []
+[2020.05.07-20.56.26:649][588]LogOutputDevice: Error: [Callstack] 0x00007ff674955b8e UE4Editor.exe!UnknownFunction []
+[2020.05.07-20.56.26:649][588]LogOutputDevice: Error: [Callstack] 0x00007ff834ef7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.05.07-20.56.26:649][588]LogOutputDevice: Error: [Callstack] 0x00007ff83676ced1 ntdll.dll!UnknownFunction []
+[2020.05.07-20.56.26:649][588]LogOutputDevice: Error: 
+[2020.05.07-20.56.26:677][588]LogStats:                SubmitErrorReport -  0.022 s
