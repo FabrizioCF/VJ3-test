@@ -2,5 +2,28 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.22",
 	"Category": "",
+<<<<<<< Updated upstream
 	"Description": ""
+=======
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "GraphFormatter",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/297159d6d3f4425b9c095b18a811a401"
+		},
+		{
+			"Name": "OnlineSubsystemSteam",
+			"Enabled": true
+		},
+		{
+			"Name": "AdvancedSessions",
+			"Enabled": true
+		},
+		{
+			"Name": "AdvancedSteamSessions",
+			"Enabled": true
+		}
+	]
+>>>>>>> Stashed changes
 }
