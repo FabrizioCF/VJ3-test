@@ -1,0 +1,1455 @@
+﻿Log file open, 05/27/20 23:54:22
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Vis2
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.277680
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AdvancedSessions
+LogPluginManager: Mounting plugin AdvancedSteamSessions
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin GraphFormatter
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogOnline: OSS: Unable to create OnlineSubsystem module Steam
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.32.0
+LogInit: Build: ++UE4+Release-4.22-CL-6574378
+LogInit: Engine Version: 4.22.2-6574378+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): May 20 2019 09:54:56
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Games/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.28-04.54.23:022][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.28-04.54.23:022][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.28-04.54.23:022][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/FCFM/8vo Semestre/Videojuegos 3/VJ3-Master/MapProject 4.22/Saved/Config/Windows/Engine.ini]
+[2020.05.28-04.54.23:022][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.28-04.54.23:022][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/FCFM/8vo Semestre/Videojuegos 3/VJ3-Master/MapProject 4.22/Saved/Config/Windows/Engine.ini]
+[2020.05.28-04.54.23:022][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/FCFM/8vo Semestre/Videojuegos 3/VJ3-Master/MapProject 4.22/Saved/Config/Windows/Engine.ini]
+[2020.05.28-04.54.23:022][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.28-04.54.23:022][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.28-04.54.23:022][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.28-04.54.23:022][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.28-04.54.23:022][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.28-04.54.23:022][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.28-04.54.23:022][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.28-04.54.23:022][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.28-04.54.23:022][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.28-04.54.23:022][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.28-04.54.23:022][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.28-04.54.23:022][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.28-04.54.23:022][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.28-04.54.23:022][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/FCFM/8vo Semestre/Videojuegos 3/VJ3-Master/MapProject 4.22/Saved/Config/Windows/Engine.ini]
+[2020.05.28-04.54.23:022][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.28-04.54.23:022][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.28-04.54.23:022][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.28-04.54.23:022][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.28-04.54.23:022][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.28-04.54.23:022][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.28-04.54.23:022][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.05.28-04.54.23:022][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.28-04.54.23:022][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.28-04.54.23:022][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.28-04.54.23:022][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.28-04.54.23:022][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.28-04.54.23:022][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.28-04.54.23:022][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/FCFM/8vo Semestre/Videojuegos 3/VJ3-Master/MapProject 4.22/Saved/Config/Windows/Engine.ini]
+[2020.05.28-04.54.23:022][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/FCFM/8vo Semestre/Videojuegos 3/VJ3-Master/MapProject 4.22/Saved/Config/Windows/Engine.ini]
+[2020.05.28-04.54.23:024][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/FCFM/8vo Semestre/Videojuegos 3/VJ3-Master/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.05.28-04.54.23:024][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.28-04.54.23:024][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.28-04.54.23:024][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/FCFM/8vo Semestre/Videojuegos 3/VJ3-Master/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.05.28-04.54.23:024][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.28-04.54.23:024][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/FCFM/8vo Semestre/Videojuegos 3/VJ3-Master/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.05.28-04.54.23:024][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.28-04.54.23:024][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.28-04.54.23:024][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.28-04.54.23:024][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.28-04.54.23:024][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.28-04.54.23:024][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.28-04.54.23:024][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.28-04.54.23:024][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.28-04.54.23:024][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.28-04.54.23:024][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.28-04.54.23:024][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.28-04.54.23:024][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.28-04.54.23:024][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.28-04.54.23:024][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.28-04.54.23:024][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.28-04.54.23:024][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.28-04.54.23:024][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.28-04.54.23:024][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.28-04.54.23:024][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/FCFM/8vo Semestre/Videojuegos 3/VJ3-Master/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.05.28-04.54.23:024][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.28-04.54.23:024][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.28-04.54.23:024][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.28-04.54.23:024][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.28-04.54.23:024][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.28-04.54.23:024][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.28-04.54.23:024][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.28-04.54.23:025][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.28-04.54.23:025][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.28-04.54.23:025][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.28-04.54.23:025][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.28-04.54.23:025][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.28-04.54.23:025][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.28-04.54.23:025][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.28-04.54.23:025][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.28-04.54.23:025][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.28-04.54.23:025][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.28-04.54.23:025][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.28-04.54.23:025][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.28-04.54.23:025][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.28-04.54.23:025][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.28-04.54.23:025][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.28-04.54.23:025][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.28-04.54.23:025][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.28-04.54.23:025][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.28-04.54.23:025][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.28-04.54.23:025][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.28-04.54.23:025][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.28-04.54.23:025][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.28-04.54.23:025][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.28-04.54.23:025][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/FCFM/8vo Semestre/Videojuegos 3/VJ3-Master/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.05.28-04.54.23:025][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.28-04.54.23:025][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.28-04.54.23:025][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.28-04.54.23:025][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.28-04.54.23:025][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.28-04.54.23:025][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.28-04.54.23:025][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.28-04.54.23:025][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.28-04.54.23:025][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/FCFM/8vo Semestre/Videojuegos 3/VJ3-Master/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.05.28-04.54.23:025][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.28-04.54.23:025][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.28-04.54.23:025][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.28-04.54.23:025][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.28-04.54.23:025][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.28-04.54.23:025][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.28-04.54.23:025][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.28-04.54.23:025][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.28-04.54.23:025][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.28-04.54.23:025][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.28-04.54.23:025][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.28-04.54.23:025][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.28-04.54.23:025][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.28-04.54.23:025][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/FCFM/8vo Semestre/Videojuegos 3/VJ3-Master/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.05.28-04.54.23:025][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.28-04.54.23:025][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.28-04.54.23:025][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.28-04.54.23:025][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.28-04.54.23:037][  0]LogHAL: Display: Platform has ~ 16 GB [17057812480 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.05.28-04.54.23:038][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.28-04.54.23:038][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [D:/FCFM/8vo Semestre/Videojuegos 3/VJ3-Master/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [D:/FCFM/8vo Semestre/Videojuegos 3/VJ3-Master/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:6]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [D:/FCFM/8vo Semestre/Videojuegos 3/VJ3-Master/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:4096]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [D:/FCFM/8vo Semestre/Videojuegos 3/VJ3-Master/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:4]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:1000]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.LensFlareQuality:3]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; no bokeh simulation when scattering]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [D:/FCFM/8vo Semestre/Videojuegos 3/VJ3-Master/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:3000]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [D:/FCFM/8vo Semestre/Videojuegos 3/VJ3-Master/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.SSR.Quality:4]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.28-04.54.23:038][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.28-04.54.23:039][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.28-04.54.23:039][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.05.28-04.54.23:039][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.28-04.54.23:039][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.28-04.54.23:039][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [D:/FCFM/8vo Semestre/Videojuegos 3/VJ3-Master/MapProject 4.22/Saved/Config/Windows/Scalability.ini]
+[2020.05.28-04.54.23:039][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.28-04.54.23:039][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.28-04.54.23:039][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.28-04.54.23:039][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.28-04.54.23:039][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.28-04.54.23:039][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/FCFM/8vo Semestre/Videojuegos 3/VJ3-Master/MapProject 4.22/Saved/Config/Windows/Engine.ini]
+[2020.05.28-04.54.23:039][  0]LogInit: Computer: LAPTOPPREDATORF
+[2020.05.28-04.54.23:039][  0]LogInit: User: FabrizioCruz
+[2020.05.28-04.54.23:039][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.05.28-04.54.23:039][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.28-04.54.23:039][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.05.28-04.54.23:039][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.28-04.54.23:039][  0]LogMemory: Process Physical Memory: 101.96 MB used, 101.96 MB peak
+[2020.05.28-04.54.23:039][  0]LogMemory: Process Virtual Memory: 92.76 MB used, 92.76 MB peak
+[2020.05.28-04.54.23:039][  0]LogMemory: Physical Memory: 7212.33 MB used,  9055.27 MB free, 16267.60 MB total
+[2020.05.28-04.54.23:039][  0]LogMemory: Virtual Memory: 4660.34 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2020.05.28-04.54.23:062][  0]LogInit: Using OS detected language (en-US).
+[2020.05.28-04.54.23:062][  0]LogInit: Using OS detected locale (en-US).
+[2020.05.28-04.54.23:063][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.05.28-04.54.23:214][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.28-04.54.23:257][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.28-04.54.23:257][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.28-04.54.23:574][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.28-04.54.23:574][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.28-04.54.23:661][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2020.05.28-04.54.23:661][  0]LogD3D11RHI:       6052/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.05.28-04.54.23:674][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.05.28-04.54.23:674][  0]LogD3D11RHI:       128/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.05.28-04.54.23:676][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.28-04.54.23:676][  0]LogD3D11RHI:       0/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.28-04.54.23:676][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.28-04.54.23:713][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.28-04.54.23:713][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.28-04.54.23:713][  0]LogWindows: EnumDisplayDevices:
+[2020.05.28-04.54.23:714][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.05.28-04.54.23:714][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.05.28-04.54.23:714][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.05.28-04.54.23:715][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.05.28-04.54.23:715][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2020.05.28-04.54.23:715][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2020.05.28-04.54.23:715][  0]LogD3D11RHI:   Driver Version: 445.87 (internal:26.21.14.4587, unified:445.87)
+[2020.05.28-04.54.23:715][  0]LogD3D11RHI:      Driver Date: 4-3-2020
+[2020.05.28-04.54.23:715][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.05.28-04.54.23:765][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.28-04.54.23:769][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.28-04.54.23:769][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.28-04.54.23:769][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.28-04.54.23:778][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.05.28-04.54.24:103][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.05.28-04.54.24:116][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.05.28-04.54.24:129][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.05.28-04.54.24:142][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.05.28-04.54.24:156][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.05.28-04.54.24:170][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.05.28-04.54.24:183][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.28-04.54.24:196][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.05.28-04.54.24:202][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.05.28-04.54.24:283][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.05.28-04.54.24:283][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.05.28-04.54.24:283][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.05.28-04.54.24:283][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.05.28-04.54.24:283][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.05.28-04.54.24:283][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.05.28-04.54.24:283][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.05.28-04.54.24:283][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.05.28-04.54.24:283][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.05.28-04.54.24:283][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.28-04.54.24:283][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.05.28-04.54.24:283][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.05.28-04.54.24:283][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.05.28-04.54.24:283][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.05.28-04.54.24:283][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.28-04.54.24:283][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.05.28-04.54.24:283][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.05.28-04.54.24:283][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.05.28-04.54.24:284][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.05.28-04.54.24:332][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.05.28-04.54.24:332][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.05.28-04.54.24:359][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.05.28-04.54.24:359][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.05.28-04.54.24:373][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.05.28-04.54.24:388][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.28-04.54.24:403][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.05.28-04.54.24:418][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.05.28-04.54.24:470][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.05.28-04.54.24:470][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.05.28-04.54.24:470][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.28-04.54.24:478][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.28-04.54.24:526][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../../FCFM/8vo Semestre/Videojuegos 3/VJ3-Master/MapProject 4.22/Intermediate/Shaders/WorkingDirectory/6164/).
+[2020.05.28-04.54.24:526][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Fabrizio Cruz/AppData/Local/Temp/UnrealShaderWorkingDir/4E919F27415950CAE045A8B185EF3F58/'.
+[2020.05.28-04.54.24:528][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.28-04.54.24:528][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.28-04.54.24:528][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.28-04.54.25:217][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.28-04.54.25:268][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Fabrizio Cruz/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.05.28-04.54.25:268][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Fabrizio Cruz/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.05.28-04.54.25:268][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../FCFM/8vo Semestre/Videojuegos 3/VJ3-Master/MapProject 4.22/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.28-04.54.25:268][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.28-04.54.25:268][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../FCFM/8vo Semestre/Videojuegos 3/VJ3-Master/MapProject 4.22/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.28-04.54.25:268][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.28-04.54.25:283][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.28-04.54.25:283][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.28-04.54.25:283][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.28-04.54.25:296][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Fabrizio Cruz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.28-04.54.25:296][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.28-04.54.25:296][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.28-04.54.25:321][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.28-04.54.25:323][  0]LogSlate: Using FreeType 2.6.0
+[2020.05.28-04.54.25:324][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.28-04.54.25:448][  0]LogAssetRegistry: FAssetRegistry took 0.0363 seconds to start up
+[2020.05.28-04.54.25:841][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.28-04.54.25:999][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.28-04.54.25:999][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.28-04.54.25:999][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.28-04.54.25:999][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.28-04.54.25:999][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.28-04.54.26:012][  0]LogNetVersion: Vis2 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1012566908)
+[2020.05.28-04.54.26:497][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.034558 seconds
+[2020.05.28-04.54.26:503][  0]LogUObjectArray: 42217 objects as part of root set at end of initial load.
+[2020.05.28-04.54.26:503][  0]LogUObjectAllocator: 7336568 out of 0 bytes used by permanent object pool.
+[2020.05.28-04.54.26:503][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.28-04.54.27:563][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.28-04.54.27:577][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.28-04.54.27:678][  0]SourceControl: Source control is disabled
+[2020.05.28-04.54.27:678][  0]SourceControl: Source control is disabled
+[2020.05.28-04.54.27:680][  0]SourceControl: Source control is disabled
+[2020.05.28-04.54.27:681][  0]SourceControl: Source control is disabled
+[2020.05.28-04.54.27:759][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.28-04.54.27:829][  0]LogOcInput: OculusInput pre-init called
+[2020.05.28-04.54.28:765][  0]LogEngine: Initializing Engine...
+[2020.05.28-04.54.28:766][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.28-04.54.28:767][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.05.28-04.54.28:978][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.28-04.54.28:988][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.28-04.54.29:013][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.28-04.54.29:500][  0]LogInit: FAudioDevice initialized.
+[2020.05.28-04.54.29:500][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.28-04.54.29:587][  0]LogDerivedDataCache: Saved boot cache 0.09s 71MB C:/Users/Fabrizio Cruz/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.05.28-04.54.29:591][  0]LogInit: Texture streaming: Enabled
+[2020.05.28-04.54.29:606][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.28-04.54.29:623][  0]LogInit: Transaction tracking system initialized
+[2020.05.28-04.54.29:640][  0]BlueprintLog: New page: Editor Load
+[2020.05.28-04.54.29:708][  0]LocalizationService: Localization service is disabled
+[2020.05.28-04.54.30:752][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.28-04.54.30:752][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.28-04.54.30:781][  0]LogFileCache: Scanning file cache for directory 'D:/FCFM/8vo Semestre/Videojuegos 3/VJ3-Master/MapProject 4.22/Content/' took 0.71s
+[2020.05.28-04.54.30:951][  0]SourceControl: Source control is disabled
+[2020.05.28-04.54.30:951][  0]Cmd: MAP LOAD FILE="../../../../../../FCFM/8vo Semestre/Videojuegos 3/VJ3-Master/MapProject 4.22/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.28-04.54.30:951][  0]LightingResults: New page: Lighting Build
+[2020.05.28-04.54.30:953][  0]MapCheck: New page: Map Check
+[2020.05.28-04.54.30:953][  0]LightingResults: New page: Lighting Build
+[2020.05.28-04.54.30:975][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.05.28-04.54.31:192][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Heavy/Death_3'
+[2020.05.28-04.54.31:192][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Heavy/Death_3' while loading NULL.
+[2020.05.28-04.54.31:192][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Heavy/Fire_Shotgun_Hip'
+[2020.05.28-04.54.31:192][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Heavy/Fire_Shotgun_Hip' while loading NULL.
+[2020.05.28-04.54.31:192][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Heavy/Jump_Heavy_BeginAnimation'
+[2020.05.28-04.54.31:192][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Heavy/Jump_Heavy_BeginAnimation' while loading NULL.
+[2020.05.28-04.54.31:192][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Heavy/Jump_Heavy_EndAnimation'
+[2020.05.28-04.54.31:193][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Heavy/Jump_Heavy_EndAnimation' while loading NULL.
+[2020.05.28-04.54.31:193][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Heavy/Reload_Rifle_Hip'
+[2020.05.28-04.54.31:193][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Heavy/Reload_Rifle_Hip' while loading NULL.
+[2020.05.28-04.54.31:193][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Pistol/Death_Ironsights_1'
+[2020.05.28-04.54.31:193][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Pistol/Death_Ironsights_1' while loading NULL.
+[2020.05.28-04.54.31:193][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Pistol/Reload_Pistol'
+[2020.05.28-04.54.31:193][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Pistol/Reload_Pistol' while loading NULL.
+[2020.05.28-04.54.31:193][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Pistol/W1_Jog_Aim_F_Jump_RU_End_IPC'
+[2020.05.28-04.54.31:194][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Pistol/W1_Jog_Aim_F_Jump_RU_End_IPC' while loading NULL.
+[2020.05.28-04.54.31:194][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Pistol/W1_Jog_Aim_F_Loop_IPC'
+[2020.05.28-04.54.31:194][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Pistol/W1_Jog_Aim_F_Loop_IPC' while loading NULL.
+[2020.05.28-04.54.31:194][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Pistol/W1_Stand_Aim_Jump_End_IPC'
+[2020.05.28-04.54.31:194][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Pistol/W1_Stand_Aim_Jump_End_IPC' while loading NULL.
+[2020.05.28-04.54.31:194][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Pistol/W1_Stand_Aim_Jump_Start_IPC'
+[2020.05.28-04.54.31:194][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Pistol/W1_Stand_Aim_Jump_Start_IPC' while loading NULL.
+[2020.05.28-04.54.31:195][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Pistol/W1_Stand_Fire_Single'
+[2020.05.28-04.54.31:195][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Pistol/W1_Stand_Fire_Single' while loading NULL.
+[2020.05.28-04.54.31:195][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/Death_Ironsights_2'
+[2020.05.28-04.54.31:195][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/Death_Ironsights_2' while loading NULL.
+[2020.05.28-04.54.31:195][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/Fire_Rifle_Ironsights'
+[2020.05.28-04.54.31:195][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/Fire_Rifle_Ironsights' while loading NULL.
+[2020.05.28-04.54.31:195][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/Idle_Rifle_Ironsights'
+[2020.05.28-04.54.31:196][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/Idle_Rifle_Ironsights' while loading NULL.
+[2020.05.28-04.54.31:196][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/Jog_Rifle_JumpBeginAnimation'
+[2020.05.28-04.54.31:196][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/Jog_Rifle_JumpBeginAnimation' while loading NULL.
+[2020.05.28-04.54.31:196][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/Jog_Rifle_JumpEndAnimation'
+[2020.05.28-04.54.31:196][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/Jog_Rifle_JumpEndAnimation' while loading NULL.
+[2020.05.28-04.54.31:196][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/Reload_Rifle_Ironsights'
+[2020.05.28-04.54.31:197][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/Reload_Rifle_Ironsights' while loading NULL.
+[2020.05.28-04.54.31:208][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Heavy/BS_WalkHeavy'
+[2020.05.28-04.54.31:208][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Heavy/BS_WalkHeavy' while loading NULL.
+[2020.05.28-04.54.31:208][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/BS_RunRifle'
+[2020.05.28-04.54.31:208][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/BS_RunRifle' while loading NULL.
+[2020.05.28-04.54.31:208][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/BS_WalkRifle'
+[2020.05.28-04.54.31:208][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/BS_WalkRifle' while loading NULL.
+[2020.05.28-04.54.31:218][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/M_Poppins'
+[2020.05.28-04.54.31:218][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/M_Poppins' while loading NULL.
+[2020.05.28-04.54.31:218][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/M_PoppinsBlue'
+[2020.05.28-04.54.31:218][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/M_PoppinsBlue' while loading NULL.
+[2020.05.28-04.54.31:218][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/M_PoppinsRed'
+[2020.05.28-04.54.31:218][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/M_PoppinsRed' while loading NULL.
+[2020.05.28-04.54.31:218][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/M_PoppinsYellow'
+[2020.05.28-04.54.31:219][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/M_PoppinsYellow' while loading NULL.
+[2020.05.28-04.54.31:219][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/M_Poppins'
+[2020.05.28-04.54.31:219][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/M_Poppins' while loading NULL.
+[2020.05.28-04.54.31:219][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/M_PoppinsBlue'
+[2020.05.28-04.54.31:219][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/M_PoppinsBlue' while loading NULL.
+[2020.05.28-04.54.31:219][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/M_PoppinsRed'
+[2020.05.28-04.54.31:219][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/M_PoppinsRed' while loading NULL.
+[2020.05.28-04.54.31:219][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/M_PoppinsYellow'
+[2020.05.28-04.54.31:220][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/M_PoppinsYellow' while loading NULL.
+[2020.05.28-04.54.31:220][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/M_Poppins'
+[2020.05.28-04.54.31:220][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/M_Poppins' while loading NULL.
+[2020.05.28-04.54.31:220][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/M_PoppinsBlue'
+[2020.05.28-04.54.31:221][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/M_PoppinsBlue' while loading NULL.
+[2020.05.28-04.54.31:221][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/M_PoppinsRed'
+[2020.05.28-04.54.31:221][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/M_PoppinsRed' while loading NULL.
+[2020.05.28-04.54.31:221][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/M_PoppinsYellow'
+[2020.05.28-04.54.31:221][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/M_PoppinsYellow' while loading NULL.
+[2020.05.28-04.54.31:221][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/M_Poppins'
+[2020.05.28-04.54.31:221][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/M_Poppins' while loading NULL.
+[2020.05.28-04.54.31:221][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/M_PoppinsBlue'
+[2020.05.28-04.54.31:221][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/M_PoppinsBlue' while loading NULL.
+[2020.05.28-04.54.31:221][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/M_PoppinsRed'
+[2020.05.28-04.54.31:221][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/M_PoppinsRed' while loading NULL.
+[2020.05.28-04.54.31:221][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/M_PoppinsYellow'
+[2020.05.28-04.54.31:222][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/M_PoppinsYellow' while loading NULL.
+[2020.05.28-04.54.31:226][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/M_PoppinsRed'
+[2020.05.28-04.54.31:226][  0]LoadErrors: Failed to load /Engine/EngineMaterials/M_PoppinsRed.M_PoppinsRed Referenced by K2Node_CallFunction_15
+[2020.05.28-04.54.31:226][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/M_PoppinsRed' while loading NULL.
+[2020.05.28-04.54.31:227][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/M_PoppinsYellow'
+[2020.05.28-04.54.31:227][  0]LoadErrors: Failed to load /Engine/EngineMaterials/M_PoppinsYellow.M_PoppinsYellow Referenced by K2Node_CallFunction_16
+[2020.05.28-04.54.31:227][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/M_PoppinsYellow' while loading NULL.
+[2020.05.28-04.54.31:227][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/M_PoppinsBlue'
+[2020.05.28-04.54.31:227][  0]LoadErrors: Failed to load /Engine/EngineMaterials/M_PoppinsBlue.M_PoppinsBlue Referenced by K2Node_CallFunction_17
+[2020.05.28-04.54.31:227][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/M_PoppinsBlue' while loading NULL.
+[2020.05.28-04.54.31:228][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/M_Poppins'
+[2020.05.28-04.54.31:228][  0]LoadErrors: Failed to load /Engine/EngineMaterials/M_Poppins.M_Poppins Referenced by ValueText_GEN_VARIABLE
+[2020.05.28-04.54.31:228][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/M_Poppins' while loading NULL.
+[2020.05.28-04.54.31:228][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/M_Poppins'
+[2020.05.28-04.54.31:228][  0]LoadErrors: Failed to load /Engine/EngineMaterials/M_Poppins.M_Poppins Referenced by LabelText_GEN_VARIABLE
+[2020.05.28-04.54.31:228][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/M_Poppins' while loading NULL.
+[2020.05.28-04.54.31:231][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/M_Poppins'
+[2020.05.28-04.54.31:231][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/M_Poppins' while loading NULL.
+[2020.05.28-04.54.31:245][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/M_Poppins'
+[2020.05.28-04.54.31:245][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/M_Poppins' while loading NULL.
+[2020.05.28-04.54.31:246][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/M_Poppins'
+[2020.05.28-04.54.31:246][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/M_Poppins' while loading NULL.
+[2020.05.28-04.54.31:246][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/M_Poppins'
+[2020.05.28-04.54.31:247][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/M_Poppins' while loading NULL.
+[2020.05.28-04.54.31:252][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/M_Poppins'
+[2020.05.28-04.54.31:252][  0]LoadErrors: Failed to load /Engine/EngineMaterials/M_Poppins.M_Poppins Referenced by TextRender_GEN_VARIABLE
+[2020.05.28-04.54.31:252][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/M_Poppins' while loading NULL.
+[2020.05.28-04.54.31:272][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Heavy/Death_3'
+[2020.05.28-04.54.31:272][  0]LoadErrors: Failed to load /Game/AnimRetargets/Heavy/Death_3.Death_3 Referenced by CharacterMesh0
+[2020.05.28-04.54.31:273][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Heavy/Death_3' while loading NULL.
+[2020.05.28-04.54.31:273][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Heavy/Fire_Shotgun_Hip'
+[2020.05.28-04.54.31:273][  0]LoadErrors: Failed to load /Game/AnimRetargets/Heavy/Fire_Shotgun_Hip.Fire_Shotgun_Hip Referenced by CharacterMesh0
+[2020.05.28-04.54.31:273][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Heavy/Fire_Shotgun_Hip' while loading NULL.
+[2020.05.28-04.54.31:273][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Heavy/Jump_Heavy_BeginAnimation'
+[2020.05.28-04.54.31:273][  0]LoadErrors: Failed to load /Game/AnimRetargets/Heavy/Jump_Heavy_BeginAnimation.Jump_Heavy_BeginAnimation Referenced by CharacterMesh0
+[2020.05.28-04.54.31:273][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Heavy/Jump_Heavy_BeginAnimation' while loading NULL.
+[2020.05.28-04.54.31:274][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Heavy/Jump_Heavy_EndAnimation'
+[2020.05.28-04.54.31:274][  0]LoadErrors: Failed to load /Game/AnimRetargets/Heavy/Jump_Heavy_EndAnimation.Jump_Heavy_EndAnimation Referenced by CharacterMesh0
+[2020.05.28-04.54.31:274][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Heavy/Jump_Heavy_EndAnimation' while loading NULL.
+[2020.05.28-04.54.31:274][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Heavy/Reload_Rifle_Hip'
+[2020.05.28-04.54.31:274][  0]LoadErrors: Failed to load /Game/AnimRetargets/Heavy/Reload_Rifle_Hip.Reload_Rifle_Hip Referenced by CharacterMesh0
+[2020.05.28-04.54.31:274][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Heavy/Reload_Rifle_Hip' while loading NULL.
+[2020.05.28-04.54.31:274][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Pistol/Death_Ironsights_1'
+[2020.05.28-04.54.31:274][  0]LoadErrors: Failed to load /Game/AnimRetargets/Pistol/Death_Ironsights_1.Death_Ironsights_1 Referenced by CharacterMesh0
+[2020.05.28-04.54.31:274][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Pistol/Death_Ironsights_1' while loading NULL.
+[2020.05.28-04.54.31:274][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Pistol/Reload_Pistol'
+[2020.05.28-04.54.31:274][  0]LoadErrors: Failed to load /Game/AnimRetargets/Pistol/Reload_Pistol.Reload_Pistol Referenced by CharacterMesh0
+[2020.05.28-04.54.31:274][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Pistol/Reload_Pistol' while loading NULL.
+[2020.05.28-04.54.31:275][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Pistol/W1_Jog_Aim_F_Jump_RU_End_IPC'
+[2020.05.28-04.54.31:275][  0]LoadErrors: Failed to load /Game/AnimRetargets/Pistol/W1_Jog_Aim_F_Jump_RU_End_IPC.W1_Jog_Aim_F_Jump_RU_End_IPC Referenced by CharacterMesh0
+[2020.05.28-04.54.31:275][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Pistol/W1_Jog_Aim_F_Jump_RU_End_IPC' while loading NULL.
+[2020.05.28-04.54.31:275][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Pistol/W1_Jog_Aim_F_Loop_IPC'
+[2020.05.28-04.54.31:275][  0]LoadErrors: Failed to load /Game/AnimRetargets/Pistol/W1_Jog_Aim_F_Loop_IPC.W1_Jog_Aim_F_Loop_IPC Referenced by CharacterMesh0
+[2020.05.28-04.54.31:275][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Pistol/W1_Jog_Aim_F_Loop_IPC' while loading NULL.
+[2020.05.28-04.54.31:275][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Pistol/W1_Stand_Aim_Jump_End_IPC'
+[2020.05.28-04.54.31:275][  0]LoadErrors: Failed to load /Game/AnimRetargets/Pistol/W1_Stand_Aim_Jump_End_IPC.W1_Stand_Aim_Jump_End_IPC Referenced by CharacterMesh0
+[2020.05.28-04.54.31:275][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Pistol/W1_Stand_Aim_Jump_End_IPC' while loading NULL.
+[2020.05.28-04.54.31:275][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Pistol/W1_Stand_Aim_Jump_Start_IPC'
+[2020.05.28-04.54.31:275][  0]LoadErrors: Failed to load /Game/AnimRetargets/Pistol/W1_Stand_Aim_Jump_Start_IPC.W1_Stand_Aim_Jump_Start_IPC Referenced by CharacterMesh0
+[2020.05.28-04.54.31:275][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Pistol/W1_Stand_Aim_Jump_Start_IPC' while loading NULL.
+[2020.05.28-04.54.31:276][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Pistol/W1_Stand_Fire_Single'
+[2020.05.28-04.54.31:276][  0]LoadErrors: Failed to load /Game/AnimRetargets/Pistol/W1_Stand_Fire_Single.W1_Stand_Fire_Single Referenced by CharacterMesh0
+[2020.05.28-04.54.31:276][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Pistol/W1_Stand_Fire_Single' while loading NULL.
+[2020.05.28-04.54.31:276][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/Death_Ironsights_2'
+[2020.05.28-04.54.31:276][  0]LoadErrors: Failed to load /Game/AnimRetargets/Rifle/Death_Ironsights_2.Death_Ironsights_2 Referenced by CharacterMesh0
+[2020.05.28-04.54.31:276][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/Death_Ironsights_2' while loading NULL.
+[2020.05.28-04.54.31:276][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/Fire_Rifle_Ironsights'
+[2020.05.28-04.54.31:276][  0]LoadErrors: Failed to load /Game/AnimRetargets/Rifle/Fire_Rifle_Ironsights.Fire_Rifle_Ironsights Referenced by CharacterMesh0
+[2020.05.28-04.54.31:276][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/Fire_Rifle_Ironsights' while loading NULL.
+[2020.05.28-04.54.31:276][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/Idle_Rifle_Ironsights'
+[2020.05.28-04.54.31:276][  0]LoadErrors: Failed to load /Game/AnimRetargets/Rifle/Idle_Rifle_Ironsights.Idle_Rifle_Ironsights Referenced by CharacterMesh0
+[2020.05.28-04.54.31:276][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/Idle_Rifle_Ironsights' while loading NULL.
+[2020.05.28-04.54.31:276][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/Jog_Rifle_JumpBeginAnimation'
+[2020.05.28-04.54.31:276][  0]LoadErrors: Failed to load /Game/AnimRetargets/Rifle/Jog_Rifle_JumpBeginAnimation.Jog_Rifle_JumpBeginAnimation Referenced by CharacterMesh0
+[2020.05.28-04.54.31:276][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/Jog_Rifle_JumpBeginAnimation' while loading NULL.
+[2020.05.28-04.54.31:277][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/Jog_Rifle_JumpEndAnimation'
+[2020.05.28-04.54.31:277][  0]LoadErrors: Failed to load /Game/AnimRetargets/Rifle/Jog_Rifle_JumpEndAnimation.Jog_Rifle_JumpEndAnimation Referenced by CharacterMesh0
+[2020.05.28-04.54.31:277][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/Jog_Rifle_JumpEndAnimation' while loading NULL.
+[2020.05.28-04.54.31:277][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/Reload_Rifle_Ironsights'
+[2020.05.28-04.54.31:277][  0]LoadErrors: Failed to load /Game/AnimRetargets/Rifle/Reload_Rifle_Ironsights.Reload_Rifle_Ironsights Referenced by CharacterMesh0
+[2020.05.28-04.54.31:277][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/Reload_Rifle_Ironsights' while loading NULL.
+[2020.05.28-04.54.31:277][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Heavy/BS_WalkHeavy'
+[2020.05.28-04.54.31:277][  0]LoadErrors: Failed to load /Game/AnimRetargets/Heavy/BS_WalkHeavy.BS_WalkHeavy Referenced by CharacterMesh0
+[2020.05.28-04.54.31:277][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Heavy/BS_WalkHeavy' while loading NULL.
+[2020.05.28-04.54.31:277][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/BS_RunRifle'
+[2020.05.28-04.54.31:277][  0]LoadErrors: Failed to load /Game/AnimRetargets/Rifle/BS_RunRifle.BS_RunRifle Referenced by CharacterMesh0
+[2020.05.28-04.54.31:277][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/BS_RunRifle' while loading NULL.
+[2020.05.28-04.54.31:278][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/BS_WalkRifle'
+[2020.05.28-04.54.31:278][  0]LoadErrors: Failed to load /Game/AnimRetargets/Rifle/BS_WalkRifle.BS_WalkRifle Referenced by CharacterMesh0
+[2020.05.28-04.54.31:278][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/BS_WalkRifle' while loading NULL.
+[2020.05.28-04.54.31:529][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Heavy/BS_WalkHeavy'
+[2020.05.28-04.54.31:529][  0]LoadErrors: Failed to load /Game/AnimRetargets/Heavy/BS_WalkHeavy Referenced by CharacterMesh0
+[2020.05.28-04.54.31:529][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Heavy/BS_WalkHeavy' while loading NULL.
+[2020.05.28-04.54.31:529][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Heavy/Death_3'
+[2020.05.28-04.54.31:529][  0]LoadErrors: Failed to load /Game/AnimRetargets/Heavy/Death_3 Referenced by CharacterMesh0
+[2020.05.28-04.54.31:529][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Heavy/Death_3' while loading NULL.
+[2020.05.28-04.54.31:530][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Heavy/Fire_Shotgun_Hip'
+[2020.05.28-04.54.31:530][  0]LoadErrors: Failed to load /Game/AnimRetargets/Heavy/Fire_Shotgun_Hip Referenced by CharacterMesh0
+[2020.05.28-04.54.31:530][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Heavy/Fire_Shotgun_Hip' while loading NULL.
+[2020.05.28-04.54.31:530][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Heavy/Jump_Heavy_BeginAnimation'
+[2020.05.28-04.54.31:530][  0]LoadErrors: Failed to load /Game/AnimRetargets/Heavy/Jump_Heavy_BeginAnimation Referenced by CharacterMesh0
+[2020.05.28-04.54.31:530][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Heavy/Jump_Heavy_BeginAnimation' while loading NULL.
+[2020.05.28-04.54.31:530][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Heavy/Jump_Heavy_EndAnimation'
+[2020.05.28-04.54.31:530][  0]LoadErrors: Failed to load /Game/AnimRetargets/Heavy/Jump_Heavy_EndAnimation Referenced by CharacterMesh0
+[2020.05.28-04.54.31:530][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Heavy/Jump_Heavy_EndAnimation' while loading NULL.
+[2020.05.28-04.54.31:530][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Heavy/Reload_Rifle_Hip'
+[2020.05.28-04.54.31:530][  0]LoadErrors: Failed to load /Game/AnimRetargets/Heavy/Reload_Rifle_Hip Referenced by CharacterMesh0
+[2020.05.28-04.54.31:531][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Heavy/Reload_Rifle_Hip' while loading NULL.
+[2020.05.28-04.54.31:531][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Pistol/Death_Ironsights_1'
+[2020.05.28-04.54.31:531][  0]LoadErrors: Failed to load /Game/AnimRetargets/Pistol/Death_Ironsights_1 Referenced by CharacterMesh0
+[2020.05.28-04.54.31:531][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Pistol/Death_Ironsights_1' while loading NULL.
+[2020.05.28-04.54.31:531][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Pistol/Reload_Pistol'
+[2020.05.28-04.54.31:531][  0]LoadErrors: Failed to load /Game/AnimRetargets/Pistol/Reload_Pistol Referenced by CharacterMesh0
+[2020.05.28-04.54.31:531][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Pistol/Reload_Pistol' while loading NULL.
+[2020.05.28-04.54.31:531][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Pistol/W1_Jog_Aim_F_Jump_RU_End_IPC'
+[2020.05.28-04.54.31:531][  0]LoadErrors: Failed to load /Game/AnimRetargets/Pistol/W1_Jog_Aim_F_Jump_RU_End_IPC Referenced by CharacterMesh0
+[2020.05.28-04.54.31:531][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Pistol/W1_Jog_Aim_F_Jump_RU_End_IPC' while loading NULL.
+[2020.05.28-04.54.31:531][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Pistol/W1_Jog_Aim_F_Loop_IPC'
+[2020.05.28-04.54.31:531][  0]LoadErrors: Failed to load /Game/AnimRetargets/Pistol/W1_Jog_Aim_F_Loop_IPC Referenced by CharacterMesh0
+[2020.05.28-04.54.31:531][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Pistol/W1_Jog_Aim_F_Loop_IPC' while loading NULL.
+[2020.05.28-04.54.31:531][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Pistol/W1_Stand_Aim_Jump_End_IPC'
+[2020.05.28-04.54.31:532][  0]LoadErrors: Failed to load /Game/AnimRetargets/Pistol/W1_Stand_Aim_Jump_End_IPC Referenced by CharacterMesh0
+[2020.05.28-04.54.31:532][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Pistol/W1_Stand_Aim_Jump_End_IPC' while loading NULL.
+[2020.05.28-04.54.31:532][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Pistol/W1_Stand_Aim_Jump_Start_IPC'
+[2020.05.28-04.54.31:532][  0]LoadErrors: Failed to load /Game/AnimRetargets/Pistol/W1_Stand_Aim_Jump_Start_IPC Referenced by CharacterMesh0
+[2020.05.28-04.54.31:532][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Pistol/W1_Stand_Aim_Jump_Start_IPC' while loading NULL.
+[2020.05.28-04.54.31:532][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Pistol/W1_Stand_Fire_Single'
+[2020.05.28-04.54.31:532][  0]LoadErrors: Failed to load /Game/AnimRetargets/Pistol/W1_Stand_Fire_Single Referenced by CharacterMesh0
+[2020.05.28-04.54.31:532][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Pistol/W1_Stand_Fire_Single' while loading NULL.
+[2020.05.28-04.54.31:532][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/BS_RunRifle'
+[2020.05.28-04.54.31:532][  0]LoadErrors: Failed to load /Game/AnimRetargets/Rifle/BS_RunRifle Referenced by CharacterMesh0
+[2020.05.28-04.54.31:532][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/BS_RunRifle' while loading NULL.
+[2020.05.28-04.54.31:532][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/BS_WalkRifle'
+[2020.05.28-04.54.31:532][  0]LoadErrors: Failed to load /Game/AnimRetargets/Rifle/BS_WalkRifle Referenced by CharacterMesh0
+[2020.05.28-04.54.31:533][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/BS_WalkRifle' while loading NULL.
+[2020.05.28-04.54.31:533][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/Death_Ironsights_2'
+[2020.05.28-04.54.31:533][  0]LoadErrors: Failed to load /Game/AnimRetargets/Rifle/Death_Ironsights_2 Referenced by CharacterMesh0
+[2020.05.28-04.54.31:533][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/Death_Ironsights_2' while loading NULL.
+[2020.05.28-04.54.31:533][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/Fire_Rifle_Ironsights'
+[2020.05.28-04.54.31:533][  0]LoadErrors: Failed to load /Game/AnimRetargets/Rifle/Fire_Rifle_Ironsights Referenced by CharacterMesh0
+[2020.05.28-04.54.31:533][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/Fire_Rifle_Ironsights' while loading NULL.
+[2020.05.28-04.54.31:533][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/Idle_Rifle_Ironsights'
+[2020.05.28-04.54.31:533][  0]LoadErrors: Failed to load /Game/AnimRetargets/Rifle/Idle_Rifle_Ironsights Referenced by CharacterMesh0
+[2020.05.28-04.54.31:533][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/Idle_Rifle_Ironsights' while loading NULL.
+[2020.05.28-04.54.31:533][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/Jog_Rifle_JumpBeginAnimation'
+[2020.05.28-04.54.31:533][  0]LoadErrors: Failed to load /Game/AnimRetargets/Rifle/Jog_Rifle_JumpBeginAnimation Referenced by CharacterMesh0
+[2020.05.28-04.54.31:533][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/Jog_Rifle_JumpBeginAnimation' while loading NULL.
+[2020.05.28-04.54.31:534][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/Jog_Rifle_JumpEndAnimation'
+[2020.05.28-04.54.31:534][  0]LoadErrors: Failed to load /Game/AnimRetargets/Rifle/Jog_Rifle_JumpEndAnimation Referenced by CharacterMesh0
+[2020.05.28-04.54.31:534][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/Jog_Rifle_JumpEndAnimation' while loading NULL.
+[2020.05.28-04.54.31:534][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/Reload_Rifle_Ironsights'
+[2020.05.28-04.54.31:534][  0]LoadErrors: Failed to load /Game/AnimRetargets/Rifle/Reload_Rifle_Ironsights Referenced by CharacterMesh0
+[2020.05.28-04.54.31:534][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/Reload_Rifle_Ironsights' while loading NULL.
+[2020.05.28-04.54.31:534][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/Idle_Rifle_Ironsights'
+[2020.05.28-04.54.31:534][  0]LoadErrors: Failed to load /Game/AnimRetargets/Rifle/Idle_Rifle_Ironsights.Idle_Rifle_Ironsights Referenced by Default__SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint_C
+[2020.05.28-04.54.31:534][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/Idle_Rifle_Ironsights' while loading NULL.
+[2020.05.28-04.54.31:534][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Pistol/Reload_Pistol'
+[2020.05.28-04.54.31:535][  0]LoadErrors: Failed to load /Game/AnimRetargets/Pistol/Reload_Pistol.Reload_Pistol Referenced by Default__SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint_C
+[2020.05.28-04.54.31:535][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Pistol/Reload_Pistol' while loading NULL.
+[2020.05.28-04.54.31:535][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/Reload_Rifle_Ironsights'
+[2020.05.28-04.54.31:535][  0]LoadErrors: Failed to load /Game/AnimRetargets/Rifle/Reload_Rifle_Ironsights.Reload_Rifle_Ironsights Referenced by Default__SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint_C
+[2020.05.28-04.54.31:535][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/Reload_Rifle_Ironsights' while loading NULL.
+[2020.05.28-04.54.31:535][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Heavy/Reload_Rifle_Hip'
+[2020.05.28-04.54.31:535][  0]LoadErrors: Failed to load /Game/AnimRetargets/Heavy/Reload_Rifle_Hip.Reload_Rifle_Hip Referenced by Default__SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint_C
+[2020.05.28-04.54.31:535][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Heavy/Reload_Rifle_Hip' while loading NULL.
+[2020.05.28-04.54.31:535][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Heavy/Death_3'
+[2020.05.28-04.54.31:535][  0]LoadErrors: Failed to load /Game/AnimRetargets/Heavy/Death_3.Death_3 Referenced by Default__SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint_C
+[2020.05.28-04.54.31:535][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Heavy/Death_3' while loading NULL.
+[2020.05.28-04.54.31:536][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/Death_Ironsights_2'
+[2020.05.28-04.54.31:536][  0]LoadErrors: Failed to load /Game/AnimRetargets/Rifle/Death_Ironsights_2.Death_Ironsights_2 Referenced by Default__SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint_C
+[2020.05.28-04.54.31:536][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/Death_Ironsights_2' while loading NULL.
+[2020.05.28-04.54.31:536][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Pistol/Death_Ironsights_1'
+[2020.05.28-04.54.31:536][  0]LoadErrors: Failed to load /Game/AnimRetargets/Pistol/Death_Ironsights_1.Death_Ironsights_1 Referenced by Default__SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint_C
+[2020.05.28-04.54.31:536][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Pistol/Death_Ironsights_1' while loading NULL.
+[2020.05.28-04.54.31:536][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Heavy/Fire_Shotgun_Hip'
+[2020.05.28-04.54.31:536][  0]LoadErrors: Failed to load /Game/AnimRetargets/Heavy/Fire_Shotgun_Hip.Fire_Shotgun_Hip Referenced by Default__SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint_C
+[2020.05.28-04.54.31:536][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Heavy/Fire_Shotgun_Hip' while loading NULL.
+[2020.05.28-04.54.31:536][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Heavy/Jump_Heavy_EndAnimation'
+[2020.05.28-04.54.31:536][  0]LoadErrors: Failed to load /Game/AnimRetargets/Heavy/Jump_Heavy_EndAnimation.Jump_Heavy_EndAnimation Referenced by Default__SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint_C
+[2020.05.28-04.54.31:537][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Heavy/Jump_Heavy_EndAnimation' while loading NULL.
+[2020.05.28-04.54.31:537][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Heavy/Jump_Heavy_BeginAnimation'
+[2020.05.28-04.54.31:537][  0]LoadErrors: Failed to load /Game/AnimRetargets/Heavy/Jump_Heavy_BeginAnimation.Jump_Heavy_BeginAnimation Referenced by Default__SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint_C
+[2020.05.28-04.54.31:537][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Heavy/Jump_Heavy_BeginAnimation' while loading NULL.
+[2020.05.28-04.54.31:537][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/BS_RunRifle'
+[2020.05.28-04.54.31:537][  0]LoadErrors: Failed to load /Game/AnimRetargets/Rifle/BS_RunRifle.BS_RunRifle Referenced by Default__SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint_C
+[2020.05.28-04.54.31:537][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/BS_RunRifle' while loading NULL.
+[2020.05.28-04.54.31:537][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Heavy/BS_WalkHeavy'
+[2020.05.28-04.54.31:537][  0]LoadErrors: Failed to load /Game/AnimRetargets/Heavy/BS_WalkHeavy.BS_WalkHeavy Referenced by Default__SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint_C
+[2020.05.28-04.54.31:537][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Heavy/BS_WalkHeavy' while loading NULL.
+[2020.05.28-04.54.31:537][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/Jog_Rifle_JumpEndAnimation'
+[2020.05.28-04.54.31:538][  0]LoadErrors: Failed to load /Game/AnimRetargets/Rifle/Jog_Rifle_JumpEndAnimation.Jog_Rifle_JumpEndAnimation Referenced by Default__SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint_C
+[2020.05.28-04.54.31:538][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/Jog_Rifle_JumpEndAnimation' while loading NULL.
+[2020.05.28-04.54.31:538][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/Jog_Rifle_JumpBeginAnimation'
+[2020.05.28-04.54.31:538][  0]LoadErrors: Failed to load /Game/AnimRetargets/Rifle/Jog_Rifle_JumpBeginAnimation.Jog_Rifle_JumpBeginAnimation Referenced by Default__SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint_C
+[2020.05.28-04.54.31:538][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/Jog_Rifle_JumpBeginAnimation' while loading NULL.
+[2020.05.28-04.54.31:538][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/BS_RunRifle'
+[2020.05.28-04.54.31:538][  0]LoadErrors: Failed to load /Game/AnimRetargets/Rifle/BS_RunRifle.BS_RunRifle Referenced by Default__SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint_C
+[2020.05.28-04.54.31:538][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/BS_RunRifle' while loading NULL.
+[2020.05.28-04.54.31:538][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/BS_WalkRifle'
+[2020.05.28-04.54.31:538][  0]LoadErrors: Failed to load /Game/AnimRetargets/Rifle/BS_WalkRifle.BS_WalkRifle Referenced by Default__SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint_C
+[2020.05.28-04.54.31:538][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/BS_WalkRifle' while loading NULL.
+[2020.05.28-04.54.31:538][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Pistol/W1_Stand_Fire_Single'
+[2020.05.28-04.54.31:539][  0]LoadErrors: Failed to load /Game/AnimRetargets/Pistol/W1_Stand_Fire_Single.W1_Stand_Fire_Single Referenced by Default__SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint_C
+[2020.05.28-04.54.31:539][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Pistol/W1_Stand_Fire_Single' while loading NULL.
+[2020.05.28-04.54.31:539][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Pistol/W1_Jog_Aim_F_Jump_RU_End_IPC'
+[2020.05.28-04.54.31:539][  0]LoadErrors: Failed to load /Game/AnimRetargets/Pistol/W1_Jog_Aim_F_Jump_RU_End_IPC.W1_Jog_Aim_F_Jump_RU_End_IPC Referenced by Default__SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint_C
+[2020.05.28-04.54.31:539][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Pistol/W1_Jog_Aim_F_Jump_RU_End_IPC' while loading NULL.
+[2020.05.28-04.54.31:539][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Pistol/W1_Stand_Aim_Jump_Start_IPC'
+[2020.05.28-04.54.31:539][  0]LoadErrors: Failed to load /Game/AnimRetargets/Pistol/W1_Stand_Aim_Jump_Start_IPC.W1_Stand_Aim_Jump_Start_IPC Referenced by Default__SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint_C
+[2020.05.28-04.54.31:539][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Pistol/W1_Stand_Aim_Jump_Start_IPC' while loading NULL.
+[2020.05.28-04.54.31:539][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Pistol/W1_Stand_Aim_Jump_End_IPC'
+[2020.05.28-04.54.31:539][  0]LoadErrors: Failed to load /Game/AnimRetargets/Pistol/W1_Stand_Aim_Jump_End_IPC.W1_Stand_Aim_Jump_End_IPC Referenced by Default__SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint_C
+[2020.05.28-04.54.31:540][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Pistol/W1_Stand_Aim_Jump_End_IPC' while loading NULL.
+[2020.05.28-04.54.31:540][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Pistol/W1_Stand_Aim_Jump_Start_IPC'
+[2020.05.28-04.54.31:540][  0]LoadErrors: Failed to load /Game/AnimRetargets/Pistol/W1_Stand_Aim_Jump_Start_IPC.W1_Stand_Aim_Jump_Start_IPC Referenced by Default__SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint_C
+[2020.05.28-04.54.31:540][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Pistol/W1_Stand_Aim_Jump_Start_IPC' while loading NULL.
+[2020.05.28-04.54.31:540][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Pistol/W1_Jog_Aim_F_Loop_IPC'
+[2020.05.28-04.54.31:540][  0]LoadErrors: Failed to load /Game/AnimRetargets/Pistol/W1_Jog_Aim_F_Loop_IPC.W1_Jog_Aim_F_Loop_IPC Referenced by Default__SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint_C
+[2020.05.28-04.54.31:540][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Pistol/W1_Jog_Aim_F_Loop_IPC' while loading NULL.
+[2020.05.28-04.54.31:547][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Pistol/W1_Jog_Aim_F_Loop_IPC'
+[2020.05.28-04.54.31:547][  0]LoadErrors: Failed to load /Game/AnimRetargets/Pistol/W1_Jog_Aim_F_Loop_IPC.W1_Jog_Aim_F_Loop_IPC Referenced by AnimGraphNode_SequencePlayer_3
+[2020.05.28-04.54.31:548][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Pistol/W1_Jog_Aim_F_Loop_IPC' while loading NULL.
+[2020.05.28-04.54.31:549][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Pistol/W1_Stand_Aim_Jump_Start_IPC'
+[2020.05.28-04.54.31:549][  0]LoadErrors: Failed to load /Game/AnimRetargets/Pistol/W1_Stand_Aim_Jump_Start_IPC.W1_Stand_Aim_Jump_Start_IPC Referenced by AnimGraphNode_SequencePlayer_4
+[2020.05.28-04.54.31:549][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Pistol/W1_Stand_Aim_Jump_Start_IPC' while loading NULL.
+[2020.05.28-04.54.31:549][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Pistol/W1_Stand_Aim_Jump_End_IPC'
+[2020.05.28-04.54.31:549][  0]LoadErrors: Failed to load /Game/AnimRetargets/Pistol/W1_Stand_Aim_Jump_End_IPC.W1_Stand_Aim_Jump_End_IPC Referenced by AnimGraphNode_SequencePlayer_5
+[2020.05.28-04.54.31:549][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Pistol/W1_Stand_Aim_Jump_End_IPC' while loading NULL.
+[2020.05.28-04.54.31:550][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Pistol/W1_Stand_Aim_Jump_Start_IPC'
+[2020.05.28-04.54.31:550][  0]LoadErrors: Failed to load /Game/AnimRetargets/Pistol/W1_Stand_Aim_Jump_Start_IPC.W1_Stand_Aim_Jump_Start_IPC Referenced by AnimGraphNode_SequencePlayer_7
+[2020.05.28-04.54.31:550][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Pistol/W1_Stand_Aim_Jump_Start_IPC' while loading NULL.
+[2020.05.28-04.54.31:551][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Pistol/W1_Jog_Aim_F_Jump_RU_End_IPC'
+[2020.05.28-04.54.31:551][  0]LoadErrors: Failed to load /Game/AnimRetargets/Pistol/W1_Jog_Aim_F_Jump_RU_End_IPC.W1_Jog_Aim_F_Jump_RU_End_IPC Referenced by AnimGraphNode_SequencePlayer_6
+[2020.05.28-04.54.31:551][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Pistol/W1_Jog_Aim_F_Jump_RU_End_IPC' while loading NULL.
+[2020.05.28-04.54.31:552][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Pistol/W1_Stand_Fire_Single'
+[2020.05.28-04.54.31:552][  0]LoadErrors: Failed to load /Game/AnimRetargets/Pistol/W1_Stand_Fire_Single.W1_Stand_Fire_Single Referenced by AnimGraphNode_SequencePlayer_8
+[2020.05.28-04.54.31:552][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Pistol/W1_Stand_Fire_Single' while loading NULL.
+[2020.05.28-04.54.31:555][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/BS_WalkRifle'
+[2020.05.28-04.54.31:555][  0]LoadErrors: Failed to load /Game/AnimRetargets/Rifle/BS_WalkRifle.BS_WalkRifle Referenced by AnimGraphNode_BlendSpacePlayer_0
+[2020.05.28-04.54.31:555][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/BS_WalkRifle' while loading NULL.
+[2020.05.28-04.54.31:556][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/BS_RunRifle'
+[2020.05.28-04.54.31:556][  0]LoadErrors: Failed to load /Game/AnimRetargets/Rifle/BS_RunRifle.BS_RunRifle Referenced by AnimGraphNode_BlendSpacePlayer_0
+[2020.05.28-04.54.31:556][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/BS_RunRifle' while loading NULL.
+[2020.05.28-04.54.31:557][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/Jog_Rifle_JumpBeginAnimation'
+[2020.05.28-04.54.31:557][  0]LoadErrors: Failed to load /Game/AnimRetargets/Rifle/Jog_Rifle_JumpBeginAnimation.Jog_Rifle_JumpBeginAnimation Referenced by AnimGraphNode_SequencePlayer_9
+[2020.05.28-04.54.31:557][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/Jog_Rifle_JumpBeginAnimation' while loading NULL.
+[2020.05.28-04.54.31:558][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/Jog_Rifle_JumpEndAnimation'
+[2020.05.28-04.54.31:558][  0]LoadErrors: Failed to load /Game/AnimRetargets/Rifle/Jog_Rifle_JumpEndAnimation.Jog_Rifle_JumpEndAnimation Referenced by AnimGraphNode_SequencePlayer_10
+[2020.05.28-04.54.31:558][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/Jog_Rifle_JumpEndAnimation' while loading NULL.
+[2020.05.28-04.54.31:559][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/Fire_Rifle_Ironsights'
+[2020.05.28-04.54.31:559][  0]LoadErrors: Failed to load /Game/AnimRetargets/Rifle/Fire_Rifle_Ironsights.Fire_Rifle_Ironsights Referenced by AnimGraphNode_SequencePlayer_1
+[2020.05.28-04.54.31:559][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/Fire_Rifle_Ironsights' while loading NULL.
+[2020.05.28-04.54.31:561][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Heavy/BS_WalkHeavy'
+[2020.05.28-04.54.31:561][  0]LoadErrors: Failed to load /Game/AnimRetargets/Heavy/BS_WalkHeavy.BS_WalkHeavy Referenced by AnimGraphNode_BlendSpacePlayer_1
+[2020.05.28-04.54.31:561][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Heavy/BS_WalkHeavy' while loading NULL.
+[2020.05.28-04.54.31:562][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/BS_RunRifle'
+[2020.05.28-04.54.31:562][  0]LoadErrors: Failed to load /Game/AnimRetargets/Rifle/BS_RunRifle.BS_RunRifle Referenced by AnimGraphNode_BlendSpacePlayer_1
+[2020.05.28-04.54.31:562][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/BS_RunRifle' while loading NULL.
+[2020.05.28-04.54.31:563][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Heavy/Jump_Heavy_BeginAnimation'
+[2020.05.28-04.54.31:563][  0]LoadErrors: Failed to load /Game/AnimRetargets/Heavy/Jump_Heavy_BeginAnimation.Jump_Heavy_BeginAnimation Referenced by AnimGraphNode_SequencePlayer_0
+[2020.05.28-04.54.31:563][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Heavy/Jump_Heavy_BeginAnimation' while loading NULL.
+[2020.05.28-04.54.31:564][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Heavy/Jump_Heavy_EndAnimation'
+[2020.05.28-04.54.31:564][  0]LoadErrors: Failed to load /Game/AnimRetargets/Heavy/Jump_Heavy_EndAnimation.Jump_Heavy_EndAnimation Referenced by AnimGraphNode_SequencePlayer_1
+[2020.05.28-04.54.31:564][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Heavy/Jump_Heavy_EndAnimation' while loading NULL.
+[2020.05.28-04.54.31:565][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Heavy/Fire_Shotgun_Hip'
+[2020.05.28-04.54.31:565][  0]LoadErrors: Failed to load /Game/AnimRetargets/Heavy/Fire_Shotgun_Hip.Fire_Shotgun_Hip Referenced by AnimGraphNode_SequencePlayer_2
+[2020.05.28-04.54.31:565][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Heavy/Fire_Shotgun_Hip' while loading NULL.
+[2020.05.28-04.54.31:566][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Pistol/Death_Ironsights_1'
+[2020.05.28-04.54.31:566][  0]LoadErrors: Failed to load /Game/AnimRetargets/Pistol/Death_Ironsights_1.Death_Ironsights_1 Referenced by AnimGraphNode_SequencePlayer_0
+[2020.05.28-04.54.31:566][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Pistol/Death_Ironsights_1' while loading NULL.
+[2020.05.28-04.54.31:567][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/Death_Ironsights_2'
+[2020.05.28-04.54.31:567][  0]LoadErrors: Failed to load /Game/AnimRetargets/Rifle/Death_Ironsights_2.Death_Ironsights_2 Referenced by AnimGraphNode_SequencePlayer_1
+[2020.05.28-04.54.31:567][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/Death_Ironsights_2' while loading NULL.
+[2020.05.28-04.54.31:568][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Heavy/Death_3'
+[2020.05.28-04.54.31:568][  0]LoadErrors: Failed to load /Game/AnimRetargets/Heavy/Death_3.Death_3 Referenced by AnimGraphNode_SequencePlayer_2
+[2020.05.28-04.54.31:568][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Heavy/Death_3' while loading NULL.
+[2020.05.28-04.54.31:568][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Heavy/Reload_Rifle_Hip'
+[2020.05.28-04.54.31:568][  0]LoadErrors: Failed to load /Game/AnimRetargets/Heavy/Reload_Rifle_Hip.Reload_Rifle_Hip Referenced by AnimGraphNode_SequencePlayer_3
+[2020.05.28-04.54.31:569][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Heavy/Reload_Rifle_Hip' while loading NULL.
+[2020.05.28-04.54.31:570][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/Reload_Rifle_Ironsights'
+[2020.05.28-04.54.31:570][  0]LoadErrors: Failed to load /Game/AnimRetargets/Rifle/Reload_Rifle_Ironsights.Reload_Rifle_Ironsights Referenced by AnimGraphNode_SequencePlayer_4
+[2020.05.28-04.54.31:570][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/Reload_Rifle_Ironsights' while loading NULL.
+[2020.05.28-04.54.31:571][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Pistol/Reload_Pistol'
+[2020.05.28-04.54.31:571][  0]LoadErrors: Failed to load /Game/AnimRetargets/Pistol/Reload_Pistol.Reload_Pistol Referenced by AnimGraphNode_SequencePlayer_5
+[2020.05.28-04.54.31:571][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Pistol/Reload_Pistol' while loading NULL.
+[2020.05.28-04.54.31:573][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/Idle_Rifle_Ironsights'
+[2020.05.28-04.54.31:573][  0]LoadErrors: Failed to load /Game/AnimRetargets/Rifle/Idle_Rifle_Ironsights.Idle_Rifle_Ironsights Referenced by AnimGraphNode_SequencePlayer_1
+[2020.05.28-04.54.31:573][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/Idle_Rifle_Ironsights' while loading NULL.
+[2020.05.28-04.54.32:284][  0]LogBlueprint: Error: [Compiler SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint] Play (None)  references an unknown sequence
+[2020.05.28-04.54.32:284][  0]LogBlueprint: Error: [Compiler SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint] Play (None)  references an unknown sequence
+[2020.05.28-04.54.32:284][  0]LogBlueprint: Error: [Compiler SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint] Play (None)  references an unknown sequence
+[2020.05.28-04.54.32:285][  0]LogBlueprint: Error: [Compiler SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint] Play (None)  references an unknown sequence
+[2020.05.28-04.54.32:286][  0]LogBlueprint: Error: [Compiler SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint] Play (None)  references an unknown sequence
+[2020.05.28-04.54.32:286][  0]LogBlueprint: Error: [Compiler SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint] Play (None)  references an unknown sequence
+[2020.05.28-04.54.32:287][  0]LogBlueprint: Error: [Compiler SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint] Blendspace Player '(None)'  references an unknown blend space
+[2020.05.28-04.54.32:287][  0]LogBlueprint: Error: [Compiler SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint] Blendspace Player '(None)'  references an unknown blend space
+[2020.05.28-04.54.32:287][  0]LogBlueprint: Error: [Compiler SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint] Play (None)  references an unknown sequence
+[2020.05.28-04.54.32:288][  0]LogBlueprint: Error: [Compiler SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint] Play (None)  references an unknown sequence
+[2020.05.28-04.54.32:288][  0]LogBlueprint: Error: [Compiler SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint] Play (None)  references an unknown sequence
+[2020.05.28-04.54.32:289][  0]LogBlueprint: Error: [Compiler SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint] Blendspace Player '(None)'  references an unknown blend space
+[2020.05.28-04.54.32:289][  0]LogBlueprint: Error: [Compiler SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint] Blendspace Player '(None)'  references an unknown blend space
+[2020.05.28-04.54.32:289][  0]LogBlueprint: Error: [Compiler SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint] Play (None)  references an unknown sequence
+[2020.05.28-04.54.32:290][  0]LogBlueprint: Error: [Compiler SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint] Play (None)  references an unknown sequence
+[2020.05.28-04.54.32:290][  0]LogBlueprint: Error: [Compiler SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint] Play (None)  references an unknown sequence
+[2020.05.28-04.54.32:290][  0]LogBlueprint: Error: [Compiler SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint] Play (None)  references an unknown sequence
+[2020.05.28-04.54.32:290][  0]LogBlueprint: Error: [Compiler SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint] Play (None)  references an unknown sequence
+[2020.05.28-04.54.32:291][  0]LogBlueprint: Error: [Compiler SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint] Play (None)  references an unknown sequence
+[2020.05.28-04.54.32:291][  0]LogBlueprint: Error: [Compiler SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint] Play (None)  references an unknown sequence
+[2020.05.28-04.54.32:291][  0]LogBlueprint: Error: [Compiler SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint] Play (None)  references an unknown sequence
+[2020.05.28-04.54.32:291][  0]LogBlueprint: Error: [Compiler SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint] Play (None)  references an unknown sequence
+[2020.05.28-04.54.32:292][  0]LogBlueprint: Error: [Compiler SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint] Play (None)  references an unknown sequence
+[2020.05.28-04.54.32:306][  0]LogBlueprint: Error: [Compiler SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint] Missing allocated node for AnimGraphNode_SequencePlayer_3 while searching for node links - likely due to the node having outstanding errors.
+[2020.05.28-04.54.32:306][  0]LogBlueprint: Error: [Compiler SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint] Missing allocated node for AnimGraphNode_SequencePlayer_4 while searching for node links - likely due to the node having outstanding errors.
+[2020.05.28-04.54.32:306][  0]LogBlueprint: Error: [Compiler SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint] Missing allocated node for AnimGraphNode_SequencePlayer_5 while searching for node links - likely due to the node having outstanding errors.
+[2020.05.28-04.54.32:306][  0]LogBlueprint: Error: [Compiler SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint] Missing allocated node for AnimGraphNode_SequencePlayer_7 while searching for node links - likely due to the node having outstanding errors.
+[2020.05.28-04.54.32:306][  0]LogBlueprint: Error: [Compiler SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint] Missing allocated node for AnimGraphNode_SequencePlayer_6 while searching for node links - likely due to the node having outstanding errors.
+[2020.05.28-04.54.32:306][  0]LogBlueprint: Error: [Compiler SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint] Missing allocated node for AnimGraphNode_SequencePlayer_8 while searching for node links - likely due to the node having outstanding errors.
+[2020.05.28-04.54.32:306][  0]LogBlueprint: Error: [Compiler SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint] Missing allocated node for AnimGraphNode_BlendSpacePlayer_0 while searching for node links - likely due to the node having outstanding errors.
+[2020.05.28-04.54.32:306][  0]LogBlueprint: Error: [Compiler SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint] Missing allocated node for AnimGraphNode_BlendSpacePlayer_0 while searching for node links - likely due to the node having outstanding errors.
+[2020.05.28-04.54.32:306][  0]LogBlueprint: Error: [Compiler SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint] Missing allocated node for AnimGraphNode_SequencePlayer_9 while searching for node links - likely due to the node having outstanding errors.
+[2020.05.28-04.54.32:306][  0]LogBlueprint: Error: [Compiler SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint] Missing allocated node for AnimGraphNode_SequencePlayer_10 while searching for node links - likely due to the node having outstanding errors.
+[2020.05.28-04.54.32:306][  0]LogBlueprint: Error: [Compiler SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint] Missing allocated node for AnimGraphNode_BlendSpacePlayer_1 while searching for node links - likely due to the node having outstanding errors.
+[2020.05.28-04.54.32:306][  0]LogBlueprint: Error: [Compiler SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint] Missing allocated node for AnimGraphNode_BlendSpacePlayer_1 while searching for node links - likely due to the node having outstanding errors.
+[2020.05.28-04.54.32:306][  0]LogBlueprint: Error: [Compiler SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint] Missing allocated node for AnimGraphNode_SequencePlayer_0 while searching for node links - likely due to the node having outstanding errors.
+[2020.05.28-04.54.32:306][  0]LogBlueprint: Error: [Compiler SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint] Missing allocated node for AnimGraphNode_SequencePlayer_1 while searching for node links - likely due to the node having outstanding errors.
+[2020.05.28-04.54.32:306][  0]LogBlueprint: Error: [Compiler SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint] Missing allocated node for AnimGraphNode_SequencePlayer_2 while searching for node links - likely due to the node having outstanding errors.
+[2020.05.28-04.54.32:306][  0]LogBlueprint: Error: [Compiler SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint] Missing allocated node for AnimGraphNode_SequencePlayer_0 while searching for node links - likely due to the node having outstanding errors.
+[2020.05.28-04.54.32:307][  0]LogBlueprint: Error: [Compiler SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint] Missing allocated node for AnimGraphNode_SequencePlayer_1 while searching for node links - likely due to the node having outstanding errors.
+[2020.05.28-04.54.32:307][  0]LogBlueprint: Error: [Compiler SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint] Missing allocated node for AnimGraphNode_SequencePlayer_2 while searching for node links - likely due to the node having outstanding errors.
+[2020.05.28-04.54.32:307][  0]LogBlueprint: Error: [Compiler SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint] Missing allocated node for AnimGraphNode_SequencePlayer_3 while searching for node links - likely due to the node having outstanding errors.
+[2020.05.28-04.54.32:307][  0]LogBlueprint: Error: [Compiler SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint] Missing allocated node for AnimGraphNode_SequencePlayer_4 while searching for node links - likely due to the node having outstanding errors.
+[2020.05.28-04.54.32:307][  0]LogBlueprint: Error: [Compiler SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint] Missing allocated node for AnimGraphNode_SequencePlayer_5 while searching for node links - likely due to the node having outstanding errors.
+[2020.05.28-04.54.32:307][  0]LogBlueprint: Error: [Compiler SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint] Missing allocated node for AnimGraphNode_SequencePlayer_1 while searching for node links - likely due to the node having outstanding errors.
+[2020.05.28-04.54.32:447][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] InputAction Event references unknown Action 'Crouch' for  InputAction Crouch
+[2020.05.28-04.54.32:578][  0]LogBlueprint: Warning: [Compiler SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint] [0011.60] Compile of SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint failed. 45 Fatal Issue(s) 0 Warning(s) [in 449 ms] (/Game/SciFi_Space_Soldier/MeshesEpicSkeleton/SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint.SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint)
+[2020.05.28-04.54.32:578][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] [0011.60] Compile of Ue4ASP_Character successful, but with 1 Warning(s) [in 448 ms] (/Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character)
+[2020.05.28-04.54.32:583][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Heavy/BS_WalkHeavy'
+[2020.05.28-04.54.32:583][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Heavy/BS_WalkHeavy' while loading NULL.
+[2020.05.28-04.54.32:583][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Heavy/Death_3'
+[2020.05.28-04.54.32:583][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Heavy/Death_3' while loading NULL.
+[2020.05.28-04.54.32:583][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Heavy/Fire_Shotgun_Hip'
+[2020.05.28-04.54.32:583][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Heavy/Fire_Shotgun_Hip' while loading NULL.
+[2020.05.28-04.54.32:583][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Heavy/Jump_Heavy_BeginAnimation'
+[2020.05.28-04.54.32:583][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Heavy/Jump_Heavy_BeginAnimation' while loading NULL.
+[2020.05.28-04.54.32:584][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Heavy/Jump_Heavy_EndAnimation'
+[2020.05.28-04.54.32:584][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Heavy/Jump_Heavy_EndAnimation' while loading NULL.
+[2020.05.28-04.54.32:584][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Heavy/Reload_Rifle_Hip'
+[2020.05.28-04.54.32:584][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Heavy/Reload_Rifle_Hip' while loading NULL.
+[2020.05.28-04.54.32:584][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Pistol/Death_Ironsights_1'
+[2020.05.28-04.54.32:584][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Pistol/Death_Ironsights_1' while loading NULL.
+[2020.05.28-04.54.32:584][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Pistol/Reload_Pistol'
+[2020.05.28-04.54.32:584][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Pistol/Reload_Pistol' while loading NULL.
+[2020.05.28-04.54.32:584][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Pistol/W1_Jog_Aim_F_Jump_RU_End_IPC'
+[2020.05.28-04.54.32:585][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Pistol/W1_Jog_Aim_F_Jump_RU_End_IPC' while loading NULL.
+[2020.05.28-04.54.32:585][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Pistol/W1_Jog_Aim_F_Loop_IPC'
+[2020.05.28-04.54.32:585][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Pistol/W1_Jog_Aim_F_Loop_IPC' while loading NULL.
+[2020.05.28-04.54.32:585][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Pistol/W1_Stand_Aim_Jump_End_IPC'
+[2020.05.28-04.54.32:585][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Pistol/W1_Stand_Aim_Jump_End_IPC' while loading NULL.
+[2020.05.28-04.54.32:585][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Pistol/W1_Stand_Aim_Jump_Start_IPC'
+[2020.05.28-04.54.32:585][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Pistol/W1_Stand_Aim_Jump_Start_IPC' while loading NULL.
+[2020.05.28-04.54.32:585][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Pistol/W1_Stand_Fire_Single'
+[2020.05.28-04.54.32:585][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Pistol/W1_Stand_Fire_Single' while loading NULL.
+[2020.05.28-04.54.32:585][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/BS_RunRifle'
+[2020.05.28-04.54.32:586][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/BS_RunRifle' while loading NULL.
+[2020.05.28-04.54.32:586][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/BS_WalkRifle'
+[2020.05.28-04.54.32:586][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/BS_WalkRifle' while loading NULL.
+[2020.05.28-04.54.32:586][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/Death_Ironsights_2'
+[2020.05.28-04.54.32:586][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/Death_Ironsights_2' while loading NULL.
+[2020.05.28-04.54.32:586][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/Fire_Rifle_Ironsights'
+[2020.05.28-04.54.32:586][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/Fire_Rifle_Ironsights' while loading NULL.
+[2020.05.28-04.54.32:586][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/Idle_Rifle_Ironsights'
+[2020.05.28-04.54.32:587][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/Idle_Rifle_Ironsights' while loading NULL.
+[2020.05.28-04.54.32:587][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/Jog_Rifle_JumpBeginAnimation'
+[2020.05.28-04.54.32:587][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/Jog_Rifle_JumpBeginAnimation' while loading NULL.
+[2020.05.28-04.54.32:587][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/Jog_Rifle_JumpEndAnimation'
+[2020.05.28-04.54.32:587][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/Jog_Rifle_JumpEndAnimation' while loading NULL.
+[2020.05.28-04.54.32:587][  0]LogLinker: Warning: Can't find file '/Game/AnimRetargets/Rifle/Reload_Rifle_Ironsights'
+[2020.05.28-04.54.32:587][  0]LogLinker: Warning: Can't find file for asset '/Game/AnimRetargets/Rifle/Reload_Rifle_Ironsights' while loading NULL.
+[2020.05.28-04.54.34:008][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/Rifle_ReloadInsert_Cue.Rifle_ReloadInsert_Cue:SoundCueGraph_9.SoundCueGraphNode_121' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:008][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/Rifle_ReloadInsert_Cue.Rifle_ReloadInsert_Cue:SoundCueGraph_9.SoundCueGraphNode_122' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:008][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/Rifle_ReloadInsert_Cue.Rifle_ReloadInsert_Cue:SoundCueGraph_9.SoundCueGraphNode_123' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:008][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/Rifle_ReloadInsert_Cue.Rifle_ReloadInsert_Cue:SoundCueGraph_9.SoundCueGraphNode_Root_9' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:012][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/Rifle_Reload_Cue.Rifle_Reload_Cue:SoundCueGraph_9.SoundCueGraphNode_116' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:012][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/Rifle_Reload_Cue.Rifle_Reload_Cue:SoundCueGraph_9.SoundCueGraphNode_117' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:012][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/Rifle_Reload_Cue.Rifle_Reload_Cue:SoundCueGraph_9.SoundCueGraphNode_118' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:012][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/Rifle_Reload_Cue.Rifle_Reload_Cue:SoundCueGraph_9.SoundCueGraphNode_119' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:012][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/Rifle_Reload_Cue.Rifle_Reload_Cue:SoundCueGraph_9.SoundCueGraphNode_123' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:012][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/Rifle_Reload_Cue.Rifle_Reload_Cue:SoundCueGraph_9.SoundCueGraphNode_Root_9' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:023][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.EdGraphNode_Comment_1' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:023][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.EdGraphNode_Comment_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:023][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_126' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:023][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_127' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:023][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_128' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:023][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_129' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:023][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_130' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:023][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_131' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:023][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_132' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:023][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_133' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:023][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_134' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:023][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_135' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:023][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_136' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:023][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_137' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:023][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_138' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:024][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_139' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:024][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:024][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_90' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:024][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Rifle/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_Root_11' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:388][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.EdGraphNode_Comment_1' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:388][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.EdGraphNode_Comment_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:388][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:388][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_55' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:388][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_56' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:388][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_57' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:388][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_58' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:388][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_59' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:388][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_60' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:388][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_61' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:389][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_62' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:389][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_63' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:389][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_64' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:389][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_65' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:389][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_66' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:389][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_67' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:389][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_68' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:389][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_90' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:389][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_Root_43' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.05.28-04.54.34:603][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.05.28-04.54.34:679][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.28-04.54.34:741][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2020.05.28-04.54.34:741][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.28-04.54.34:742][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.353ms to complete.
+[2020.05.28-04.54.34:742][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 3.791
+[2020.05.28-04.54.34:871][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.28-04.54.34:878][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.28-04.54.34:886][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.28-04.54.34:894][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.28-04.54.34:900][  0]LogCollectionManager: Loaded 0 collections in 0.000950 seconds
+[2020.05.28-04.54.34:929][  0]LogFileCache: Scanning file cache for directory 'D:/FCFM/8vo Semestre/Videojuegos 3/VJ3-Master/MapProject 4.22/Saved/Collections/' took 0.01s
+[2020.05.28-04.54.34:929][  0]LogFileCache: Scanning file cache for directory 'D:/FCFM/8vo Semestre/Videojuegos 3/VJ3-Master/MapProject 4.22/Content/Developers/FabrizioCruz/Collections/' took 0.00s
+[2020.05.28-04.54.34:929][  0]LogFileCache: Scanning file cache for directory 'D:/FCFM/8vo Semestre/Videojuegos 3/VJ3-Master/MapProject 4.22/Content/Collections/' took 0.01s
+[2020.05.28-04.54.34:929][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.05.28-04.54.34:939][  0]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 2759 classes and 672 folders.
+[2020.05.28-04.54.34:947][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2020.05.28-04.54.34:955][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.28-04.54.34:958][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.28-04.54.34:961][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.28-04.54.34:963][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.28-04.54.34:966][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.28-04.54.34:968][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.28-04.54.34:970][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.28-04.54.34:973][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.28-04.54.34:975][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.28-04.54.34:977][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.28-04.54.34:979][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.28-04.54.34:982][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.28-04.54.34:984][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.28-04.54.34:986][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.28-04.54.34:989][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.28-04.54.34:991][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.28-04.54.34:993][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.28-04.54.34:995][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.28-04.54.34:997][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.28-04.54.34:999][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.28-04.54.35:002][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.28-04.54.35:004][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.28-04.54.35:006][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.28-04.54.35:008][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.28-04.54.35:010][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.28-04.54.35:012][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.28-04.54.35:097][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2020.05.28-04.54.35:106][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0013 seconds. Added 1 classes and 2 folders.
+[2020.05.28-04.54.35:230][  0]LogSlate: Took 0.000320 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.28-04.54.35:235][  0]LogSlate: Took 0.000441 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.28-04.54.35:240][  0]LogSlate: Took 0.001664 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.28-04.54.35:316][  0]LogRenderer: Reallocating scene render targets to support 976x368 Format 10 NumSamples 1 (Frame:1).
+[2020.05.28-04.54.35:461][  0]LogSlate: Took 0.001839 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.28-04.54.35:587][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0014 seconds. Added 0 classes and 0 folders.
+[2020.05.28-04.54.35:587][  0]LogLoad: (Engine Initialization) Total time: 14.61 seconds
+[2020.05.28-04.54.35:587][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.28-04.54.35:673][  0]LogAssetRegistry: Asset discovery search completed in 10.2473 seconds
+[2020.05.28-04.54.35:675][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.05.28-04.54.35:675][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000050 seconds (updated 0 objects)
+[2020.05.28-04.54.35:676][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2020.05.28-04.54.35:696][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.28-04.54.36:664][  4]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.28-04.54.36:668][  4]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Weapons/WeaponBase_bp.WeaponBase_bp
+[2020.05.28-04.54.36:923][  4]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0015 seconds. Added 121 classes and 0 folders.
+[2020.05.28-04.54.37:765][  4]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Weapons/AssaultRifle_bp.AssaultRifle_bp
+[2020.05.28-04.54.38:132][  4]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.28-04.54.38:538][  4]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/AnimRetargets/BS_WalkPistol.BS_WalkPistol
+[2020.05.28-04.54.38:541][  4]LogBlueprintActionDatabase: Requesting refresh due to module change: AnimationEditor (loaded)
+[2020.05.28-04.54.38:547][  4]LogBlueprintActionDatabase: Requesting refresh due to module change: SkeletonEditor (loaded)
+[2020.05.28-04.54.38:548][  4]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0015 seconds. Added 1 classes and 2 folders.
+[2020.05.28-04.54.38:754][  4]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.28-04.54.38:756][  4]LogBlueprintActionDatabase: Requesting refresh due to module change: PinnedCommandList (loaded)
+[2020.05.28-04.54.38:757][  4]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0013 seconds. Added 1 classes and 0 folders.
+[2020.05.28-04.54.38:796][  4]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.05.28-04.54.38:922][  4]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/SciFi_Space_Soldier/MeshesEpicSkeleton/SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint.SK_SciFi_Space_Soldier_EpicSkel_Skeleton_AnimBlueprint
+[2020.05.28-04.54.38:943][  4]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.28-04.54.39:300][  4]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.05.28-04.54.40:017][  4]LogSlate: Took 0.001864 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.28-04.54.40:275][  4]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.05.28-04.54.40:335][  4]LogRenderer: Reallocating scene render targets to support 976x400 Format 10 NumSamples 1 (Frame:1).
+[2020.05.28-04.54.40:335][  4]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.05.28-04.54.41:034][  7]LogFileCache: Retrieving MD5 hashes for directory 'D:/FCFM/8vo Semestre/Videojuegos 3/VJ3-Master/MapProject 4.22/Content/' took 5.41s
+[2020.05.28-04.54.53:664][294]LogRenderer: Reallocating scene render targets to support 976x440 Format 10 NumSamples 1 (Frame:272).
+[2020.05.28-04.54.54:583][349]LogSlate: Window 'BS_WalkPistol' being destroyed
+[2020.05.28-04.56.20:029][475]LogSlate: Window 'Message Log' being destroyed
+[2020.05.28-04.56.20:035][475]LogSlate: Window 'Message Log' being destroyed
+[2020.05.28-04.57.08:546][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.28-04.57.15:922][654]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.28-04.57.21:693][986]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.28-04.57.21:965][996]LogUObjectHash: Compacting FUObjectHashTables data took   7.43ms
+[2020.05.28-04.57.23:144][996]LogSavePackage: Moving '../../../../../../FCFM/8vo Semestre/Videojuegos 3/VJ3-Master/MapProject 4.22/Saved/FirstPersonExampleMapB285B5A24DC608BF8B6B318A2A07FCB0.tmp' to '../../../../../../FCFM/8vo Semestre/Videojuegos 3/VJ3-Master/MapProject 4.22/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.05.28-04.58.13:085][664]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2020.05.28-04.58.13:251][664]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.28-04.58.13:321][664]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.28-04.58.13:747][664]LogSlate: Window 'Vis2 - Unreal Editor' being destroyed
+[2020.05.28-04.58.13:750][664]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.28-04.58.13:975][665]Cmd: QUIT_EDITOR
+[2020.05.28-04.58.14:034][665]LogExit: Preparing to exit.
+[2020.05.28-04.58.14:827][665]LogExit: Editor shut down
+[2020.05.28-04.58.14:828][665]LogExit: Transaction tracking system shut down
+[2020.05.28-04.58.15:308][665]LogExit: Object subsystem successfully closed.
+[2020.05.28-04.58.15:339][665]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.05.28-04.58.15:344][665]LogD3D11RHI: Shutdown
+[2020.05.28-04.58.15:345][665]LogD3D11RHI: CleanupD3DDevice
+[2020.05.28-04.58.15:345][665]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.05.28-04.58.15:345][665]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.05.28-04.58.15:345][665]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.05.28-04.58.15:345][665]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.05.28-04.58.15:345][665]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.05.28-04.58.15:345][665]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.05.28-04.58.15:562][665]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.05.28-04.58.15:605][665]LogModuleManager: Shutting down and abandoning module PinnedCommandList (658)
+[2020.05.28-04.58.15:605][665]LogModuleManager: Shutting down and abandoning module SkeletonEditor (656)
+[2020.05.28-04.58.15:605][665]LogModuleManager: Shutting down and abandoning module AnimationEditor (654)
+[2020.05.28-04.58.15:605][665]LogModuleManager: Shutting down and abandoning module BlueprintGraph (652)
+[2020.05.28-04.58.15:605][665]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (650)
+[2020.05.28-04.58.15:605][665]LogModuleManager: Shutting down and abandoning module SceneOutliner (648)
+[2020.05.28-04.58.15:605][665]LogModuleManager: Shutting down and abandoning module AddContentDialog (646)
+[2020.05.28-04.58.15:605][665]LogModuleManager: Shutting down and abandoning module WidgetCarousel (645)
+[2020.05.28-04.58.15:605][665]LogModuleManager: Shutting down and abandoning module EditorWidgets (642)
+[2020.05.28-04.58.15:605][665]LogModuleManager: Shutting down and abandoning module CollectionManager (640)
+[2020.05.28-04.58.15:606][665]LogModuleManager: Shutting down and abandoning module StatsViewer (638)
+[2020.05.28-04.58.15:606][665]LogModuleManager: Shutting down and abandoning module FoliageEdit (636)
+[2020.05.28-04.58.15:606][665]LogModuleManager: Shutting down and abandoning module LandscapeEditor (634)
+[2020.05.28-04.58.15:606][665]LogModuleManager: Shutting down and abandoning module MeshPaintMode (632)
+[2020.05.28-04.58.15:606][665]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (630)
+[2020.05.28-04.58.15:606][665]LogModuleManager: Shutting down and abandoning module ActorPickerMode (628)
+[2020.05.28-04.58.15:606][665]LogModuleManager: Shutting down and abandoning module GeometryMode (626)
+[2020.05.28-04.58.15:606][665]LogModuleManager: Shutting down and abandoning module TextureAlignMode (624)
+[2020.05.28-04.58.15:606][665]LogModuleManager: Shutting down and abandoning module BspMode (622)
+[2020.05.28-04.58.15:606][665]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (620)
+[2020.05.28-04.58.15:606][665]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (618)
+[2020.05.28-04.58.15:606][665]LogModuleManager: Shutting down and abandoning module AutomationWorker (616)
+[2020.05.28-04.58.15:606][665]LogModuleManager: Shutting down and abandoning module OculusMR (614)
+[2020.05.28-04.58.15:606][665]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (612)
+[2020.05.28-04.58.15:606][665]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (610)
+[2020.05.28-04.58.15:606][665]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (608)
+[2020.05.28-04.58.15:606][665]LogModuleManager: Shutting down and abandoning module PlacementMode (607)
+[2020.05.28-04.58.15:606][665]LogModuleManager: Shutting down and abandoning module MaterialEditor (606)
+[2020.05.28-04.58.15:606][665]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (602)
+[2020.05.28-04.58.15:606][665]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (600)
+[2020.05.28-04.58.15:606][665]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (598)
+[2020.05.28-04.58.15:606][665]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (596)
+[2020.05.28-04.58.15:606][665]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (594)
+[2020.05.28-04.58.15:606][665]LogModuleManager: Shutting down and abandoning module WebMMedia (592)
+[2020.05.28-04.58.15:606][665]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (590)
+[2020.05.28-04.58.15:606][665]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (588)
+[2020.05.28-04.58.15:606][665]LogModuleManager: Shutting down and abandoning module SequenceRecorder (587)
+[2020.05.28-04.58.15:606][665]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (584)
+[2020.05.28-04.58.15:606][665]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (582)
+[2020.05.28-04.58.15:606][665]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (580)
+[2020.05.28-04.58.15:606][665]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (578)
+[2020.05.28-04.58.15:606][665]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (576)
+[2020.05.28-04.58.15:606][665]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (574)
+[2020.05.28-04.58.15:606][665]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (572)
+[2020.05.28-04.58.15:606][665]LogModuleManager: Shutting down and abandoning module GraphFormatter (570)
+[2020.05.28-04.58.15:606][665]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (568)
+[2020.05.28-04.58.15:607][665]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (566)
+[2020.05.28-04.58.15:607][665]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (564)
+[2020.05.28-04.58.15:607][665]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (562)
+[2020.05.28-04.58.15:607][665]LogModuleManager: Shutting down and abandoning module CharacterAI (560)
+[2020.05.28-04.58.15:607][665]LogModuleManager: Shutting down and abandoning module SmartSnapping (558)
+[2020.05.28-04.58.15:607][665]LogModuleManager: Shutting down and abandoning module SessionServices (556)
+[2020.05.28-04.58.15:607][665]LogModuleManager: Shutting down and abandoning module MeshPaint (554)
+[2020.05.28-04.58.15:607][665]LogModuleManager: Shutting down and abandoning module ViewportSnapping (552)
+[2020.05.28-04.58.15:607][665]LogModuleManager: Shutting down and abandoning module ViewportInteraction (550)
+[2020.05.28-04.58.15:607][665]LogModuleManager: Shutting down and abandoning module ClothPainter (548)
+[2020.05.28-04.58.15:607][665]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (547)
+[2020.05.28-04.58.15:607][665]LogModuleManager: Shutting down and abandoning module LogVisualizer (544)
+[2020.05.28-04.58.15:607][665]LogModuleManager: Shutting down and abandoning module IntroTutorials (542)
+[2020.05.28-04.58.15:607][665]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (541)
+[2020.05.28-04.58.15:607][665]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (538)
+[2020.05.28-04.58.15:607][665]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (536)
+[2020.05.28-04.58.15:607][665]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (534)
+[2020.05.28-04.58.15:607][665]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (532)
+[2020.05.28-04.58.15:607][665]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (531)
+[2020.05.28-04.58.15:912][665]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (528)
+[2020.05.28-04.58.15:912][665]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (526)
+[2020.05.28-04.58.15:912][665]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (524)
+[2020.05.28-04.58.15:912][665]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (522)
+[2020.05.28-04.58.15:912][665]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (520)
+[2020.05.28-04.58.15:912][665]LogModuleManager: Shutting down and abandoning module InputBindingEditor (518)
+[2020.05.28-04.58.15:913][665]LogModuleManager: Shutting down and abandoning module MergeActors (516)
+[2020.05.28-04.58.15:913][665]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (514)
+[2020.05.28-04.58.15:913][665]LogModuleManager: Shutting down and abandoning module LocalizationService (513)
+[2020.05.28-04.58.15:913][665]LogModuleManager: Shutting down and abandoning module HardwareTargeting (510)
+[2020.05.28-04.58.15:913][665]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (508)
+[2020.05.28-04.58.15:913][665]LogModuleManager: Shutting down and abandoning module UndoHistory (506)
+[2020.05.28-04.58.15:913][665]LogModuleManager: Shutting down and abandoning module XmlParser (504)
+[2020.05.28-04.58.15:913][665]LogModuleManager: Shutting down and abandoning module Blutility (502)
+[2020.05.28-04.58.15:913][665]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (500)
+[2020.05.28-04.58.15:913][665]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (499)
+[2020.05.28-04.58.15:913][665]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (496)
+[2020.05.28-04.58.15:913][665]LogModuleManager: Shutting down and abandoning module SettingsEditor (494)
+[2020.05.28-04.58.15:913][665]LogModuleManager: Shutting down and abandoning module ProjectLauncher (492)
+[2020.05.28-04.58.15:913][665]LogModuleManager: Shutting down and abandoning module SessionFrontend (490)
+[2020.05.28-04.58.15:913][665]LogModuleManager: Shutting down and abandoning module ProfilerClient (488)
+[2020.05.28-04.58.15:913][665]LogModuleManager: Shutting down and abandoning module DeviceManager (486)
+[2020.05.28-04.58.15:913][665]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (485)
+[2020.05.28-04.58.15:968][665]LogModuleManager: Shutting down and abandoning module AutomationController (482)
+[2020.05.28-04.58.15:968][665]LogModuleManager: Shutting down and abandoning module AutomationWindow (480)
+[2020.05.28-04.58.15:968][665]LogModuleManager: Shutting down and abandoning module Layers (478)
+[2020.05.28-04.58.15:968][665]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (476)
+[2020.05.28-04.58.15:968][665]LogModuleManager: Shutting down and abandoning module DetailCustomizations (474)
+[2020.05.28-04.58.15:968][665]LogModuleManager: Shutting down and abandoning module PackagesDialog (472)
+[2020.05.28-04.58.15:968][665]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (470)
+[2020.05.28-04.58.15:968][665]LogModuleManager: Shutting down and abandoning module Persona (468)
+[2020.05.28-04.58.15:968][665]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (467)
+[2020.05.28-04.58.15:968][665]LogModuleManager: Shutting down and abandoning module AnimGraph (465)
+[2020.05.28-04.58.15:968][665]LogModuleManager: Shutting down and abandoning module Kismet (462)
+[2020.05.28-04.58.15:975][665]LogModuleManager: Shutting down and abandoning module GraphEditor (460)
+[2020.05.28-04.58.15:975][665]LogModuleManager: Shutting down and abandoning module ClassViewer (458)
+[2020.05.28-04.58.15:975][665]LogModuleManager: Shutting down and abandoning module Toolbox (456)
+[2020.05.28-04.58.15:975][665]LogModuleManager: Shutting down and abandoning module ModuleUI (454)
+[2020.05.28-04.58.15:975][665]LogModuleManager: Shutting down and abandoning module MovieSceneTools (452)
+[2020.05.28-04.58.15:976][665]LogModuleManager: Shutting down and abandoning module OutputLog (450)
+[2020.05.28-04.58.15:976][665]LogModuleManager: Shutting down and abandoning module GammaUI (448)
+[2020.05.28-04.58.15:976][665]LogModuleManager: Shutting down and abandoning module Documentation (446)
+[2020.05.28-04.58.15:976][665]LogModuleManager: Shutting down and abandoning module LiveCoding (444)
+[2020.05.28-04.58.15:976][665]LogModuleManager: Shutting down and abandoning module LevelSequence (442)
+[2020.05.28-04.58.15:976][665]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (440)
+[2020.05.28-04.58.15:976][665]LogModuleManager: Shutting down and abandoning module MovieScene (438)
+[2020.05.28-04.58.15:976][665]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (436)
+[2020.05.28-04.58.15:976][665]LogModuleManager: Shutting down and abandoning module LauncherPlatform (434)
+[2020.05.28-04.58.15:976][665]LogModuleManager: Shutting down and abandoning module AnalyticsET (432)
+[2020.05.28-04.58.15:976][665]LogModuleManager: Shutting down and abandoning module PortalServices (430)
+[2020.05.28-04.58.15:976][665]LogModuleManager: Shutting down and abandoning module PortalRpc (428)
+[2020.05.28-04.58.15:976][665]LogModuleManager: Shutting down and abandoning module MessagingRpc (426)
+[2020.05.28-04.58.15:976][665]LogModuleManager: Shutting down and abandoning module AIModule (424)
+[2020.05.28-04.58.15:976][665]LogModuleManager: Shutting down and abandoning module GameplayDebugger (423)
+[2020.05.28-04.58.15:976][665]LogModuleManager: Shutting down and abandoning module AITestSuite (421)
+[2020.05.28-04.58.15:976][665]LogModuleManager: Shutting down and abandoning module NavigationSystem (419)
+[2020.05.28-04.58.15:976][665]LogModuleManager: Shutting down and abandoning module DesktopPlatform (416)
+[2020.05.28-04.58.15:976][665]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (414)
+[2020.05.28-04.58.15:980][665]LogModuleManager: Shutting down and abandoning module ProfilerService (412)
+[2020.05.28-04.58.16:064][665]LogModuleManager: Shutting down and abandoning module TaskGraph (410)
+[2020.05.28-04.58.16:064][665]LogModuleManager: Shutting down and abandoning module SteamVRController (408)
+[2020.05.28-04.58.16:064][665]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (406)
+[2020.05.28-04.58.16:065][665]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (404)
+[2020.05.28-04.58.16:065][665]LogModuleManager: Shutting down and abandoning module OculusEditor (402)
+[2020.05.28-04.58.16:065][665]LogModuleManager: Shutting down and abandoning module OculusInput (400)
+[2020.05.28-04.58.16:065][665]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (398)
+[2020.05.28-04.58.16:065][665]LogModuleManager: Shutting down and abandoning module EditableMesh (396)
+[2020.05.28-04.58.16:065][665]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (394)
+[2020.05.28-04.58.16:065][665]LogModuleManager: Shutting down and abandoning module CableComponent (392)
+[2020.05.28-04.58.16:065][665]LogModuleManager: Shutting down and abandoning module AudioCapture (390)
+[2020.05.28-04.58.16:065][665]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (388)
+[2020.05.28-04.58.16:065][665]LogModuleManager: Shutting down and abandoning module AndroidPermission (386)
+[2020.05.28-04.58.16:065][665]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (384)
+[2020.05.28-04.58.16:065][665]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (382)
+[2020.05.28-04.58.16:065][665]LogModuleManager: Shutting down and abandoning module MediaCompositing (380)
+[2020.05.28-04.58.16:065][665]LogModuleManager: Shutting down and abandoning module LinearTimecode (378)
+[2020.05.28-04.58.16:065][665]LogModuleManager: Shutting down and abandoning module ImgMedia (376)
+[2020.05.28-04.58.16:065][665]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (374)
+[2020.05.28-04.58.16:065][665]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (372)
+[2020.05.28-04.58.16:065][665]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (370)
+[2020.05.28-04.58.16:065][665]LogModuleManager: Shutting down and abandoning module HTML5Networking (368)
+[2020.05.28-04.58.16:065][665]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (366)
+[2020.05.28-04.58.16:065][665]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (364)
+[2020.05.28-04.58.16:065][665]LogModuleManager: Shutting down and abandoning module BackChannel (362)
+[2020.05.28-04.58.16:065][665]LogModuleManager: Shutting down and abandoning module AppleVision (360)
+[2020.05.28-04.58.16:065][665]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (358)
+[2020.05.28-04.58.16:065][665]LogModuleManager: Shutting down and abandoning module AppleImageUtils (356)
+[2020.05.28-04.58.16:065][665]LogModuleManager: Shutting down and abandoning module AlembicImporter (354)
+[2020.05.28-04.58.16:065][665]LogModuleManager: Shutting down and abandoning module AlembicLibrary (353)
+[2020.05.28-04.58.16:065][665]LogModuleManager: Shutting down and abandoning module GeometryCache (352)
+[2020.05.28-04.58.16:065][665]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (351)
+[2020.05.28-04.58.16:065][665]LogModuleManager: Shutting down and abandoning module VariantManagerContent (346)
+[2020.05.28-04.58.16:065][665]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (344)
+[2020.05.28-04.58.16:065][665]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (342)
+[2020.05.28-04.58.16:065][665]LogModuleManager: Shutting down and abandoning module PluginBrowser (340)
+[2020.05.28-04.58.16:065][665]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (338)
+[2020.05.28-04.58.16:065][665]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (336)
+[2020.05.28-04.58.16:065][665]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (334)
+[2020.05.28-04.58.16:065][665]LogModuleManager: Shutting down and abandoning module CryptoKeys (332)
+[2020.05.28-04.58.16:065][665]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (330)
+[2020.05.28-04.58.16:065][665]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (328)
+[2020.05.28-04.58.16:066][665]LogModuleManager: Shutting down and abandoning module UObjectPlugin (326)
+[2020.05.28-04.58.16:066][665]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (324)
+[2020.05.28-04.58.16:066][665]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (322)
+[2020.05.28-04.58.16:066][665]LogModuleManager: Shutting down and abandoning module GitSourceControl (320)
+[2020.05.28-04.58.16:066][665]LogModuleManager: Shutting down and abandoning module SourceControl (319)
+[2020.05.28-04.58.16:066][665]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (316)
+[2020.05.28-04.58.16:066][665]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (314)
+[2020.05.28-04.58.16:066][665]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (312)
+[2020.05.28-04.58.16:066][665]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (310)
+[2020.05.28-04.58.16:066][665]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2020.05.28-04.58.16:066][665]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2020.05.28-04.58.16:066][665]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2020.05.28-04.58.16:066][665]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2020.05.28-04.58.16:066][665]LogModuleManager: Shutting down and abandoning module SignificanceManager (300)
+[2020.05.28-04.58.16:066][665]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2020.05.28-04.58.16:066][665]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2020.05.28-04.58.16:066][665]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2020.05.28-04.58.16:066][665]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (292)
+[2020.05.28-04.58.16:066][665]LogModuleManager: Shutting down and abandoning module ActorSequence (290)
+[2020.05.28-04.58.16:066][665]LogModuleManager: Shutting down and abandoning module UdpMessaging (288)
+[2020.05.28-04.58.16:167][665]LogModuleManager: Shutting down and abandoning module TcpMessaging (286)
+[2020.05.28-04.58.16:267][665]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (284)
+[2020.05.28-04.58.16:267][665]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (282)
+[2020.05.28-04.58.16:267][665]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (280)
+[2020.05.28-04.58.16:267][665]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (278)
+[2020.05.28-04.58.16:267][665]LogModuleManager: Shutting down and abandoning module MagicLeapController (276)
+[2020.05.28-04.58.16:267][665]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.05.28-04.58.16:267][665]LogModuleManager: Shutting down and abandoning module MagicLeapAR (274)
+[2020.05.28-04.58.16:267][665]LogModuleManager: Shutting down and abandoning module AugmentedReality (273)
+[2020.05.28-04.58.16:267][665]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (270)
+[2020.05.28-04.58.16:267][665]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (268)
+[2020.05.28-04.58.16:267][665]LogModuleManager: Shutting down and abandoning module FacialAnimation (266)
+[2020.05.28-04.58.16:267][665]LogModuleManager: Shutting down and abandoning module DataValidation (264)
+[2020.05.28-04.58.16:267][665]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (262)
+[2020.05.28-04.58.16:267][665]LogModuleManager: Shutting down and abandoning module LevelEditor (261)
+[2020.05.28-04.58.16:268][665]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (260)
+[2020.05.28-04.58.16:268][665]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (258)
+[2020.05.28-04.58.16:268][665]LogModuleManager: Shutting down and abandoning module MainFrame (256)
+[2020.05.28-04.58.16:268][665]LogModuleManager: Shutting down and abandoning module HotReload (255)
+[2020.05.28-04.58.16:269][665]LogModuleManager: Shutting down and abandoning module ContentBrowser (251)
+[2020.05.28-04.58.16:269][665]LogModuleManager: Shutting down and abandoning module TreeMap (249)
+[2020.05.28-04.58.16:269][665]LogModuleManager: Shutting down and abandoning module AnimationSharing (246)
+[2020.05.28-04.58.16:269][665]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2020.05.28-04.58.16:269][665]LogModuleManager: Shutting down and abandoning module AISupportModule (242)
+[2020.05.28-04.58.16:269][665]LogModuleManager: Shutting down and abandoning module AdvancedSteamSessions (240)
+[2020.05.28-04.58.16:269][665]LogModuleManager: Shutting down and abandoning module AdvancedSessions (238)
+[2020.05.28-04.58.16:269][665]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2020.05.28-04.58.16:270][665]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2020.05.28-04.58.16:270][665]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (232)
+[2020.05.28-04.58.16:270][665]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2020.05.28-04.58.16:270][665]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2020.05.28-04.58.16:270][665]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2020.05.28-04.58.16:270][665]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2020.05.28-04.58.16:270][665]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2020.05.28-04.58.16:270][665]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2020.05.28-04.58.16:270][665]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2020.05.28-04.58.16:270][665]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2020.05.28-04.58.16:270][665]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2020.05.28-04.58.16:270][665]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2020.05.28-04.58.16:270][665]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2020.05.28-04.58.16:270][665]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2020.05.28-04.58.16:270][665]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2020.05.28-04.58.16:270][665]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2020.05.28-04.58.16:270][665]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2020.05.28-04.58.16:270][665]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2020.05.28-04.58.16:270][665]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2020.05.28-04.58.16:270][665]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2020.05.28-04.58.16:270][665]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2020.05.28-04.58.16:270][665]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2020.05.28-04.58.16:272][665]LogModuleManager: Shutting down and abandoning module UnrealEd (188)
+[2020.05.28-04.58.16:272][665]LogModuleManager: Shutting down and abandoning module MRMesh (186)
+[2020.05.28-04.58.16:272][665]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (184)
+[2020.05.28-04.58.16:272][665]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (182)
+[2020.05.28-04.58.16:272][665]LogModuleManager: Shutting down and abandoning module XAudio2 (180)
+[2020.05.28-04.58.16:272][665]LogModuleManager: Shutting down and abandoning module Networking (178)
+[2020.05.28-04.58.16:272][665]LogModuleManager: Shutting down and abandoning module Core (176)
+[2020.05.28-04.58.16:272][665]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2020.05.28-04.58.16:272][665]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2020.05.28-04.58.16:272][665]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2020.05.28-04.58.16:272][665]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2020.05.28-04.58.16:272][665]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (169)
+[2020.05.28-04.58.16:272][665]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (167)
+[2020.05.28-04.58.16:272][665]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2020.05.28-04.58.16:272][665]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2020.05.28-04.58.16:272][665]LogModuleManager: Shutting down and abandoning module DerivedDataCache (156)
+[2020.05.28-04.58.16:297][665]LogDerivedDataCache: Shutdown
+[2020.05.28-04.58.16:297][665]LogModuleManager: Shutting down and abandoning module XGEController (154)
+[2020.05.28-04.58.16:297][665]LogModuleManager: Shutting down and abandoning module TargetPlatform (152)
+[2020.05.28-04.58.16:297][665]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (151)
+[2020.05.28-04.58.16:297][665]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (149)
+[2020.05.28-04.58.16:297][665]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (147)
+[2020.05.28-04.58.16:298][665]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (145)
+[2020.05.28-04.58.16:298][665]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (143)
+[2020.05.28-04.58.16:298][665]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (141)
+[2020.05.28-04.58.16:298][665]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (139)
+[2020.05.28-04.58.16:298][665]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (137)
+[2020.05.28-04.58.16:298][665]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (135)
+[2020.05.28-04.58.16:298][665]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (133)
+[2020.05.28-04.58.16:298][665]LogModuleManager: Shutting down and abandoning module ImageWrapper (132)
+[2020.05.28-04.58.16:298][665]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (129)
+[2020.05.28-04.58.16:298][665]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (127)
+[2020.05.28-04.58.16:298][665]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (125)
+[2020.05.28-04.58.16:298][665]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (123)
+[2020.05.28-04.58.16:298][665]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (121)
+[2020.05.28-04.58.16:299][665]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2020.05.28-04.58.16:299][665]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2020.05.28-04.58.16:299][665]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2020.05.28-04.58.16:299][665]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2020.05.28-04.58.16:299][665]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2020.05.28-04.58.16:299][665]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2020.05.28-04.58.16:299][665]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2020.05.28-04.58.16:300][665]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2020.05.28-04.58.16:300][665]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2020.05.28-04.58.16:305][665]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (101)
+[2020.05.28-04.58.16:305][665]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (99)
+[2020.05.28-04.58.16:305][665]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (97)
+[2020.05.28-04.58.16:305][665]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (95)
+[2020.05.28-04.58.16:305][665]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (93)
+[2020.05.28-04.58.16:305][665]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (91)
+[2020.05.28-04.58.16:305][665]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (89)
+[2020.05.28-04.58.16:305][665]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (87)
+[2020.05.28-04.58.16:305][665]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (85)
+[2020.05.28-04.58.16:305][665]LogModuleManager: Shutting down and abandoning module InputCore (82)
+[2020.05.28-04.58.16:305][665]LogModuleManager: Shutting down and abandoning module Settings (80)
+[2020.05.28-04.58.16:305][665]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (78)
+[2020.05.28-04.58.16:306][665]LogModuleManager: Shutting down and abandoning module PhysXCooking (76)
+[2020.05.28-04.58.16:306][665]LogModuleManager: Shutting down and abandoning module SteamVR (74)
+[2020.05.28-04.58.16:306][665]LogHMD: Freeing OpenVRDLLHandle.
+[2020.05.28-04.58.16:306][665]LogModuleManager: Shutting down and abandoning module OculusHMD (72)
+[2020.05.28-04.58.16:306][665]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (70)
+[2020.05.28-04.58.16:306][665]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (68)
+[2020.05.28-04.58.16:306][665]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (66)
+[2020.05.28-04.58.16:306][665]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (62)
+[2020.05.28-04.58.16:307][665]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2020.05.28-04.58.16:307][665]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2020.05.28-04.58.16:336][665]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2020.05.28-04.58.16:336][665]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.05.28-04.58.16:336][665]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0A9FBB75-4FC4-536B-ACB5-55A870781A4C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.2-6574378%2B%2B%2BUE4%2BRelease-4.22&UserID=bc312f1640c47f88eb7fb994daf09c7e%7Cc47135b49597451aa56ca7a893d650b7%7Cf3dc5d27-cdc5-4501-99af-830d3c9b6573&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.05.28-04.58.16:365][665]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2020.05.28-04.58.16:367][665]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2020.05.28-04.58.16:368][665]LogModuleManager: Shutting down and abandoning module Media (45)
+[2020.05.28-04.58.16:375][665]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2020.05.28-04.58.16:375][665]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2020.05.28-04.58.16:375][665]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.05.28-04.58.16:375][665]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.05.28-04.58.16:375][665]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.05.28-04.58.16:375][665]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.05.28-04.58.16:375][665]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.05.28-04.58.16:375][665]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.05.28-04.58.16:376][665]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.05.28-04.58.16:376][665]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.05.28-04.58.16:376][665]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.05.28-04.58.16:376][665]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.05.28-04.58.16:376][665]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.05.28-04.58.16:376][665]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.05.28-04.58.16:376][665]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.05.28-04.58.16:376][665]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.05.28-04.58.16:376][665]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.05.28-04.58.16:376][665]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.05.28-04.58.16:376][665]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.05.28-04.58.16:376][665]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.05.28-04.58.16:376][665]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.05.28-04.58.16:385][665]LogExit: Exiting.
+[2020.05.28-04.58.16:405][665]Log file closed, 05/27/20 23:58:16
